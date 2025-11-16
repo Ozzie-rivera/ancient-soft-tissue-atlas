@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./Explore.css";
 import ImageCard from "../components/ImageCard";
+import { imageData } from "../data/imageData";
 
 
 function Explore() {
@@ -8,35 +9,9 @@ function Explore() {
     const [species, setSpecies] = useState("");
     const [tissue, setTissue] = useState("");
     const [eon, setEon] = useState("");
+    const [textQuery, setTextQuery] = useState("");
 
     const [results, setResults] = useState([]);
-
-    const placeholderResults = [
-        {
-            id: 1,
-            species: "Triceratops",
-            tissue: "Bone",
-            eon: "Mesozoic",
-            imageUrl: "https://placehold.co/200x200?text=Triceratops+Bone",
-            photographer: "Jim Solliday"
-        },
-        {
-            id: 2, 
-            species: "T-Rex",
-            tissue: "Collagen",
-            eon: "Mesozoic",
-            imageUrl: "https://placehold.co/200x200?text=T-Rex+Collagen",
-            photographer: "Jim Solliday",
-        },
-        {
-            id: 3, 
-            species: "Permian Organism",
-            tissue: "Red Blood Cells",
-            eon: "Paleozoic",
-            imageUrl: "https://placehold.co/200x200?text=Permian+Cells",
-            photographer: "Jim Solliday",
-        }
-    ];
 
     const handleSearch = () => {
         console.log("Selected filters:");
@@ -44,16 +19,30 @@ function Explore() {
         console.log("tissue:", tissue);
         console.log("Eon:", eon);
 
-    const filtered = placeholderResults.filter((item) => {
-        return (
-            (species === "" || item.species === species) &&
-            (tissue === "" || item.tissue === tissue) &&
-            (eon === "" || item.eon === eon)
-        );
-    });
+        const filtered = imageData.filter((item) => {
+            const matchesFilters = (
+                (species === "" || item.species === species) &&
+                (tissue === "" || item.tissue === tissue) &&
+                (eon === "" || item.eon === eon)
+            );
 
-        //To show all place holder images for now
-        setResults(filtered);
+            const q = textQuery.trim().toLowerCase();
+            const matchesText = q === "" || (
+                (item.description && item.description.toLowerCase().includes(q)) ||
+                (item.species && item.species.toLowerCase().includes(q)) ||
+                (item.tissue && item.tissue.toLowerCase().includes(q))
+            );
+
+            return matchesFilters && matchesText;
+        });
+
+        // Map imageData to include the full image URL path
+        const resultsWithUrls = filtered.map((item) => ({
+            ...item,
+            imageUrl: `/newimages/${item.filename}`
+        }));
+
+        setResults(resultsWithUrls);
     };
     
 
@@ -96,6 +85,18 @@ function Explore() {
             </label>
             <br />
 
+            <label>
+                Search text: {" "}
+                <input
+                    type="text"
+                    placeholder="search descriptions, species, tissue..."
+                    value={textQuery}
+                    onChange={(e) => setTextQuery(e.target.value)}
+                    style={{ width: "320px" }}
+                />
+            </label>
+            <br />
+
 
             <button onClick={handleSearch}>Search</button>
 
@@ -103,11 +104,12 @@ function Explore() {
                 {results.map((item) => (
                     <ImageCard
                         key={item.id}
+                        id={item.id}
                         imageUrl={item.imageUrl}
                         species={item.species}
                         tissue={item.tissue}
                         eon={item.eon}
-                        photographer={item.photographer}
+                        description={item.description}
                     />
                 ))}
             </div>
