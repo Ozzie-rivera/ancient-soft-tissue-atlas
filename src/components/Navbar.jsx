@@ -8,7 +8,7 @@ function NavBar() {
 
     return (
         <nav className="navbar">
-            <div className="navbar-logo">ASTA</div>
+            <div className="navbar-logo">Ancient Soft Tissue Atlas</div>
 
             {/* Toggle button for mobile */}
             <div className="navbar-toggle" onClick={() => setIsOpen(!isOpen)}>
