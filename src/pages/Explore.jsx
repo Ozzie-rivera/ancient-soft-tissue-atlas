@@ -2,13 +2,9 @@ import { useState } from "react";
 import "./Explore.css";
 import ImageCard from "../components/ImageCard";
 import { imageData } from "../data/imageData2";
-
+import JSZip from "jszip";
 
 function Explore() {
-    // initial state
-    // const initialState = { species: "", eon: "", tissue: "", site: "", description: "", results: [] };
-    // const [state, setState] = React.useState(initialState);
-
     const allspecies = [...new Set(imageData.map(row => row.species))].sort();
     const eons = [...new Set(imageData.map(row => row.eon))].sort();
     const tissues = [...new Set(imageData.map(row => row.tissue))].sort();
@@ -58,7 +54,71 @@ function Explore() {
 
         setResults(resultsWithUrls);
     };
-    
+
+    // Convert results to CSV format
+    const convertToCSV = (rows) => {
+        if (!rows || rows.length === 0) return "";
+
+        const headers = Object.keys(rows[0]);
+        const csvRows = [];
+
+        // header line
+        csvRows.push(headers.join(","));
+
+        // data lines
+        for (const row of rows) {
+            const values = headers.map(h => JSON.stringify(row[h] ?? ""));
+            csvRows.push(values.join(","));
+        }
+
+        return csvRows.join("\n");
+    };
+
+    // Trigger browser download
+    const downloadCSV = () => {
+        const csv = convertToCSV(results);
+        const blob = new Blob([csv], { type: "text/csv" });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement("a");
+        a.href = url;
+        a.download = "explore_results.csv";
+        a.click();
+
+        URL.revokeObjectURL(url);
+    };
+  
+    // Download all result images as a ZIP file
+    const downloadImagesZip = async () => {
+        if (!results || results.length === 0) return;
+
+        const zip = new JSZip();
+        const folder = zip.folder("images");
+
+        for (const item of results) {
+            try {
+                const response = await fetch(item.imageUrl);
+                const blob = await response.blob();
+
+                // Use the filename if available
+                const filename = item.filename || item.imageUrl.split("/").pop();
+
+                folder.file(filename, blob);
+            } catch (err) {
+                console.error("Failed to fetch image:", item.imageUrl, err);
+            }
+        }
+
+        const content = await zip.generateAsync({ type: "blob" });
+
+        const a = document.createElement("a");
+        a.href = URL.createObjectURL(content);
+        a.download = "images.zip";
+        a.click();
+
+        URL.revokeObjectURL(a.href);
+    };
+
     const resetAll = () => {
         setSpecies("");
         setTissue("");
@@ -139,6 +199,12 @@ function Explore() {
 
             <button onClick={handleSearch}>Search</button>
             <button onClick={resetAll}>Reset</button>
+            <button onClick={downloadCSV} disabled={results.length === 0}>
+                Download CSV
+            </button>
+            <button onClick={downloadImagesZip} disabled={results.length === 0}>
+                Download Images ZIP
+            </button>
 
             <div>Number of hits: {nresults}</div>
 
