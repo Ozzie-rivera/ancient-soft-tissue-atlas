@@ -1,0 +1,146 @@
+.publications-container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.publications-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.publications-intro {
+    text-align: center;
+    color: #666;
+    margin-bottom: 40px;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+.publications-list {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.publication-item {
+    display: flex;
+    gap: 16px;
+    padding: 16px;
+    border-left: 4px solid #007bff;
+    background-color: #f9f9f9;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.publication-item:hover {
+    background-color: #f0f5ff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.publication-number {
+    flex-shrink: 0;
+    font-weight: bold;
+    color: #007bff;
+    font-size: 1.1em;
+    min-width: 40px;
+}
+
+.publication-content {
+    flex: 1;
+}
+
+.publication-main {
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+.authors {
+    font-weight: 600;
+    color: #333;
+}
+
+.year {
+    color: #555;
+    font-weight: 500;
+}
+
+.title {
+    color: #333;
+    font-weight: 500;
+}
+
+.journal {
+    color: #666;
+}
+
+.volume {
+    color: #666;
+}
+
+.publication-description {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 8px;
+    padding: 8px 0;
+}
+
+.publication-description strong {
+    color: #333;
+}
+
+.publication-age {
+    font-size: 0.95em;
+    color: #555;
+    margin-bottom: 8px;
+}
+
+.publication-age strong {
+    color: #333;
+}
+
+.publication-link {
+    margin-top: 12px;
+}
+
+.publication-link a {
+    display: inline-block;
+    color: #007bff;
+    text-decoration: none;
+    font-weight: 500;
+    padding: 6px 12px;
+    border-radius: 4px;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.publication-link a:hover {
+    background-color: #007bff;
+    color: white;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .publications-container {
+        padding: 20px 10px;
+    }
+
+    .publications-container h1 {
+        font-size: 2em;
+    }
+
+    .publication-item {
+        flex-direction: column;
+        gap: 8px;
+        padding: 12px;
+    }
+
+    .publication-number {
+        margin-bottom: 0;
+    }
+
+    .publication-main {
+        font-size: 0.95em;
+    }
+}
