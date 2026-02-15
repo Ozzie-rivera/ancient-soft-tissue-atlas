@@ -26,7 +26,7 @@ function Materials() {
             </section>
 
             <section>
-                <h2>Reference</h2>
+                <h2>References</h2>
                 <ol>
                     <li>Schweitzer, M.H. et al. (2005). Soft-Tissue Vessels and Cellular Preservation in Tyrannosaurus rex. <i>Science</i>, 307(5717): 1952–1955.</li>
                     <li>Cleland, T.P. et al. (2015). Mass spectrometry and antibody-based characterization of blood vessels from Brachylophosaurus canadensis. <i>Journal of Proteome Research</i>, 14(12): 5252–5262.</li>

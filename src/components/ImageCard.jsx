@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-function ImageCard({ id, imageUrl, species, tissue, eon, description }) {
+function ImageCard({ id, imageUrl, taxon, tissue, interval, description }) {
     const [expanded, setExpanded] = useState(false);
 
     const shortDesc = description
@@ -15,13 +15,13 @@ function ImageCard({ id, imageUrl, species, tissue, eon, description }) {
 
             <img
                 src={imageUrl}
-                alt={species + " tissue"}
+                alt={taxon + " tissue"}
                 style={{ width: "220px", height: "200px", objectFit: "cover" }} 
             />
 
-            <h3>{species}</h3>
+            <h3>{taxon}</h3>
             <p><strong>Tissue:</strong> {tissue}</p>
-            <p><strong>Eon:</strong> {eon}</p>
+            <p><strong>Interval:</strong> {interval}</p>
 
             {description && (
                 <div>
@@ -36,11 +36,23 @@ function ImageCard({ id, imageUrl, species, tissue, eon, description }) {
                 </div>
             )}
 
-            <div style={{ marginTop: 8 }}>
-                <Link to={`/image/${id}`} style={{ textDecoration: "none" }}>
-                    <button style={{ cursor: "pointer" }}>Details</button>
-                </Link>
-            </div>
+            <button
+            onClick={() => {
+                const width = 800;
+                const height = 600;
+                const left = window.screenX + (window.innerWidth - width) / 2;
+                const top = window.screenY + (window.innerHeight - height) / 2;
+
+                window.open(
+                `/image/${id}`,                    // URL to open
+                "_blank",                          // new tab/window
+                `width=${width},height=${height},left=${left},top=${top},resizable,scrollbars,noopener,noreferrer`
+                );
+            }}
+            style={{ cursor: "pointer" }}
+            >
+            Details
+            </button>
 
         </div>
     )
