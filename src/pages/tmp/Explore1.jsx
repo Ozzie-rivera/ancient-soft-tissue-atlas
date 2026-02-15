@@ -5,46 +5,34 @@ import { imageData } from "../data/imageData2";
 
 
 function Explore() {
-    // initial state
-    // const initialState = { species: "", eon: "", tissue: "", site: "", description: "", results: [] };
-    // const [state, setState] = React.useState(initialState);
-
-    const allspecies = [...new Set(imageData.map(row => row.species))].sort();
-    const eons = [...new Set(imageData.map(row => row.eon))].sort();
-    const tissues = [...new Set(imageData.map(row => row.tissue))].sort();
-    const sites = [...new Set(imageData.map(row => row.site))].sort();
+    //const species2 = [...new Set(imageData.map(row => row.species))];
+    const eons = [...new Set(imageData.map(row => row.eon))];
 
     const [species, setSpecies] = useState("");
     const [tissue, setTissue] = useState("");
     const [eon, setEon] = useState("");
-    const [site, setSite] = useState("");
     const [textQuery, setTextQuery] = useState("");
 
     const [results, setResults] = useState([]);
-    const nresults = results.length;
 
     const handleSearch = () => {
         console.log("Selected filters:");
         console.log("Species:", species);
         console.log("tissue:", tissue);
         console.log("Eon:", eon);
-        console.log("Site:", site);
 
         const filtered = imageData.filter((item) => {
             const matchesFilters = (
                 (species === "" || item.species === species) &&
                 (tissue === "" || item.tissue === tissue) &&
-                (eon === "" || item.eon === eon) &&
-                (site === "" || item.site === site)
+                (eon === "" || item.eon === eon)
             );
 
             const q = textQuery.trim().toLowerCase();
             const matchesText = q === "" || (
                 (item.description && item.description.toLowerCase().includes(q)) ||
                 (item.species && item.species.toLowerCase().includes(q)) ||
-                (item.tissue && item.tissue.toLowerCase().includes(q)) ||
-                (item.eon && item.eon.toLowerCase().includes(q)) ||
-                (item.site && item.site.toLowerCase().includes(q))
+                (item.tissue && item.tissue.toLowerCase().includes(q))
             );
 
             return matchesFilters && matchesText;
@@ -59,68 +47,44 @@ function Explore() {
         setResults(resultsWithUrls);
     };
     
-    const resetAll = () => {
-        setSpecies("");
-        setTissue("");
-        setEon("");
-        setSite("");
-        setTextQuery("");
-        setResults([]);
-    }; 
 
     return (
         <div>
             <h1>Explore the Atlas</h1>
-            
+
             <label>
                 Species:{" "}
                 <select value={species} onChange={(e) => setSpecies(e.target.value)}>
                     <option value="">--Select Species--</option>
-                        {allspecies.map((spec, index) => (
-                            <option key={index} value={spec}>
-                                {spec}
-                            </option>
-                        ))}
+                    <option value="Triceratops">Triceratops</option>
+                    <option value="T-Rex">T-Rex</option>
+                    <option value="Permian Organism">Permian Organism</option>
                 </select>
             </label>
             <br />
+
 
             <label>
                 Tissue:{" "}
                 <select value={tissue} onChange={(e) => setTissue(e.target.value)}>
                     <option value="">--Select Tissue--</option>
-                        {tissues.map((tissue, index) => (
-                            <option key={index} value={tissue}>
-                                {tissue}
-                            </option>
-                        ))}
+                    <option value="Bone">Bone</option>
+                    <option value="Red Blood Cells">Red Blood Cells</option>
+                    <option value="Collagen">Collagen</option>
                 </select>
             </label>
             <br />
+
 
             <label>
                 Eon:{" "}
                 <select value={eon} onChange={(e) => setEon(e.target.value)}>
                     <option value="">--Select Eon--</option>
-                        {eons.map((e, index) => (
-                            <option key={index} value={e}>
-                                {e}
-                            </option>
-                        ))}
-                      </select>
-            </label>
-            <br />
-
-            <label>
-                Site:{" "}
-                <select value={site} onChange={(e) => setSite(e.target.value)}>
-                    <option value="">--Select Site--</option>
-                        {sites.map((s, index) => (
-                            <option key={index} value={s}>
-                                {s}
-                            </option>
-                        ))}
-                      </select>
+                    <option value="Carboniferous">Carboniferous</option>
+                    <option value="Eocene">Eocene</option>
+                    <option value="Jurassic">Jurassic</option>
+                    <option value="Triassic">Triassic</option>
+                </select>
             </label>
             <br />
 
@@ -138,9 +102,6 @@ function Explore() {
 
 
             <button onClick={handleSearch}>Search</button>
-            <button onClick={resetAll}>Reset</button>
-
-            <div>Number of hits: {nresults}</div>
 
             <div style={{ display: "flex", flexWrap: "wrap", marginTop: "20px" }}>
                 {results.map((item) => (
