@@ -18,6 +18,7 @@ function NavBar() {
             <div className={`navbar-links ${isOpen ? "open" : ""}`}>
                 <Link to="/" className={location.pathname === "/" ? "active" : ""}>Home</Link>
                 <Link to="/explore" className={location.pathname === "/explore" ? "active" : ""}>Explore</Link>
+                <Link to="/statistics" className={location.pathname === "/statistics" ? "active" : ""}>Statistics</Link>
                 <Link to="/materials" className={location.pathname === "/materials" ? "active" : ""}>Materials</Link>
                 <Link to="/publications" className={location.pathname === "/publications" ? "active" : ""}>Publications</Link>
             </div>

@@ -1,0 +1,103 @@
+.statistics-container {
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.statistics-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.statistics-intro {
+    text-align: left;
+    color: #666;
+    margin-bottom: 40px;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+.statistics-list {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.statistics-content {
+    flex: 1;
+}
+
+.statistics-main {
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .statistics-container {
+        padding: 20px 10px;
+    }
+
+    .statistics-container h1 {
+        font-size: 2em;
+    }
+
+    .statistics-main {
+        font-size: 0.95em;
+    }
+}
+
+.histogram {
+    margin-top: 20px;
+}
+
+.histogram-bar-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.histogram-label {
+    width: 150px;
+    font-weight: bold;
+}
+
+.histogram-bar {
+    background-color: #4a90e2;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-align: right;
+}
+
+.taxon_histogram {
+    margin-top: 20px;
+}
+
+.taxon_histogram-bar-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.taxon_histogram-label {
+    width: 150px;
+    font-weight: bold;
+}
+
+.taxon_histogram-bar {
+    background-color: #880000;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-align: right;
+}
+
+.nim {
+    font-weight: bold;
+    white-space: nowrap;
+}
