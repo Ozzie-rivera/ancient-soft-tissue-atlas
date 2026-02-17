@@ -1,7 +1,22 @@
 import { imageData } from "../data/imageData3";
 import "./Statistics.css";
+import {
+  ComposableMap,
+  Geographies,
+  Geography
+} from "react-simple-maps";
+import { useState } from "react";
+
+const geoUrl = "https://cdn.jsdelivr.net/npm/world-atlas@2/countries-110m.json";
 
 function Statistics() {
+    // map hook
+    const [tooltip, setTooltip] = useState({
+        visible: false,
+        content: "",
+        x: 0,
+        y: 0
+    });
     // number of images
     const n_images = imageData.length;
     // Count occurrences of each interval
@@ -22,6 +37,27 @@ function Statistics() {
     const taxon_histogramData = Object.entries(taxonCounts).sort(
     ([, countA], [, countB]) => countB - countA
     );
+
+    // Count occurrences of each country
+    const countryCounts = imageData.reduce((acc, item) => {
+        let country = item.country || "Unknown";
+        if (country == "England") country = "United Kingdom";
+        if (country == "UK") country = "United Kingdom";
+        if (country == "USA") country = "United States of America";
+        acc[country] = (acc[country] || 0) + 1;
+        return acc;
+    }, {});
+
+    // Helper: get color based on count
+    const getColor = (countryName) => {
+        const count = countryCounts[countryName] || 0;
+
+        if (count > 20) return "#08306b";
+        if (count > 10) return "#2171b5";
+        if (count > 5) return "#6baed6";
+        if (count > 0) return "#c6dbef";
+        return "#EEE";
+    };
 
     return (
         <div className="statistics-container">
@@ -74,6 +110,76 @@ function Statistics() {
             </div>
             <br/>
 
+            <h3>Images per Country</h3>
+            <div className="map-container">
+                <ComposableMap projectionConfig={{ scale: 150 }}>
+                <Geographies geography={geoUrl}>
+                    {({ geographies }) =>
+                    geographies.map((geo) => {
+                        const countryName = geo.properties.name;
+                        return (
+                            <Geography
+                            key={geo.rsmKey}
+                            geography={geo}
+                            onMouseEnter={(evt) => {
+                                const countryName = geo.properties.name;
+                                const count = countryCounts[countryName] || 0;
+
+                                setTooltip({
+                                visible: true,
+                                content: `${countryName}: ${count} images`,
+                                x: evt.clientX,
+                                y: evt.clientY
+                                });
+                            }}
+                            onMouseMove={(evt) => {
+                                setTooltip((prev) => ({
+                                ...prev,
+                                x: evt.clientX,
+                                y: evt.clientY
+                                }));
+                            }}
+                            onMouseLeave={() => {
+                                setTooltip({
+                                visible: false,
+                                content: "",
+                                x: 0,
+                                y: 0
+                                });
+                            }}
+                            style={{
+                                default: {
+                                fill: getColor(geo.properties.name),
+                                outline: "none"
+                                },
+                                hover: {
+                                fill: "#f53",
+                                outline: "none"
+                                },
+                                pressed: {
+                                outline: "none"
+                                }
+                            }}
+                            />
+                        );
+                    })
+                    }
+                </Geographies>
+                </ComposableMap>
+
+                    {tooltip.visible && (
+                    <div
+                        className="map-tooltip"
+                        style={{
+                        left: tooltip.x + 10,
+                        top: tooltip.y + 10
+                        }}
+                    >
+                        {tooltip.content}
+                    </div>
+                    )}
+
+            </div>
 
         </div>
     );

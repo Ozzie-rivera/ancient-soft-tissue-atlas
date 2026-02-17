@@ -101,3 +101,26 @@
     font-weight: bold;
     white-space: nowrap;
 }
+
+.map-container {
+/*  max-width: 100%;
+  margin-top: 20px; */
+  position: relative;
+}
+
+svg {
+  width: 100%;
+  height: auto;
+}
+
+.map-tooltip {
+  position: fixed;
+  background: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  font-size: 14px;
+  pointer-events: none;
+  z-index: 1000;
+  white-space: nowrap;
+}
