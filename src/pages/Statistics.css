@@ -51,6 +51,8 @@
     }
 }
 
+/* interval */
+
 .histogram {
     margin-top: 20px;
 }
@@ -73,6 +75,8 @@
     border-radius: 4px;
     text-align: right;
 }
+
+/* taxon */
 
 .taxon_histogram {
     margin-top: 20px;
@@ -97,10 +101,39 @@
     text-align: right;
 }
 
+/* cell */
+
+.cell_histogram {
+    margin-top: 20px;
+}
+
+.cell_histogram-bar-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.cell_histogram-label {
+    width: 150px;
+    font-weight: bold;
+}
+
+.cell_histogram-bar {
+    background-color: #008800;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 4px;
+    text-align: right;
+}
+
+/* misc */
+
 .nim {
     font-weight: bold;
     white-space: nowrap;
 }
+
+/* map */
 
 .map-container {
 /*  max-width: 100%;

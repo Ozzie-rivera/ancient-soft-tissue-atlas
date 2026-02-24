@@ -37,6 +37,15 @@ function Statistics() {
     const taxon_histogramData = Object.entries(taxonCounts).sort(
     ([, countA], [, countB]) => countB - countA
     );
+    // Count occurrences of each cell type
+    const cellCounts = imageData.reduce((acc, cell) => {
+        const _cell = cell.cell || "Unknown";
+        acc[_cell] = (acc[_cell] || 0) + 1;
+        return acc;
+    }, {});
+    const cell_histogramData = Object.entries(cellCounts).sort(
+    ([, countA], [, countB]) => countB - countA
+    );
 
     // Count occurrences of each country
     const countryCounts = imageData.reduce((acc, item) => {
@@ -99,6 +108,24 @@ function Statistics() {
                         <span className="taxon_histogram-label">{taxon}</span>
                         <div
                             className="taxon_histogram-bar"
+                            style={{
+                                width: `${count * 20}px`
+                            }}
+                        >
+                            {count}
+                        </div>
+                    </div>
+                ))}
+            </div>
+            <br/>
+
+            <h3>Images per Cell Type</h3>
+            <div className="cell_histogram">
+                {cell_histogramData.map(([cell, count]) => (
+                    <div key={cell} className="cell_histogram-bar-container">
+                        <span className="cell_histogram-label">{cell}</span>
+                        <div
+                            className="cell_histogram-bar"
                             style={{
                                 width: `${count * 20}px`
                             }}
