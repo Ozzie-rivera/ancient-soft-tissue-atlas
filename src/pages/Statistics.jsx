@@ -60,11 +60,15 @@ function Statistics() {
     // Helper: get color based on count
     const getColor = (countryName) => {
         const count = countryCounts[countryName] || 0;
-
-        if (count > 20) return "#08306b";
-        if (count > 10) return "#2171b5";
-        if (count > 5) return "#6baed6";
-        if (count > 0) return "#c6dbef";
+        let ratio = Math.min(1,count/100);
+        //if (count > 100) return "#08306b";
+        //if (count > 20) return "#2171b5";
+        //if (count > 5) return "#6baed6";
+        //if (count > 0) return "#c6dbef";
+        const r = Math.round(200*(1-ratio));
+        const g = Math.round(200*(1-ratio));
+        const b = 255;
+        if (count > 0) return "#" + [r,g,b].map(v => v.toString(16).padStart(2,"0")).join("");
         return "#EEE";
     };
 

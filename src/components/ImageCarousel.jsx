@@ -17,7 +17,7 @@ function ImageCarousel() {
   };
 
   return (
-    <div style={{ width: "600px", margin: "auto" }}>
+    <div style={{ width: "400px", margin: "auto" }}>
       <Slider {...settings}>
         <div>
           <img src="/public/newimages/00016.jpg" width="100%" />
