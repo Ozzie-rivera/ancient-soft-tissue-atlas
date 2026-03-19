@@ -72,6 +72,8 @@ function Statistics() {
         return "#EEE";
     };
 
+    const maxCount = Math.max(...histogramData.map(([_, count]) => count));
+
     return (
         <div className="statistics-container">
             <h1>Statistics</h1>
@@ -95,7 +97,7 @@ function Statistics() {
                         <div
                             className="histogram-bar"
                             style={{
-                                width: `${count * 20}px`
+                                width: `${(count/maxCount)*100}%`
                             }}
                         >
                             {count}
@@ -113,7 +115,7 @@ function Statistics() {
                         <div
                             className="taxon_histogram-bar"
                             style={{
-                                width: `${count * 20}px`
+                                width: `${(count/maxCount)*100}%`
                             }}
                         >
                             {count}
@@ -131,7 +133,7 @@ function Statistics() {
                         <div
                             className="cell_histogram-bar"
                             style={{
-                                width: `${count * 20}px`
+                                width: `${(count/maxCount)*100}%`
                             }}
                         >
                             {count}
@@ -143,7 +145,7 @@ function Statistics() {
 
             <h3>Images per Country</h3>
             <div className="map-container">
-                <ComposableMap projectionConfig={{ scale: 150 }}>
+                <ComposableMap projectionConfig={{ scale: 200 }}>
                 <Geographies geography={geoUrl}>
                     {({ geographies }) =>
                     geographies.map((geo) => {
