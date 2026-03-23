@@ -90,21 +90,25 @@ function Statistics() {
             <br/>
 
             <h3>Images per Interval</h3>
-            <div className="histogram">
+                <div className="histogram">
                 {histogramData.map(([interval, count]) => (
                     <div key={interval} className="histogram-bar-container">
-                        <span className="histogram-label">{interval}</span>
+                    <span className="histogram-label">{interval}</span>
+
+                    <div className="histogram-bar-wrapper">
                         <div
-                            className="histogram-bar"
-                            style={{
-                                width: `${(count/maxCount)*100}%`
-                            }}
-                        >
-                            {count}
-                        </div>
+                        className="histogram-bar"
+                        style={{
+                            width: `${(count / maxCount) * 100}%`,
+                            backgroundColor: "#4a90e2"
+                        }}
+                        />
+                        <span className="histogram-count">{count}</span>
+                    </div>
+
                     </div>
                 ))}
-            </div>
+                </div>
             <br/>
 
             <h3>Images per Taxon</h3>
@@ -112,14 +116,17 @@ function Statistics() {
                 {taxon_histogramData.map(([taxon, count]) => (
                     <div key={taxon} className="taxon_histogram-bar-container">
                         <span className="taxon_histogram-label">{taxon}</span>
+                    <div className="histogram-bar-wrapper">
                         <div
-                            className="taxon_histogram-bar"
-                            style={{
-                                width: `${(count/maxCount)*100}%`
-                            }}
-                        >
-                            {count}
-                        </div>
+                        className="histogram-bar"
+                        style={{
+                            width: `${(count / maxCount) * 100}%`,
+                            backgroundColor: "#800000"
+                        }}
+                        />
+                        <span className="histogram-count">{count}</span>
+                    </div>
+
                     </div>
                 ))}
             </div>
@@ -130,14 +137,17 @@ function Statistics() {
                 {cell_histogramData.map(([cell, count]) => (
                     <div key={cell} className="cell_histogram-bar-container">
                         <span className="cell_histogram-label">{cell}</span>
+                    <div className="histogram-bar-wrapper">
                         <div
-                            className="cell_histogram-bar"
-                            style={{
-                                width: `${(count/maxCount)*100}%`
-                            }}
-                        >
-                            {count}
-                        </div>
+                        className="histogram-bar"
+                        style={{
+                            width: `${(count / maxCount) * 100}%`,
+                            backgroundColor: "#006400"
+                        }}
+                        />
+                        <span className="histogram-count">{count}</span>
+                    </div>
+
                     </div>
                 ))}
             </div>

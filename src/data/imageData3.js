@@ -19,7 +19,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "2",
@@ -40,7 +41,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "3",
@@ -61,7 +63,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "4",
@@ -82,7 +85,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "5",
@@ -103,7 +107,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "6",
@@ -124,7 +129,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "7",
@@ -145,7 +151,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "8",
@@ -166,7 +173,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "9",
@@ -187,7 +195,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "10",
@@ -208,7 +217,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "11",
@@ -229,7 +239,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "12",
@@ -250,7 +261,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "13",
@@ -271,7 +283,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "14",
@@ -292,7 +305,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "15",
@@ -313,7 +327,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "16",
@@ -334,7 +349,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "17",
@@ -355,7 +371,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "18",
@@ -376,7 +393,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "19",
@@ -397,7 +415,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "20",
@@ -418,7 +437,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "21",
@@ -439,7 +459,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "22",
@@ -460,7 +481,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "23",
@@ -481,7 +503,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "24",
@@ -502,7 +525,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "25",
@@ -523,7 +547,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "26",
@@ -544,7 +569,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "27",
@@ -565,7 +591,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "28",
@@ -586,7 +613,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "29",
@@ -607,7 +635,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "30",
@@ -628,7 +657,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "31",
@@ -649,7 +679,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "32",
@@ -670,7 +701,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "33",
@@ -691,7 +723,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "34",
@@ -712,7 +745,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "35",
@@ -733,7 +767,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "36",
@@ -754,7 +789,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "37",
@@ -775,7 +811,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "38",
@@ -796,7 +833,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "39",
@@ -817,7 +855,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "40",
@@ -838,7 +877,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "41",
@@ -859,7 +899,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "42",
@@ -880,7 +921,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "43",
@@ -901,7 +943,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "44",
@@ -922,7 +965,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "45",
@@ -943,7 +987,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "46",
@@ -964,7 +1009,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "47",
@@ -985,7 +1031,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "48",
@@ -1006,7 +1053,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "49",
@@ -1027,7 +1075,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "50",
@@ -1048,7 +1097,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "51",
@@ -1069,7 +1119,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "52",
@@ -1090,7 +1141,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "53",
@@ -1111,7 +1163,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "54",
@@ -1132,7 +1185,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "55",
@@ -1153,7 +1207,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "56",
@@ -1174,7 +1229,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "57",
@@ -1195,7 +1251,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "58",
@@ -1216,7 +1273,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "59",
@@ -1237,7 +1295,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "60",
@@ -1258,7 +1317,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "61",
@@ -1279,7 +1339,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "62",
@@ -1300,7 +1361,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "63",
@@ -1321,7 +1383,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "64",
@@ -1342,7 +1405,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "65",
@@ -1363,7 +1427,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "66",
@@ -1384,7 +1449,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "67",
@@ -1405,7 +1471,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "68",
@@ -1426,7 +1493,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "69",
@@ -1447,7 +1515,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "70",
@@ -1468,7 +1537,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "71",
@@ -1489,7 +1559,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "72",
@@ -1510,7 +1581,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "73",
@@ -1531,7 +1603,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "74",
@@ -1552,7 +1625,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "75",
@@ -1573,7 +1647,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "76",
@@ -1594,7 +1669,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "77",
@@ -1615,7 +1691,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "78",
@@ -1636,7 +1713,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "79",
@@ -1657,7 +1735,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "80",
@@ -1678,7 +1757,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "81",
@@ -1699,7 +1779,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "82",
@@ -1720,7 +1801,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "83",
@@ -1741,7 +1823,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "84",
@@ -1762,7 +1845,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "85",
@@ -1783,7 +1867,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "86",
@@ -1804,7 +1889,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "87",
@@ -1825,7 +1911,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "88",
@@ -1846,7 +1933,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "89",
@@ -1867,7 +1955,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "90",
@@ -1888,7 +1977,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "91",
@@ -1905,11 +1995,12 @@ export const imageData =
         "site": "bone bed",
         "location": "Avon",
         "country": "UK",
-        "description": "This fish tooth fragment is just one of many fossil Remnants found in a sample from the Aust Cliff, Bone Bed, UK, also known as the Rhaetic Bone Bed. Aust Cliff is located within Gloucestershire, near Avon, situated on the southern side of the Severn River Estuary. This is one of the most famous exposures of Triassic rocks in the world. Running diagonally through the image are what look like collagen but could also be Sharpey\u2019s fibers. The background is composted of fractured dentine.",
+        "description": "This fish tooth fragment is just one of many fossil Remnants found in a sample from the Aust Cliff, Bone Bed, UK, also known as the Rhaetic Bone Bed. Aust Cliff is located within Gloucestershire, near Avon, situated on the southern side of the Severn River Estuary. This is one of the most famous exposures of Triassic rocks in the world. Running diagonally through the image are what look like collagen but could also be Sharpey\u00e2\u20ac\u2122s fibers. The background is composted of fractured dentine.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "92",
@@ -1930,7 +2021,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "93",
@@ -1951,7 +2043,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "94",
@@ -1972,7 +2065,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "95",
@@ -1993,7 +2087,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "96",
@@ -2014,7 +2109,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "97",
@@ -2035,7 +2131,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "98",
@@ -2056,7 +2153,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "99",
@@ -2077,7 +2175,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "100",
@@ -2098,7 +2197,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "101",
@@ -2119,7 +2219,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "102",
@@ -2140,7 +2241,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "103",
@@ -2161,7 +2263,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "104",
@@ -2182,7 +2285,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "105",
@@ -2203,7 +2307,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "106",
@@ -2220,11 +2325,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a cross section cut through a tubercle that is part of the fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen in this microphotograph, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u2019s left of the predentin layer and it domites the central part of the image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts.",
+        "description": "This is a cross section cut through a tubercle that is part of the fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen in this microphotograph, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u00e2\u20ac\u2122s left of the predentin layer and it domites the central part of the image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "107",
@@ -2241,11 +2347,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a cross section cut through a tubercle that is part of a fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u2019s left of the predentin layer and it domites the central part of the image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts. Careful inspection will reveal very small predentin tubules or tiny perforations. These tubules once held the odontoblast processes that facilitate the deposition of dentin.",
+        "description": "This is a cross section cut through a tubercle that is part of a fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u00e2\u20ac\u2122s left of the predentin layer and it domites the central part of the image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts. Careful inspection will reveal very small predentin tubules or tiny perforations. These tubules once held the odontoblast processes that facilitate the deposition of dentin.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "108",
@@ -2262,11 +2369,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a cross section cut through a tubercle that is part of a fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u2019s left of the predentin layer and it domites this complete image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts. Careful inspection will reveal very small predentin tubules or tiny perforations. These tubules once held the odontoblast processes that facilitate the deposition of dentin. The predentin deposits are a very light brown and the vascular channels are a darker brown.",
+        "description": "This is a cross section cut through a tubercle that is part of a fish dermal skeleton. The tops of each tubercle have been removed leaving a clear view of the interl structure. Most of this dermal sample is composed of odontogenic tissues (dentin). In the center of this tubercle can be seen evidence of the histology inside the cavity. The pulp cavity itself cannot be seen, but the outer margins of the cavity can be seen as a cerebral looking pattern having a network of vascular channels. In the center and off to the left can be seen what looks like a permineralized blood vessel (white). This cerebrum looking feature is what\u00e2\u20ac\u2122s left of the predentin layer and it domites this complete image. Behind this feature is the primary pulp cavity which was once lined with odontoblasts. Careful inspection will reveal very small predentin tubules or tiny perforations. These tubules once held the odontoblast processes that facilitate the deposition of dentin. The predentin deposits are a very light brown and the vascular channels are a darker brown.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "109",
@@ -2287,7 +2395,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "110",
@@ -2308,7 +2417,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "111",
@@ -2329,7 +2439,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "112",
@@ -2350,7 +2461,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "113",
@@ -2371,7 +2483,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "114",
@@ -2392,7 +2505,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "115",
@@ -2413,7 +2527,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "116",
@@ -2434,7 +2549,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "117",
@@ -2455,7 +2571,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "118",
@@ -2476,7 +2593,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "119",
@@ -2497,7 +2615,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "120",
@@ -2518,7 +2637,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "121",
@@ -2539,7 +2659,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "122",
@@ -2560,7 +2681,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "123",
@@ -2581,7 +2703,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "124",
@@ -2602,7 +2725,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "125",
@@ -2623,7 +2747,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "126",
@@ -2644,7 +2769,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "127",
@@ -2665,7 +2791,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "128",
@@ -2686,7 +2813,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "129",
@@ -2707,7 +2835,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "130",
@@ -2728,7 +2857,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "131",
@@ -2749,7 +2879,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "132",
@@ -2770,7 +2901,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "133",
@@ -2791,7 +2923,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "134",
@@ -2812,7 +2945,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "135",
@@ -2833,7 +2967,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "136",
@@ -2854,7 +2989,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "137",
@@ -2875,7 +3011,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "138",
@@ -2896,7 +3033,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "139",
@@ -2917,7 +3055,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "140",
@@ -2938,7 +3077,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "141",
@@ -2959,7 +3099,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "142",
@@ -2980,7 +3121,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "143",
@@ -3001,7 +3143,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "144",
@@ -3022,7 +3165,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "145",
@@ -3043,7 +3187,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "146",
@@ -3064,7 +3209,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "147",
@@ -3085,7 +3231,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "148",
@@ -3106,14 +3253,15 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "149",
         "filename": "00149.jpg",
         "microscope_technology": "bright-field illumination",
         "magnification": "275",
-        "taxon": "Gyraconthus",
+        "taxon": "Gyracanthus",
         "sample_id": "",
         "cell": "osteocyte",
         "tissue": "skeletal tubercle",
@@ -3123,18 +3271,19 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "Fossil fish debris mounted in Carboniferous coal shale, the sample is labeled as a Gyraconthus, tubercle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically large compared to its body. They are considered closely related to the Chondrichthyans. There are a number of very large dark cells embedded in the dentine, they clearly posses caliculi with filipodia. They are considerably larger than typical lacuna and seen here within highly fibrillar dentine. To our knowledge, these cells are uncharacterized; however, one idea is the proposal that this is evidence for what I call a dentinogenic cell. In this case a type of independent odontoblast that remains mobile and fills in dentine in areas where open spaces are no longer required (a cell that patches up unfinished zones in the tubercle). The sample was found in Carboniferous English coal shale.",
+        "description": "Fossil fish debris mounted in Carboniferous coal shale, the sample is labeled as a Gyracanthus, tubercle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically large compared to its body. They are considered closely related to the Chondrichthyans. There are a number of very large dark cells embedded in the dentine, they clearly posses caliculi with filipodia. They are considerably larger than typical lacuna and seen here within highly fibrillar dentine. To our knowledge, these cells are uncharacterized; however, one idea is the proposal that this is evidence for what I call a dentinogenic cell. In this case a type of independent odontoblast that remains mobile and fills in dentine in areas where open spaces are no longer required (a cell that patches up unfinished zones in the tubercle). The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "150",
         "filename": "00150.jpg",
         "microscope_technology": "bright-field illumination",
         "magnification": "75",
-        "taxon": "Gyraconthus",
+        "taxon": "Gyracanthus",
         "sample_id": "",
         "cell": "",
         "tissue": "dentine",
@@ -3144,11 +3293,12 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "Fossil fish tooth mounted in Carboniferous coal shale, the sample is labeled as a Gyraconthus, denticle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically very large compared to its body. They are considered closely related to the Chondrichthyans. Down the central axis of the right branch is a vascular cal still packed with a fossil blood-clot. The sample was found in Carboniferous English coal shale.",
+        "description": "Fossil fish tooth mounted in Carboniferous coal shale, the sample is labeled as a Gyracanthus, denticle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically very large compared to its body. They are considered closely related to the Chondrichthyans. Down the central axis of the right branch is a vascular cal still packed with a fossil blood-clot. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "151",
@@ -3169,7 +3319,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "152",
@@ -3190,7 +3341,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "153",
@@ -3211,7 +3363,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "154",
@@ -3232,7 +3385,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "155",
@@ -3249,11 +3403,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a section through North English coal shale revealing scattered Remnants of Rhizodontida, a Carboniferous class of fish, (order; Rhizodontiformes). The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments consist of fish spines, scales, tusk and dermal skeletal tissues. A characteristic feature is that Rhizodonta have deeply rooted teeth and are rarely found articulated. In this small fragment are found exceptiolly preserved osteocytes, with clean caliculi still connected to surrounding companion cells. Inside the lacuna can be seen the process of decay in the early stage of protein separation. As peptides eventually brake down, the lighter fatty acids become separate from the darker nucleic acids. The surrounding and unbroken dense apatite continues to seal off and shielded the osteocytes from bacteria, H\u00b20, and oxygen. The coal shale also provides historically low oxygen content. However, Carboniferous cells should not have by any means survived the heat and radiation of this kind of extended geological time. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a section through North English coal shale revealing scattered Remnants of Rhizodontida, a Carboniferous class of fish, (order; Rhizodontiformes). The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments consist of fish spines, scales, tusk and dermal skeletal tissues. A characteristic feature is that Rhizodonta have deeply rooted teeth and are rarely found articulated. In this small fragment are found exceptiolly preserved osteocytes, with clean caliculi still connected to surrounding companion cells. Inside the lacuna can be seen the process of decay in the early stage of protein separation. As peptides eventually brake down, the lighter fatty acids become separate from the darker nucleic acids. The surrounding and unbroken dense apatite continues to seal off and shielded the osteocytes from bacteria, H\u00c2\u00b20, and oxygen. The coal shale also provides historically low oxygen content. However, Carboniferous cells should not have by any means survived the heat and radiation of this kind of extended geological time. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "156",
@@ -3274,7 +3429,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "157",
@@ -3295,7 +3451,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "158",
@@ -3316,7 +3473,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "159",
@@ -3337,7 +3495,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "160",
@@ -3358,7 +3517,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "161",
@@ -3379,7 +3539,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "162",
@@ -3400,7 +3561,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "163",
@@ -3421,7 +3583,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "164",
@@ -3442,7 +3605,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "165",
@@ -3463,7 +3627,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "166",
@@ -3484,7 +3649,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "167",
@@ -3505,7 +3671,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "168",
@@ -3526,7 +3693,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "169",
@@ -3547,7 +3715,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "170",
@@ -3568,7 +3737,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "171",
@@ -3589,7 +3759,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "172",
@@ -3610,7 +3781,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "173",
@@ -3631,7 +3803,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "174",
@@ -3652,7 +3825,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "175",
@@ -3673,7 +3847,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "176",
@@ -3694,7 +3869,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "177",
@@ -3715,7 +3891,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "178",
@@ -3736,7 +3913,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "179",
@@ -3757,7 +3935,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "180",
@@ -3778,7 +3957,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "181",
@@ -3799,7 +3979,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "182",
@@ -3820,7 +4001,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "183",
@@ -3841,7 +4023,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "184",
@@ -3862,7 +4045,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "185",
@@ -3883,7 +4067,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "186",
@@ -3904,7 +4089,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "187",
@@ -3925,7 +4111,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "188",
@@ -3946,7 +4133,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "189",
@@ -3967,7 +4155,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "190",
@@ -3988,7 +4177,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "191",
@@ -4009,7 +4199,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "192",
@@ -4030,7 +4221,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "193",
@@ -4051,7 +4243,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "194",
@@ -4072,7 +4265,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "195",
@@ -4093,7 +4287,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "196",
@@ -4114,7 +4309,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "197",
@@ -4135,7 +4331,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "198",
@@ -4156,7 +4353,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "199",
@@ -4173,11 +4371,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the ventral end that helps secure the tooth and is more bonelike than tooth shaped. The sample is from Carboniferous coal shale, Northumberland, UK. This is a bright-field image and should be compared with 4 other images illustrating the characteristic of pleochroism; see No\u2019s 200, 201 & 202.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the ventral end that helps secure the tooth and is more bonelike than tooth shaped. The sample is from Carboniferous coal shale, Northumberland, UK. This is a bright-field image and should be compared with 4 other images illustrating the characteristic of pleochroism; see No\u00e2\u20ac\u2122s 200, 201 & 202.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "200",
@@ -4194,11 +4393,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. This is a crossed-polarized light image and should be compared with 3 other images illustrating the characteristic of pleochroism; see No\u2019s 199, 201 & 202. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and retardation generated by the dual refraction of these active elements in the sample.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. This is a crossed-polarized light image and should be compared with 3 other images illustrating the characteristic of pleochroism; see No\u00e2\u20ac\u2122s 199, 201 & 202. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and retardation generated by the dual refraction of these active elements in the sample.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "201",
@@ -4215,11 +4415,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth, close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. It was illumited with crossed-polarized light and the addition of a first order red compensator. It should be compared with 3 other images that will illustrate the characteristic of pleochroism; see No\u2019s 199, 200 & 202. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and the first order red compensator which sets the background to the order of red. At this angle of rotation, some areas are blue-green and others red, if rotated 90 degrees the colors will switch illustrating the characteristic of pleochroism (see No.202 for the affect).",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth, close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. It was illumited with crossed-polarized light and the addition of a first order red compensator. It should be compared with 3 other images that will illustrate the characteristic of pleochroism; see No\u00e2\u20ac\u2122s 199, 200 & 202. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and the first order red compensator which sets the background to the order of red. At this angle of rotation, some areas are blue-green and others red, if rotated 90 degrees the colors will switch illustrating the characteristic of pleochroism (see No.202 for the affect).",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "202",
@@ -4236,11 +4437,12 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth, close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. It was illumited with crossed-polarized light with the addition of a first order red compensator. It should be compared with 3 other images that will illustrate the characteristic of pleochroism; see No\u2019s 199, 200 & 201. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and the first order red compensator which sets the background to the order of red. At this angle of rotation, some areas are blue-green and others red, if rotated 90 degrees the colors will switch illustrating the characteristic of pleochroism (see No.201 for the affect). Close inspection will reveal the dense birefringent collagen fibers embedded in the dentin.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a cross-section of a tiny tooth embedded in the coal. A dense network of dentin tubules can be seen radiating from the central zone. This section likely represents the dorsal end of the tooth, close to the tip. The sample is from Carboniferous coal shale, Northumberland, UK. It was illumited with crossed-polarized light with the addition of a first order red compensator. It should be compared with 3 other images that will illustrate the characteristic of pleochroism; see No\u00e2\u20ac\u2122s 199, 200 & 201. The bright areas illustrate birefringence generated by the collagen fibers and tooth apatite. The affect is produced by linear polarized light and the first order red compensator which sets the background to the order of red. At this angle of rotation, some areas are blue-green and others red, if rotated 90 degrees the colors will switch illustrating the characteristic of pleochroism (see No.201 for the affect). Close inspection will reveal the dense birefringent collagen fibers embedded in the dentin.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "203",
@@ -4257,11 +4459,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the bone ground to about 80\u00b5 thick. At this magnification more details within the structure of the spongy bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.  See No.204 for higher magnification",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the spongy bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.  See No.204 for higher magnification",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "204",
@@ -4278,11 +4481,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK. See No.203 for lower magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK. See No.203 for lower magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "205",
@@ -4299,11 +4503,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "206",
@@ -4320,11 +4525,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see the fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.207, 208 and 209 for higher magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see the fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.207, 208 and 209 for higher magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "207",
@@ -4341,11 +4547,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This thin- section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 208 and 209 for different magnifications.",
+        "description": "This thin- section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 208 and 209 for different magnifications.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "208",
@@ -4362,11 +4569,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (upper). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 209 for different magnifications.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (upper). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 209 for different magnifications.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "209",
@@ -4383,11 +4591,12 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00b5 thick. The domite feature is a section through a pulp cavity, represented by the darker zone (upper half). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it is exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 208 for lower magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through a pulp cavity, represented by the darker zone (upper half). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it is exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 208 for lower magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "210",
@@ -4408,7 +4617,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "211",
@@ -4429,7 +4639,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "212",
@@ -4450,7 +4661,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "213",
@@ -4471,7 +4683,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "214",
@@ -4492,7 +4705,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "215",
@@ -4513,7 +4727,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "216",
@@ -4534,7 +4749,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "217",
@@ -4555,7 +4771,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "218",
@@ -4576,7 +4793,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "219",
@@ -4597,7 +4815,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "220",
@@ -4618,7 +4837,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "221",
@@ -4639,7 +4859,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "222",
@@ -4660,7 +4881,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "223",
@@ -4681,7 +4903,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "224",
@@ -4702,7 +4925,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "225",
@@ -4723,7 +4947,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "226",
@@ -4744,7 +4969,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "227",
@@ -4765,7 +4991,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "228",
@@ -4786,7 +5013,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "229",
@@ -4807,7 +5035,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "230",
@@ -4828,7 +5057,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "231",
@@ -4849,7 +5079,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "232",
@@ -4870,7 +5101,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "233",
@@ -4891,7 +5123,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "234",
@@ -4912,7 +5145,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "235",
@@ -4933,7 +5167,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "236",
@@ -4954,7 +5189,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "237",
@@ -4975,7 +5211,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "238",
@@ -4996,7 +5233,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "239",
@@ -5017,7 +5255,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "240",
@@ -5038,7 +5277,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "": ""
     },
     {
         "id": "241",
@@ -5059,7 +5299,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "242",
@@ -5080,7 +5321,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "243",
@@ -5101,7 +5343,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "244",
@@ -5122,7 +5365,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "245",
@@ -5143,7 +5387,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "246",
@@ -5164,7 +5409,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "247",
@@ -5185,7 +5431,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "248",
@@ -5206,7 +5453,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "249",
@@ -5227,7 +5475,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "250",
@@ -5248,7 +5497,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "251",
@@ -5269,7 +5519,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "252",
@@ -5290,7 +5541,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "253",
@@ -5311,7 +5563,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "254",
@@ -5332,7 +5585,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "255",
@@ -5353,7 +5607,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "256",
@@ -5374,7 +5629,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "257",
@@ -5395,7 +5651,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "258",
@@ -5416,7 +5673,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "259",
@@ -5437,7 +5695,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "260",
@@ -5458,7 +5717,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "261",
@@ -5479,7 +5739,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "262",
@@ -5500,7 +5761,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "263",
@@ -5521,7 +5783,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "264",
@@ -5542,7 +5805,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "265",
@@ -5563,7 +5827,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "266",
@@ -5584,7 +5849,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "267",
@@ -5605,7 +5871,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "268",
@@ -5626,7 +5893,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "269",
@@ -5647,7 +5915,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "270",
@@ -5668,7 +5937,688 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "271",
+        "filename": "00271.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a well-preserved Osteocyte with a longitudinal network of surviving canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. It appears that the osteocyte itself has condensed into a concretion with a small nucleus or inclusion, better described as an inclusion with a higher density than its surrounding content. This elongated concretion inside the lacuna appears as a light-colored cell body, likely mineralized fatty acids (adipocere, or grave-wax). The slightly altered but good condition of the canaliculi suggests a state of remarkable preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "272",
+        "filename": "00272.jpg",
+        "microscope_technology": "differential interference contrast",
+        "magnification": "750",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This thin section cuts through a zone of the fish scale where laminated mineral layers dominate. Within each layer and along minute fishers can be seen individual lacuna that generally runs parallel with each other. Here we see a single lacuna that appears to retain the condensed remnants of the osteocyte (black). The canaliculi extending from the lacuna tend to follow the natural fishers found in the mineral matrix (scale). To the right of the longitudinal lacuna is a vascular canal permineralized with a silicate mixed with ferrous oxides.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "273",
+        "filename": "00273.jpg",
+        "microscope_technology": "differential interference contrast",
+        "magnification": "500",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This thin section cuts through a zone of the fish scale where laminated mineral layers dominate. Within each layer and along minute fishers can be seen individual lacuna that generally runs parallel with each other. Here we see a lacuna that seems to retain the condensed remnants of the osteocyte (black). The canaliculi extending from the lacuna tend to follow the natural fishers found in the mineral matrix (scale). Above this longitudinal lacuna is a vascular canal permineralized with a silicate mixed with ferrous oxides.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "274",
+        "filename": "00274.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This well-preserved lacuna features an extended network of surviving canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. A single lightly colored inclusion can be seen within the lacuna and is likely a small waxy concretion made of broken-down fatty acids (sometimes referred to as grave wax). The preservation of the lacuna walls remains sharp and clean, indicating very little recrystallization. The outstretched web of canaliculi is nearly complete and only lightly altered, suggesting unusual preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "275",
+        "filename": "00275.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This image is of the same subject as represented in No.274 but illuminated with artificial colors. The colors act as a pseudo density map, illustrating the variations in density within the lumen of the lacuna. This is a well-preserved lacuna featuring an extended network of surviving canaliculi. A single lightly colored inclusion can be seen within the lacuna and is likely a small waxy concretion made of broken-down fatty acids (sometimes referred to as grave wax). The preservation of the lacuna walls remains sharp and clean, indicating very little recrystallization.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "276",
+        "filename": "00276.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a well-preserved Osteocyte with a healthy network of surviving canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. A number of very dark circular inclusions were formed by the production of gas bubbles in the early stages of decay. The most conspicuous feature is what appears as a light-colored cell body, likely mineralized fatty acids (adipocere, or grave-wax). The lightly altered and pristine condition of the canaliculi suggests a state of remarkable preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "277",
+        "filename": "00277.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "600",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "These are well preserved osteocytes with a complete network of surviving canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. A number of very dark circular inclusions were formed by the production of gas bubbles in the early stages of decay. Both lacuna still hold a waxy light colored cell body, likely made of old fossilized fatty acids (adipocere, or grave-wax). The lacuna on the right contains a long smooth textured cord with three dark inclusions or fossilized air bubbles. The lightly altered condition of the canaliculi suggests a state of good preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "278",
+        "filename": "00278.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have a large and one small well-preserved Osteocytes along with a complete network of surviving canaliculi. The internal walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. A number of very dark circular inclusions were formed by the production of gas bubbles in the early stages of decay. The larger lacuna still holds a waxy twisted cell body winding its way through the lacuna. This feature is likely made of old fossilized fatty acids (adipocere, or grave-wax). The much smaller cell (lacuna) above is intimately connected by a well-preserved canaliculi. The lightly altered condition of the canaliculi suggests a state of very good preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "279",
+        "filename": "00279.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This image is the same as No.278, but with the addition of faults colors which act as a pseudo density map, illustrating the variations in density within the lumen of the lacuna. The bright red seen in both cells corresponds with the iron oxide based natural stain. This stain is also clearly found throughout the network of surviving canaliculi. The connection between both cells is clearly illustrated by a canaliculi with an open canal now lightly stained red. All the internal walls of the lacuna and canaliculi were originally coated with a naturally occurring ferrous oxide stain. A number of very dark circular inclusions were formed by the production of gas bubbles in the early stages of decay. The larger lacuna in the center still holds a waxy twisted cell body winding its way through the lacuna, now shown to be less dense than the stained surfaces. This feature is likely made of old fossilized fatty acids (adipocere, or grave-wax). The sharp walls of the canaliculi suggest a state of very good preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "280",
+        "filename": "00280.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a well preserved but eccentric Osteocyte with a complete network of canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a natural ferrous oxide stain. A number of very dark circular inclusions were formed by the production of gas bubbles in the early stages of decay. Down through the center is a waxy light colored cell body, likely made of old fossilized fatty acids (adipocere, or grave-wax). The shape of the lacuna diverts off to the left due to the influence of the mineral matrix. The outer boundaries of the lacuna remain crisp and unaltered indicating little recrystallization of the matrix. Also, the lightly altered condition of the canaliculi suggests a state of good preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "281",
+        "filename": "00281.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "650",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral layers dominate. Within each layer and along minute fishers can be seen individual lacuna that generally runs parallel with each other in the same layer. In lower layers",
+        "figure": " they normally run perpendicular to the lacuna of the upper layer. Here we see a stacked image featuring lacuna sitting perpendicular to each other",
+        "publication_year": " all following the nearly invisible fishers in the mineral layers. The canaliculi are not as disciplined in this pattern but do tend to follow the same fishers when encountered. These liner canaliculi have small inclusions or congestion that over time has picked up a natural ferrous oxide stain. Each lacuna appears to retain the condensed remains of the osteocyte. They can be seen twisting their way down through the long axis of the lacuna. These fossil remains now likely consist of a waxy concretion of fossilized fatty acids having a rather smooth surface texture.",
+        "first_author": "",
+        "reference": "",
+        "": "",
+        "null": [
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "282",
+        "filename": "00282.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a higher magnification of one of the cells found in subject No.281. This lacuna appears to retain the condensed remains of the fossilized osteocyte. It can be seen twisting its way down through the long axis of the lacuna. This sub cellular feature now likely consists of a waxy concretion of fossilized fatty acids having a rather smooth surface texture.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "283",
+        "filename": "00283.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "650",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have a complete lacuna with well preserved sub cellular content. This includes a number of dark inclusions formed by gas bubbles which developed during early decay. One bubble has now developed into a fluid inclusion",
+        "figure": " possibly the result of processing the thin section. The internal walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. Down through the long axis of the lacuna is a waxy condensed cell body having a lighter color then the walls of the lacuna. This feature is likely made of old fossilized fatty acids (adipocere",
+        "publication_year": " or grave-wax). The extended canaliculi remain well defined and in good condition suggesting a state of good preservation.",
+        "first_author": "",
+        "reference": "",
+        "": "",
+        "null": [
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "284",
+        "filename": "00284.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a very well preserved osteocyte situated in the mineral lamella of a fish scale. Inside the lacuna, the fossil cell itself is punctuated with dozens of tiny gas inclusions. These inclusions were formed by the production of gas bubbles in the early stages of decay. It has the appearance of boiling bubbles in the early stages of taphonomy. These dark bubble inclusions are now lightly stained with a natural ferrous oxide. The cell is now a waxy concretion almost completely filling the lumen of the lacuna. Both distal ends are now carbonized implying entry of carbon atoms through the canaliculi (this specimen was deposited in coal shale).",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "285",
+        "filename": "00285.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have an individual osteocyte found in the matrix if a fossil fish scale. This cell still has a rather complete network of preserved canaliculi. Inside the lacuna are the remains of a fossilized osteocyte now condensed and preserved as a semi-concretion. It is likely made of fossilized fatty acids having a waxy texture and a corrugated form. You should expect to find that any lacuna from the Carboniferous would be empty or maybe permineralized with a dissolved mineral, but here we find little if no anisotropic compounds, meaning that the cell is altered but not mineralized. The lightly stained and good condition of the canaliculi suggests a state very high preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "286",
+        "filename": "00286.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a very well preserved osteocyte situated in the mineral lamella of a fish scale. The canaliculi extend quite far from the lacuna and are lightly stained with a naturally occurring ferrous oxide. Inside the lacuna, the cell itself is punctuated with dozens of tiny gas inclusions. These inclusions were formed by the production of gas bubbles in the early stages of decay. It has the appearance of boiling bubbles from the early stages of taphonomy. The now fossilized cytoplasm of the cell can be seen entering the tiny canals of the canaliculi. The lightly altered but good condition of the canaliculi suggests a state of remarkable preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "287",
+        "filename": "00287.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a cropped image of item No.286, providing a slightly higher magnification. It is a very well preserved osteocyte situated in the mineralized lamella of a fish scale. The canaliculi extend quite far from the lacuna and are lightly stained with a naturally occurring ferrous oxide. Inside the lacuna, the cell itself is punctuated with dozens of tiny gas inclusions. These inclusions were formed by the production of gas bubbles in the early stages of decay. It has the appearance of boiling fluid from the early stages of taphonomy. The now fossilized cytoplasm of the cell can be seen entering the tiny canals of the canaliculi. The lightly altered but good condition of the canaliculi suggests a state of remarkable preservation.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "288",
+        "filename": "00288.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "250",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "rib",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section was taken from near the anterior edge of the fish scale just below the ribs at the surface. It has the appearance of cartilage and the hardness of dentine. Within the long axis of the ribs are openings or lacuna that once held cells that look similar to chondrocytes. Between the ribs are cavities now permineralized with a silicate mixed with organic debris. This is a very organized feature but hard to identify.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "289",
+        "filename": "00289.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "rib",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This image is from the same sample as item No.288 but acquired just above at a slightly different plain. Both images were taken from near the anterior edge of the fish scale just below the ribs at the surface. It has the appearance of cartilage and the hardness of dentine. Within the long axis of the ribs are openings or lacuna that once held cells that look similar to chondrocytes. Between the ribs are cavities now permineralized with a silicate mixed with organic debris. This is a very organized feature but hard to identify.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "290",
+        "filename": "00290.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "rib",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This image is from the same sample as item No.288 and 289 but acquired just above at a slightly different location. The image was taken from near the anterior edge of the fish scale very close to the surface. It has a highly corrugated pattern with the ribs being mainly dentine. Between the ribs are liner canals that are now permineralized by a silicate mixed with organic compounds. This is a very organized feature and rather difficult to section cleanly.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "291",
+        "filename": "00291.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "hydrated cell",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral (dentine) layers dominate. Within each layer and along minute fishers can be seen organic material and often individual lacuna. Each laminar layer holds generally to a liner pattern running parallel with each other within the same layer. In the lower layer, the lacuna runs perpendicular to the lacuna of the upper layer. Here we see a stacked image combining two layers which illustrate the perpendicular junctions. Near the center we see a conspicuous hydrated lacuna sitting along one fisher. This lacuna is quite degraded and has no surviving canaliculi. The source of the fluid is likely from the sectioning process.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "292",
+        "filename": "00292.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "Gyracanthus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "pectoral spine",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "",
+        "country": "England",
+        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states Tubercle",
+        "figure": " Gyracanthus",
+        "publication_year": " fish\". Gyracanthus is an extinct genus from the class",
+        "first_author": " Acanthodian",
+        "reference": " having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal bifurcating into two branches.\"",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "293",
+        "filename": "00293.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "800",
+        "taxon": "Gyracanthus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "pectoral spine",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "",
+        "country": "England",
+        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states Tubercle",
+        "figure": " Gyracanthus",
+        "publication_year": " fish\". Gyracanthus is an extinct genus from the class",
+        "first_author": " Acanthodian",
+        "reference": " having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal that bifurcates into two branches. Close inspection reveals tiny fossilized blood cells within the clotted canal (at least they have the basic morphology of a mineralized blood cell).\"",
+        "": "",
+        "null": [
+            "",
+            "",
+            "",
+            ""
+        ]
+    },
+    {
+        "id": "294",
+        "filename": "00294.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "65",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan fresh water fish that inhabited the Carboniferous period. One of the defining features was robust tooth plates that had sub parallel, tuberculated ridges designed to crush pray. In this thin section the internal body of the plate was made in a trabecular pattern creating a strong light weight structure. This section illustrates where one of the tooth ridges will originate, showing a line of denser trabeculae. The dentition can be described as having paired upper (pterygoid) and lower (prearticular) tooth plates an important diagnostic feature associated with the Ctenodus. The pterygoid plates are concave while the prearticular plates are convex. All the plates ultimately feature angled and parallel tooth ridges.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "295",
+        "filename": "00295.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section shows the outer margin of the tooth plate, illustrating an increase in density. To see the internal morphology of the plate, see image No.294. Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan fresh water fish that inhabited the Carboniferous period. One of the defining features was robust tooth plates that featured sub parallel, tuberculated ridges designed to crush pray. The dentition can be described as having paired upper (pterygoid) and lower (prearticular) tooth plates, an important diagnostic feature associated with the Ctenodus. The pterygoid plates are concave while the prearticular plates are convex. All the plates ultimately feature angled and parallel tooth ridges.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "296",
+        "filename": "00296.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "225",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section is very close to the outer margin of the tooth plate, illustrating an increase in density. The dentine trabeculae are now much thicker and closer together. To see the internal morphology of the plate, see image No.294. For the outer margin itself see image No.295. Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan freshwater fish that inhabited the Carboniferous period. One of the defining features was robust tooth plates that featured sub parallel, tuberculated ridges designed to crush prey. The dentition can be described as having paired upper (pterygoid) and lower (prearticular) tooth plates an important diagnostic feature associated with the Ctenodus. The pterygoid plates are concave while the prearticular plates are convex. All the plates ultimately feature angled and parallel tooth ridges.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "297",
+        "filename": "00297.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "65",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan freshwater fish that inhabited the Carboniferous period. One of the defining features was robust tooth plates that featured sub parallel, tuberculated ridges designed to crush prey. In this specimen the internal body of the plate was made in a trabecular pattern creating a strong light weight structure. But in this section damage can be seen in the center of the image. Around the damaged area can be seen what turns out to be darkened blood clots. See image No.294 for an undamaged illustration. See No. 299 for evidence of a blood clot. All the tooth plates ultimately feature angled and parallel tooth ridges.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "298",
+        "filename": "00298.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan freshwater fish that inhabited the Carboniferous period. One of the defining features would be tooth plates that featured sub parallel, tuberculated ridges designed to crush pray. Normally, we would see a pattern of trabecular dentine that makes up the body of the tooth plate. But in this section damage was done and when looking very closely we can see the formation of a dark blood clot. Here we see a small clot of blood that is almost completely pyritized. When sulfides enter the system, we can end up with iron disulfide (pyrite), turning blood black. For a lower power image showing this clot in situation, see image No.297. See image No.294 for an undamaged illustration. See No. 299 for evidence of a blood clot.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "299",
+        "filename": "00299.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "Ctenodus",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth plate",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we see blood cells that have been exposed to sulfur and are in the process of turning into pyrite. At this magnification, pyrite is recognized by the formation of small opaque cubes. This image comes from the inside of a tooth plate belonging to the extinct fish Ctenodus. Ctenodus was a lungfish (Order: Dipnoi), part of the family, Ctenodintidae, consisting of the Sarcopterygian and Osteichthyan freshwater fish that inhabited the Carboniferous period. One of the defining characteristics would be tooth plates that feature sub parallel, tuberculated ridges designed to crush pray. Normally, we should see a pattern of trabecular dentine that makes up the body of the tooth plate (No.294). But in this tiny section damage was done and when looking very closely we can see the formation of a dark blood clot (No.297). Here we see a small clot of blood that is almost completely pyritized. When sulfides enter the system, we can end up with iron disulfide (pyrite), which turns blood opaque. For a lower power image showing this clot in situation, see image No.297. See image No.294 for an undamaged illustration. This image provides the evidence for a blood clot.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
+    },
+    {
+        "id": "300",
+        "filename": "00300.jpg",
+        "microscope_technology": "differential interference contrast",
+        "magnification": "800",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have an individual osteocyte (cell) found inside a scale of the extinct fish, Megalichthys. The lacuna and the canaliculi are stained a light brown. But found inside the lacuna is a slightly darker granular zone with a condensed nucleus or central body. This granular zone has taken up more iron oxides than the surrounding walls of the lacuna. Could this feature be the decade remnants of the osteocyte, only an elemental analysis would provide the clue. The canals of the canaliculi are discernible and still hold debris that may be organic as they have no birefringence under polarized light.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": "",
+        "": ""
     },
     {
         "id": "1001",
@@ -5689,7 +6639,8 @@ export const imageData =
         "figure": "1A-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1002",
@@ -5710,7 +6661,8 @@ export const imageData =
         "figure": "1E-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1003",
@@ -5731,7 +6683,8 @@ export const imageData =
         "figure": "1I-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1004",
@@ -5752,7 +6705,8 @@ export const imageData =
         "figure": "1M-P",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1005",
@@ -5773,7 +6727,8 @@ export const imageData =
         "figure": "1Q-T",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1006",
@@ -5794,7 +6749,8 @@ export const imageData =
         "figure": "1U-X",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1007",
@@ -5815,7 +6771,8 @@ export const imageData =
         "figure": "2A-B",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1008",
@@ -5836,7 +6793,8 @@ export const imageData =
         "figure": "2C-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1009",
@@ -5857,7 +6815,8 @@ export const imageData =
         "figure": "2E-F",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1010",
@@ -5878,7 +6837,8 @@ export const imageData =
         "figure": "2G-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1011",
@@ -5899,7 +6859,8 @@ export const imageData =
         "figure": "2I-J",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1012",
@@ -5920,7 +6881,8 @@ export const imageData =
         "figure": "2K-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "": ""
     },
     {
         "id": "1013",
@@ -5941,7 +6903,8 @@ export const imageData =
         "figure": "1A-E",
         "publication_year": "2020",
         "first_author": "Fabbri",
-        "reference": "10.1111/pala.12470"
+        "reference": "10.1111/pala.12470",
+        "": ""
     },
     {
         "id": "1014",
@@ -5962,7 +6925,8 @@ export const imageData =
         "figure": "",
         "publication_year": "2020",
         "first_author": "Ullmann",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1015",
@@ -5983,7 +6947,8 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391"
+        "reference": "39823391",
+        "": ""
     },
     {
         "id": "1016",
@@ -6004,7 +6969,8 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740"
+        "reference": "39919740",
+        "": ""
     },
     {
         "id": "1017",
@@ -6025,7 +6991,8 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "": ""
     },
     {
         "id": "1018",
@@ -6046,7 +7013,8 @@ export const imageData =
         "figure": "B",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "": ""
     },
     {
         "id": "1019",
@@ -6067,7 +7035,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1020",
@@ -6088,7 +7057,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1021",
@@ -6109,7 +7079,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1022",
@@ -6130,7 +7101,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1023",
@@ -6151,7 +7123,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1024",
@@ -6172,7 +7145,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "": ""
     },
     {
         "id": "1025",
@@ -6193,7 +7167,8 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391"
+        "reference": "39823391",
+        "": ""
     },
     {
         "id": "1026",
@@ -6214,7 +7189,8 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740"
+        "reference": "39919740",
+        "": ""
     },
     {
         "id": "1027",
@@ -6235,7 +7211,8 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "": ""
     },
     {
         "id": "2001",
@@ -6256,7 +7233,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2003",
@@ -6277,7 +7255,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2004",
@@ -6298,7 +7277,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2006",
@@ -6319,7 +7299,8 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2007",
@@ -6340,7 +7321,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2008",
@@ -6361,7 +7343,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2009",
@@ -6382,7 +7365,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2010",
@@ -6403,7 +7387,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2014",
@@ -6424,7 +7409,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2015",
@@ -6445,7 +7431,8 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2016",
@@ -6466,7 +7453,8 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2017",
@@ -6487,7 +7475,8 @@ export const imageData =
         "figure": "4G",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2018",
@@ -6508,7 +7497,8 @@ export const imageData =
         "figure": "4H",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2019",
@@ -6529,7 +7519,8 @@ export const imageData =
         "figure": "4I",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2020",
@@ -6550,7 +7541,8 @@ export const imageData =
         "figure": "4J",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2021",
@@ -6571,7 +7563,8 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2022",
@@ -6592,7 +7585,8 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "": ""
     },
     {
         "id": "2023",
@@ -6613,7 +7607,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2024",
@@ -6634,7 +7629,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2025",
@@ -6655,7 +7651,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2026",
@@ -6676,7 +7673,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2027",
@@ -6697,7 +7695,8 @@ export const imageData =
         "figure": "1E",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2028",
@@ -6718,7 +7717,8 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2029",
@@ -6739,7 +7739,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2030",
@@ -6760,7 +7761,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2031",
@@ -6781,7 +7783,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2032",
@@ -6802,7 +7805,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "": ""
     },
     {
         "id": "2033",
@@ -6823,7 +7827,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2034",
@@ -6844,7 +7849,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2035",
@@ -6865,7 +7871,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2036",
@@ -6886,7 +7893,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2037",
@@ -6907,7 +7915,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2038",
@@ -6928,7 +7937,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2039",
@@ -6949,7 +7959,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2040",
@@ -6970,7 +7981,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2041",
@@ -6991,7 +8003,8 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2042",
@@ -7012,7 +8025,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2043",
@@ -7033,7 +8047,8 @@ export const imageData =
         "figure": "3C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2044",
@@ -7054,7 +8069,8 @@ export const imageData =
         "figure": "3D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2045",
@@ -7075,7 +8091,8 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2046",
@@ -7096,7 +8113,8 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2047",
@@ -7117,7 +8135,8 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2048",
@@ -7138,7 +8157,8 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2049",
@@ -7159,7 +8179,8 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2050",
@@ -7180,7 +8201,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "": ""
     },
     {
         "id": "2051",
@@ -7194,14 +8216,15 @@ export const imageData =
         "interval": "Cenomanian",
         "conventional_age": "94-100My",
         "lithology": "sublithographic limestone",
-        "site": "H\u00e2djula Lagerst\u00e4tte",
+        "site": "H\u00c3\u00a2djula Lagerst\u00c3\u00a4tte",
         "location": "Byblos",
         "country": "Lebanon",
         "description": "Tethymyxine tapirostrum gen. et sp. nov, a fossil hagfish from the Cenomanian of Lebanon. Holotype (BHI 6445) in right lateral view",
         "figure": "2A",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644"
+        "reference": "30670644",
+        "": ""
     },
     {
         "id": "2052",
@@ -7215,14 +8238,15 @@ export const imageData =
         "interval": "Cenomanian",
         "conventional_age": "94-100My",
         "lithology": "sublithographic limestone",
-        "site": "H\u00e2djula Lagerst\u00e4tte",
+        "site": "H\u00c3\u00a2djula Lagerst\u00c3\u00a4tte",
         "location": "Byblos",
         "country": "Lebanon",
         "description": "The visceral anatomy of BHI 6445 in composite photograph",
         "figure": "2D",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644"
+        "reference": "30670644",
+        "": ""
     },
     {
         "id": "2053",
@@ -7243,7 +8267,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2054",
@@ -7264,7 +8289,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2055",
@@ -7285,7 +8311,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2056",
@@ -7306,7 +8333,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2057",
@@ -7327,7 +8355,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2058",
@@ -7348,7 +8377,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2059",
@@ -7369,7 +8399,8 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2060",
@@ -7390,7 +8421,8 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2061",
@@ -7411,7 +8443,8 @@ export const imageData =
         "figure": "2G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2062",
@@ -7432,7 +8465,8 @@ export const imageData =
         "figure": "2H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2063",
@@ -7453,7 +8487,8 @@ export const imageData =
         "figure": "2I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2064",
@@ -7474,7 +8509,8 @@ export const imageData =
         "figure": "2J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2065",
@@ -7495,7 +8531,8 @@ export const imageData =
         "figure": "2K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2066",
@@ -7516,7 +8553,8 @@ export const imageData =
         "figure": "2L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2067",
@@ -7537,7 +8575,8 @@ export const imageData =
         "figure": "3F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2068",
@@ -7558,7 +8597,8 @@ export const imageData =
         "figure": "3G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2069",
@@ -7579,7 +8619,8 @@ export const imageData =
         "figure": "3H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2070",
@@ -7600,7 +8641,8 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2071",
@@ -7621,7 +8663,8 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2072",
@@ -7642,7 +8685,8 @@ export const imageData =
         "figure": "3K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2073",
@@ -7663,7 +8707,8 @@ export const imageData =
         "figure": "3L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2074",
@@ -7684,7 +8729,8 @@ export const imageData =
         "figure": "3M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2075",
@@ -7705,7 +8751,8 @@ export const imageData =
         "figure": "3N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2076",
@@ -7726,7 +8773,8 @@ export const imageData =
         "figure": "3O",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2077",
@@ -7747,7 +8795,8 @@ export const imageData =
         "figure": "3P",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2078",
@@ -7768,7 +8817,8 @@ export const imageData =
         "figure": "3Q",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2079",
@@ -7789,7 +8839,8 @@ export const imageData =
         "figure": "3R",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2080",
@@ -7810,7 +8861,8 @@ export const imageData =
         "figure": "3S",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2081",
@@ -7831,7 +8883,8 @@ export const imageData =
         "figure": "3T",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2082",
@@ -7852,7 +8905,8 @@ export const imageData =
         "figure": "3U",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2083",
@@ -7873,7 +8927,8 @@ export const imageData =
         "figure": "3V",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2084",
@@ -7894,7 +8949,8 @@ export const imageData =
         "figure": "3W",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2085",
@@ -7915,7 +8971,8 @@ export const imageData =
         "figure": "3X",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2086",
@@ -7936,7 +8993,8 @@ export const imageData =
         "figure": "3Y",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2087",
@@ -7957,7 +9015,8 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2088",
@@ -7978,7 +9037,8 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2089",
@@ -7999,7 +9059,8 @@ export const imageData =
         "figure": "4M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2090",
@@ -8020,7 +9081,8 @@ export const imageData =
         "figure": "4N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2091",
@@ -8034,14 +9096,15 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
+        "site": "Posidonia Shale Konservat Fossil Lagerst\u00c3\u00a4tte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2092",
@@ -8055,14 +9118,15 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
+        "site": "Posidonia Shale Konservat Fossil Lagerst\u00c3\u00a4tte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2093",
@@ -8076,14 +9140,15 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
+        "site": "Posidonia Shale Konservat Fossil Lagersttte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2094",
@@ -8104,7 +9169,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2095",
@@ -8125,7 +9191,8 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2096",
@@ -8146,7 +9213,8 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2097",
@@ -8167,7 +9235,8 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2098",
@@ -8188,7 +9257,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2099",
@@ -8209,7 +9279,8 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2100",
@@ -8230,7 +9301,8 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2101",
@@ -8251,7 +9323,8 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2102",
@@ -8272,7 +9345,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2103",
@@ -8293,7 +9367,8 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2104",
@@ -8314,7 +9389,8 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     },
     {
         "id": "2105",
@@ -8335,6 +9411,7 @@ export const imageData =
         "figure": "5A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "": ""
     }
 ]

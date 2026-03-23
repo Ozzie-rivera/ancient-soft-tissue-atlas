@@ -71,13 +71,23 @@
 }
 
 .histogram-bar {
-    background-color: #4a90e2;
-    color: white;
+    height: 24px;
     border-radius: 4px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
     padding-right: 8px;
+}
+
+.histogram-bar-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 8px; /* space between bar and number */
+}
+
+.histogram-count {
+    white-space: nowrap;
+    font-weight: bold;
 }
 
 /* taxon */
