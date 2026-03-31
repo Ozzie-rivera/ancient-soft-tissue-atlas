@@ -1,10 +1,21 @@
 import React from "react";
 import Slider from "react-slick";
+import { imageData } from "../data/imageData3";
 
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 
 function ImageCarousel() {
+  const n_images = imageData.length;
+  const img_fn = [];
+  for (let i = 0; i < 5; i++) {
+    img_fn.push(Math.ceil(Math.random()*n_images));
+  }
+  const img_fname1 = String(img_fn[0]).padStart(5,'0');
+  const img_fname2 = String(img_fn[1]).padStart(5,'0');
+  const img_fname3 = String(img_fn[2]).padStart(5,'0');
+  const img_fname4 = String(img_fn[3]).padStart(5,'0');
+  const img_fname5 = String(img_fn[4]).padStart(5,'0');
 
   const settings = {
     dots: true,
@@ -20,16 +31,19 @@ function ImageCarousel() {
     <div style={{ width: "400px", margin: "auto" }}>
       <Slider {...settings}>
         <div>
-          <img src="/public/newimages/00016.jpg" width="100%" />
+          <img src={`/public/newimages/${img_fname1}.jpg`} width="100%" />
         </div>
         <div>
-          <img src="/public/newimages/00063.jpg" width="100%" />
+          <img src={`/public/newimages/${img_fname2}.jpg`} width="100%" />
         </div>
         <div>
-          <img src="/public/newimages/00134.jpg" width="100%" />
+          <img src={`/public/newimages/${img_fname3}.jpg`} width="100%" />
         </div>
         <div>
-          <img src="/public/newimages/00262.jpg" width="100%" />
+          <img src={`/public/newimages/${img_fname4}.jpg`} width="100%" />
+        </div>
+        <div>
+          <img src={`/public/newimages/${img_fname5}.jpg`} width="100%" />
         </div>
       </Slider>
     </div>
