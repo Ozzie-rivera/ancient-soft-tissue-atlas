@@ -19,8 +19,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "2",
@@ -41,8 +40,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "3",
@@ -63,8 +61,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "4",
@@ -85,8 +82,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "5",
@@ -107,8 +103,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "6",
@@ -129,8 +124,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "7",
@@ -151,8 +145,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "8",
@@ -173,8 +166,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "9",
@@ -195,8 +187,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "10",
@@ -217,8 +208,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "11",
@@ -235,12 +225,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "Darkly stained osteocytes can be seen in a section of the scale that is transitioning into a more bony type of morphology.  The cals surrounding the dentine (yellow color) are packed with incrusted fossil blood clots.  The blood cells are quite altered and heavily permineralized.  Emerging from the central Osteocyte is a well preserved network of caliculi (submicron sized tubes connecting osteocytes within the bone matrix).  Specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK (1876).",
+        "description": "Darkly stained osteocytes can be seen in a section of the scale that is transitioning into a more bony type of morphology.  The canals surrounding the dentine (yellow color) are packed with incrusted fossil blood clots.  The blood cells are quite altered and heavily permineralized.  Emerging from the central Osteocyte is a well preserved network of caliculi (submicron sized tubes connecting osteocytes within the bone matrix).  Specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK (1876).",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "12",
@@ -257,12 +246,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "The cals surrounding the denticles (yellow color) are packed with incrusted fossil blood clots.  The blood cells are quite altered and heavily permineralized.  To the upper right of the image is a zone of tiny tooth like denticles.  In the center of each denticle can be seen a small pulp cal, these examples are in cross-section.",
+        "description": "The canals surrounding the denticles (yellow color) are packed with incrusted fossil blood clots.  The blood cells are quite altered and heavily permineralized.  To the upper right of the image is a zone of tiny tooth like denticles.  In the center of each denticle can be seen a small pulp cal, these examples are in cross-section.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "13",
@@ -283,8 +271,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "14",
@@ -301,12 +288,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Single carbonized osteocyte with short recognizable caliculi.  The opaque color is the result of the migration of carbon from the coal shale along with anoxic decay of the original cell.  In the background just to the right can be seen a tiny cal with opaque carbonized Remnants.",
+        "description": "Single carbonized osteocyte with short recognizable caliculi.  The opaque color is the result of the migration of carbon from the coal shale along with anoxic decay of the original cell.  In the background just to the right can be seen a tiny canal with opaque carbonized Remnants.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "15",
@@ -323,12 +309,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "A longitudinal section of a fish spine illustrating its interl cal system.  Inside the cals are the remains of iron oxide framboids.  The framboids are also contamited with carbon from the surrounding coal shale.  Delicate detail can be seen on the endostial walls of the cal system.",
+        "description": "A longitudinal section of a fish spine illustrating its interl canal system.  Inside the canals are the remains of iron oxide framboids.  The framboids are also contamited with carbon from the surrounding coal shale.  Delicate detail can be seen on the endostial walls of the canal system.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "16",
@@ -345,12 +330,11 @@ export const imageData =
         "site": "woods deposit",
         "location": "London",
         "country": "UK",
-        "description": "This is a bifurcated vascular cal inside a sharks tooth.  Within the surrounding dentin can be seen small segments of dentil tubules.  Inside the cal can be seen what looks like surviving erythrocytes (blood cells).  These small red structures are within the range of 8 to 10 microns in diameter.  There is no iron or pyrite framboids associated with these red cell structures.",
+        "description": "This is a bifurcated vascular canal inside a sharks tooth.  Within the surrounding dentin can be seen small segments of dentil tubules.  Inside the canal can be seen what looks like surviving erythrocytes (blood cells).  These small red structures are within the range of 8 to 10 microns in diameter.  There is no iron or pyrite framboids associated with these red cell structures.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "17",
@@ -371,8 +355,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "18",
@@ -393,8 +376,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "19",
@@ -415,8 +397,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "20",
@@ -433,12 +414,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Domiting the photomicrograph is a superbly preserved osteocyte with a distinct and identifiable nucleus. The nucleus has been differentiated by a turally occurring ferrous-oxide stain. The areas representing the cells cytoplasm are delicately granulated and slightly stained under high-power microscopy.  The cell walls are clean and ultered by the process of time and decay.  This cell is from a thin-section of a fossil fish scale embedded in Carboniferous coal shale (Northumberland, UK).  The section is part of the lower bony parts of the fossil scale.  The acellular top portions of the scale are made primarily of dentine (denticle).  Slightly to the right and horizontally through the section is an encrusted vascular cal. A larger cal can be seen to the top left (dark stained).",
+        "description": "Domiting the photomicrograph is a superbly preserved osteocyte with a distinct and identifiable nucleus. The nucleus has been differentiated by a turally occurring ferrous-oxide stain. The areas representing the cells cytoplasm are delicately granulated and slightly stained under high-power microscopy.  The cell walls are clean and ultered by the process of time and decay.  This cell is from a thin-section of a fossil fish scale embedded in Carboniferous coal shale (Northumberland, UK).  The section is part of the lower bony parts of the fossil scale.  The acellular top portions of the scale are made primarily of dentine (denticle).  Slightly to the right and horizontally through the section is an encrusted vascular cal. A larger canal can be seen to the top left (dark stained).",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "21",
@@ -459,8 +439,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "22",
@@ -477,12 +456,11 @@ export const imageData =
         "site": "coast",
         "location": "Dorset Coast",
         "country": "UK",
-        "description": "Since the days of Mary Anning, fossil teeth have been regularly found along the Dorset coast, better known as The Jurassic Coast (190 myo), UK.  Marine reptiles are typically found in the prominent black shales that make up the cliffs.  This tooth is likely an example of an Ichthyosaur as they domite the assemblage.  This is a longitudinal section beginning with the tip and ending with a fractured termition.  Vascular cals are prominent throughout the central body of the tooth and are often cluttered with organic debris.  Within the cals can occasionally be seen the stained Remnants of decayed vessels. In the dentine areas can be seen dark stained fragments of dentil tubules.",
+        "description": "Since the days of Mary Anning, fossil teeth have been regularly found along the Dorset coast, better known as The Jurassic Coast (190 myo), UK.  Marine reptiles are typically found in the prominent black shales that make up the cliffs.  This tooth is likely an example of an Ichthyosaur as they domite the assemblage.  This is a longitudinal section beginning with the tip and ending with a fractured termition.  Vascular canals are prominent throughout the central body of the tooth and are often cluttered with organic debris.  Within the canals can occasionally be seen the stained Remnants of decayed vessels. In the dentine areas can be seen dark stained fragments of dentil tubules.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "23",
@@ -499,12 +477,11 @@ export const imageData =
         "site": "black shale",
         "location": "Dorset Coast",
         "country": "UK",
-        "description": "Since the days of Mary Anning, fossil teeth have been regularly found along the Dorset coast, better known as The Jurassic Coast (190 myo), UK.  Marine reptiles are typically found in the prominent black shales that make up the cliffs.  This tooth is likely an example of an Ichthyosaur as they domite the assemblage.  This is a longitudinal section beginning with the tip and ending with a fractured termition.  Vascular cals are prominent throughout the central body of the tooth and are often cluttered with organic debris.  Within the cals can occasionally be seen the stained Remnants of decayed vessels.  A slightly darker stain can be seen surrounding the cals representing a zone of more recent growth. In the dentine areas can be seen dark fragments of dentil tubules.",
+        "description": "Since the days of Mary Anning, fossil teeth have been regularly found along the Dorset coast, better known as The Jurassic Coast (190 myo), UK.  Marine reptiles are typically found in the prominent black shales that make up the cliffs.  This tooth is likely an example of an Ichthyosaur as they domite the assemblage.  This is a longitudinal section beginning with the tip and ending with a fractured termition.  Vascular canals are prominent throughout the central body of the tooth and are often cluttered with organic debris.  Within the canals can occasionally be seen the stained Remnants of decayed vessels.  A slightly darker stain can be seen surrounding the canals representing a zone of more recent growth. In the dentine areas can be seen dark fragments of dentil tubules.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "24",
@@ -525,8 +502,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "25",
@@ -543,12 +519,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Radcliffe",
         "country": "UK",
-        "description": "These parallel cals are part of a dermal denticle (scale) and remain filled with organic and metallic content.  The cal that runs up through the center of the image is filled with incrusted blood cells (mineralized blood clot).  Adjacent cals are filled with pyrite framboids (iron disulfide).  It looks like sulfur got to some cals but not to others.  This fish scale was sourced from Carboniferous coal shale, Northumberland, UK.",
+        "description": "These parallel canals are part of a dermal denticle (scale) and remain filled with organic and metallic content.  The canal that runs up through the center of the image is filled with incrusted blood cells (mineralized blood clot).  Adjacent canals are filled with pyrite framboids (iron disulfide).  It looks like sulfur got to some canals but not to others.  This fish scale was sourced from Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "26",
@@ -569,8 +544,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "27",
@@ -591,8 +565,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "28",
@@ -609,12 +582,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Network of geometric cals located at the base of the denticle (scale).  Isolated inside each cal can be seen small pyrite framboids (iron disulfide).  Throughout the matrix can be seen empty individual lacuna.",
+        "description": "Network of geometric canals located at the base of the denticle (scale).  Isolated inside each canal can be seen small pyrite framboids (iron disulfide).  Throughout the matrix can be seen empty individual lacuna.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "29",
@@ -631,12 +603,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Individual osteocyte with what appears to be a preserved nuclear membrane and central nucleolus.  The bio-components of this cell are distinctly colored with a tural ferrous-oxide stain, in this case with the cytoplasm being darker in color then the lighter nucleus. There appears to be two polar-bodies on the north and south side of the nucleolus. These sub-cellular features are distinguished by have no birefringence, the cell contents remain black (total extinction) under polarized light.  Any permineralization would produce at least some slight order of interference.  The surviving caliculi are also not permineralized and retain a noticeable amount of iron oxide staining on the inside walls of the tiny cals.  They are reasobly complete and remain connected to surrounding companion osteocytes.   This cell was found in a vertebrate jaw bone from the fresh water fish, Megalichthys hibberti.",
+        "description": "Individual osteocyte with what appears to be a preserved nuclear membrane and central nucleolus.  The bio-components of this cell are distinctly colored with a tural ferrous-oxide stain, in this case with the cytoplasm being darker in color then the lighter nucleus. There appears to be two polar-bodies on the north and south side of the nucleolus. These sub-cellular features are distinguished by have no birefringence, the cell contents remain black (total extinction) under polarized light.  Any permineralization would produce at least some slight order of interference.  The surviving caliculi are also not permineralized and retain a noticeable amount of iron oxide staining on the inside walls of the tiny canals.  They are reasobly complete and remain connected to surrounding companion osteocytes.   This cell was found in a vertebrate jaw bone from the fresh water fish, Megalichthys hibberti.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "30",
@@ -657,8 +628,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "31",
@@ -675,12 +645,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cell (lacuna are small chambers in the mineralized bone that hold the Osteocytes).  The clean and smooth walls of the caliculi indifferential interference contrastate almost no degradation. To the upper left of the images is a dark cal filled with iron pyrite.  Fossil bone samples found in Northumberland Carboniferous coal shales are considered to be 350 million years old (myo). 500x",
+        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cell (lacuna are small chambers in the mineralized bone that hold the Osteocytes).  The clean and smooth walls of the caliculi indifferential interference contrastate almost no degradation. To the upper left of the images is a dark canal filled with iron pyrite.  Fossil bone samples found in Northumberland Carboniferous coal shales are considered to be 350 million years old (myo). 500x",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "32",
@@ -701,8 +670,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "33",
@@ -719,12 +687,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "diagonally through the center of the image can be seen a well defined network of preserved osteocytes.  To the center-right a number of highly altered osteocytes can be seen. Along the top of the image is a large cal that is currently occupied by an opaque deposit of iron pyrite.  The cuboids shape of the framboids can be distinctly seen.  The network of lacuna (cells) through the center of the image each hold the condensed remains of what looks like the original cell, (lacuna are small chambers in the mineralized bone that hold the Osteocytes).  This network of osteocytes is connected by a web of preserved dendroid caliculi. Fish fossil bone found in Carboniferous Northumberland coal shales are considered to be 350 million years old (myo).",
+        "description": "diagonally through the center of the image can be seen a well defined network of preserved osteocytes.  To the center-right a number of highly altered osteocytes can be seen. Along the top of the image is a large canal that is currently occupied by an opaque deposit of iron pyrite.  The cuboids shape of the framboids can be distinctly seen.  The network of lacuna (cells) through the center of the image each hold the condensed remains of what looks like the original cell, (lacuna are small chambers in the mineralized bone that hold the Osteocytes).  This network of osteocytes is connected by a web of preserved dendroid caliculi. Fish fossil bone found in Carboniferous Northumberland coal shales are considered to be 350 million years old (myo).",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "34",
@@ -745,8 +712,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "35",
@@ -767,8 +733,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "36",
@@ -789,8 +754,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "37",
@@ -811,8 +775,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "38",
@@ -833,8 +796,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "39",
@@ -855,8 +817,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "40",
@@ -877,8 +838,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "41",
@@ -899,8 +859,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "42",
@@ -921,8 +880,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "43",
@@ -943,8 +901,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "44",
@@ -961,12 +918,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of three denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular cals are found throughout the teeth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of three denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular canals are found throughout the teeth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "45",
@@ -983,12 +939,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of two denticulate fish teeth both slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular cals are found throughout the teeth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of two denticulate fish teeth both slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular canals are found throughout the teeth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "46",
@@ -1005,12 +960,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of small denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  This zone of the tooth is lightly stained with migrating carbon from the coal deposit.  The surface is covered with a very thin emel crown just visible along the out edge.  Abundant vascular cals are found throughout the teeth. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of small denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  This zone of the tooth is lightly stained with migrating carbon from the coal deposit.  The surface is covered with a very thin emel crown just visible along the out edge.  Abundant vascular canals are found throughout the teeth. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "47",
@@ -1027,12 +981,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a small denticulate fish tooth.  The central morphology consists of a trabecular dentine with abundant cavities.  Tooth density increases towards the outer margins.  This zone of the tooth is lightly stained with migrating carbon from the coal deposit.  The surface is covered with a very thin emel crown just visible along the out edge.  Abundant vascular cals are found throughout the tooth.  On the right a carful inspection reveals a small vascular cal with a tiny fossilized blood clot. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a small denticulate fish tooth.  The central morphology consists of a trabecular dentine with abundant cavities.  Tooth density increases towards the outer margins.  This zone of the tooth is lightly stained with migrating carbon from the coal deposit.  The surface is covered with a very thin emel crown just visible along the out edge.  Abundant vascular canals are found throughout the tooth.  On the right a carful inspection reveals a small vascular canal with a tiny fossilized blood clot. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "48",
@@ -1049,12 +1002,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a small denticulate fish tooth.  The central morphology consists of a trabecular dentine with abundant cals.  In this image can be seen one of these tiny vascular cals termiting with a densely packed fossilized blood clot.  The individual blood cells are highly mineralized and incrusted with a silicate deposits. The rust color stain of the surrounding dentine is likely the release of an iron compounds.  To the left small tubules can be seen exiting a small cavity.  Abundant vascular cals are found throughout the tooth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a small denticulate fish tooth.  The central morphology consists of a trabecular dentine with abundant canals.  In this image can be seen one of these tiny vascular canals termiting with a densely packed fossilized blood clot.  The individual blood cells are highly mineralized and incrusted with a silicate deposits. The rust color stain of the surrounding dentine is likely the release of an iron compounds.  To the left small tubules can be seen exiting a small cavity.  Abundant vascular canals are found throughout the tooth.  The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "49",
@@ -1075,8 +1027,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "50",
@@ -1097,8 +1048,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "51",
@@ -1119,8 +1069,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "52",
@@ -1141,8 +1090,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "53",
@@ -1163,8 +1111,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "54",
@@ -1185,8 +1132,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "55",
@@ -1207,8 +1153,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "56",
@@ -1229,8 +1174,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "57",
@@ -1251,8 +1195,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "58",
@@ -1273,8 +1216,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "59",
@@ -1295,8 +1237,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "60",
@@ -1317,8 +1258,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "61",
@@ -1339,8 +1279,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "62",
@@ -1361,8 +1300,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "63",
@@ -1383,8 +1321,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "64",
@@ -1405,8 +1342,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "65",
@@ -1427,8 +1363,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "66",
@@ -1449,8 +1384,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "67",
@@ -1471,8 +1405,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "68",
@@ -1493,8 +1426,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "69",
@@ -1515,8 +1447,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "70",
@@ -1533,12 +1464,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "Cross section through a fish scale featuring an isolated cal having the Remnants of incrustated fossil blood cells lining the lower left wall.  Each mineral layer features elongated lacuna that run parallel with each layer. The image captures a number of depositiol layers with the lacuna now running perpendicular to the previous layer. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK (1876).",
+        "description": "Cross section through a fish scale featuring an isolated canal having the Remnants of incrustated fossil blood cells lining the lower left wall.  Each mineral layer features elongated lacuna that run parallel with each layer. The image captures a number of depositiol layers with the lacuna now running perpendicular to the previous layer. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK (1876).",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "71",
@@ -1559,8 +1489,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "72",
@@ -1581,8 +1510,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "73",
@@ -1599,12 +1527,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "This is a section through the junction of two intersecting cals with a permineralized vessel running through the vertical cal.  The interl walls of the cals are colored by a tural ferrous oxide stain. Laminated mineral layers make up the composition of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other.  Here we see a number of fused layers with the lacuna now running perpendicular to the previous layer.  The specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK ",
+        "description": "This is a section through the junction of two intersecting canals with a permineralized vessel running through the vertical cal.  The interl walls of the canals are colored by a tural ferrous oxide stain. Laminated mineral layers make up the composition of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other.  Here we see a number of fused layers with the lacuna now running perpendicular to the previous layer.  The specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "74",
@@ -1621,12 +1548,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "This is a section through a denticle containing the Remnants of a mineralized blood vessel running through the vertical cal. The interl walls of the cals are colored by a tural ferrous oxide stain. Laminated mineral layers make up the body of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other.  Small fluid inclusions can be seen in the upper left of the cals. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK. ",
+        "description": "This is a section through a denticle containing the Remnants of a mineralized blood vessel running through the vertical cal. The interl walls of the canals are colored by a tural ferrous oxide stain. Laminated mineral layers make up the body of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other.  Small fluid inclusions can be seen in the upper left of the canals. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK. ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "75",
@@ -1643,12 +1569,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "This is a section through a denticle containing the Remnants of a mineralized blood vessel running through the vertical cal. The interl walls of the cals are colored by a tural ferrous oxide stain. This image represents a density-map of the section, the vessel running vertically through the cal can be seen as hollow having less density then the surrounding tissue.  Laminated mineral layers make up the body of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK.  ",
+        "description": "This is a section through a denticle containing the Remnants of a mineralized blood vessel running through the vertical cal. The interl walls of the canals are colored by a tural ferrous oxide stain. This image represents a density-map of the section, the vessel running vertically through the canal can be seen as hollow having less density then the surrounding tissue.  Laminated mineral layers make up the body of this dermal scale, with each layer occupied by elongated lacuna that runs parallel with each other. This specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK.  ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "76",
@@ -1665,12 +1590,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Dudley",
         "country": "UK",
-        "description": "This is a section through the base of the scale illustrating three dark cals against the background of basal bone. Each cal contains fossil clotted blood cells that are incrusted by intense mineralization (original cells no longer present). The bony tissue is occupied with osteocyte lacuna many now containing inclusions. The specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK",
+        "description": "This is a section through the base of the scale illustrating three dark canals against the background of basal bone. Each canal contains fossil clotted blood cells that are incrusted by intense mineralization (original cells no longer present). The bony tissue is occupied with osteocyte lacuna many now containing inclusions. The specimen is from Carboniferous coal shale recovered from the Foxyards Colliery, Dudley, UK",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "77",
@@ -1691,8 +1615,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "78",
@@ -1709,12 +1632,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Evenly spaced cals with densely packed lacuna in the bone matrix. In the center is a well preserved osteocyte with remnant caliculi. Inside the lacuna is an anisotropic structure that fills the inside space of the chamber. The source is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "Evenly spaced canals with densely packed lacuna in the bone matrix. In the center is a well preserved osteocyte with remnant caliculi. Inside the lacuna is an anisotropic structure that fills the inside space of the chamber. The source is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "79",
@@ -1735,8 +1657,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "80",
@@ -1757,8 +1678,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "81",
@@ -1779,8 +1699,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "82",
@@ -1801,8 +1720,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "83",
@@ -1823,8 +1741,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "84",
@@ -1845,8 +1762,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "85",
@@ -1867,8 +1783,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "86",
@@ -1889,8 +1804,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "87",
@@ -1911,8 +1825,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "88",
@@ -1933,8 +1846,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "89",
@@ -1951,12 +1863,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Bone tissue illustrating a dense population of osteocytes, most of the cells are well mineralized but have not all fossilized in quite the same way. Many of the lacuna still contain fossilized remains and in all cases are isotropic indicating low mineral content. Inside the body of four lacuna can be seen distinct gas inclusions. Early decay produced CO2 and methane and if you are fortute this evidence can still be found in the cell. A few of lacuna to the right has been stained by a tural ferrous oxide deposit. Surrounded many of the cells can be seen a halo of remnant caliculi. A distinct mineralized cal can be seen to the upper left of the image. This sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "Bone tissue illustrating a dense population of osteocytes, most of the cells are well mineralized but have not all fossilized in quite the same way. Many of the lacuna still contain fossilized remains and in all cases are isotropic indicating low mineral content. Inside the body of four lacuna can be seen distinct gas inclusions. Early decay produced CO2 and methane and if you are fortute this evidence can still be found in the cell. A few of lacuna to the right has been stained by a tural ferrous oxide deposit. Surrounded many of the cells can be seen a halo of remnant caliculi. A distinct mineralized canal can be seen to the upper left of the image. This sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "90",
@@ -1977,8 +1888,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "91",
@@ -1999,8 +1909,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "92",
@@ -2021,8 +1930,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "93",
@@ -2043,8 +1951,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "94",
@@ -2065,8 +1972,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "95",
@@ -2087,8 +1993,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "96",
@@ -2109,8 +2014,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "97",
@@ -2131,8 +2035,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "98",
@@ -2153,8 +2056,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "99",
@@ -2175,8 +2077,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "100",
@@ -2197,8 +2098,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "101",
@@ -2215,12 +2115,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a cross section cut through a single fish dermal tubercle. The top of the tubercle has been removed leaving a clear view of the interl structure. The dentin that makes up the body of can be seen in a gold-brown color with darker zones twisting through the matrix. Most of this dermal sample is composed of odontogenic tissues (dentin). Across the upper zone of the tubercle can be seen an expanding cal filled with stained and mineralized organics. Towards the lower half can be seen a cavity with clotted fossilized blood cells. The rust color is likely a tural ferrous oxide stain that binds more easily with decayed organics.",
+        "description": "This is a cross section cut through a single fish dermal tubercle. The top of the tubercle has been removed leaving a clear view of the interl structure. The dentin that makes up the body of can be seen in a gold-brown color with darker zones twisting through the matrix. Most of this dermal sample is composed of odontogenic tissues (dentin). Across the upper zone of the tubercle can be seen an expanding canal filled with stained and mineralized organics. Towards the lower half can be seen a cavity with clotted fossilized blood cells. The rust color is likely a tural ferrous oxide stain that binds more easily with decayed organics.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "102",
@@ -2237,12 +2136,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a cross section cut through a single fish dermal tubercle. The top of the tubercle has been removed leaving a clear view of the interl structure. The dentin that makes up the body of can be seen in a gold-brown color with darker zones twisting through the matrix. Most of this dermal sample is composed of odontogenic tissues (dentin). Across the upper zone of the tubercle can be seen an expanding cal filled with stained and mineralized organics. Towards the lower half can be seen a cavity with clotted fossilized blood cells. The rust color is likely a tural ferrous oxide stain that binds more easily with decayed organics.",
+        "description": "This is a cross section cut through a single fish dermal tubercle. The top of the tubercle has been removed leaving a clear view of the interl structure. The dentin that makes up the body of can be seen in a gold-brown color with darker zones twisting through the matrix. Most of this dermal sample is composed of odontogenic tissues (dentin). Across the upper zone of the tubercle can be seen an expanding canal filled with stained and mineralized organics. Towards the lower half can be seen a cavity with clotted fossilized blood cells. The rust color is likely a tural ferrous oxide stain that binds more easily with decayed organics.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "103",
@@ -2263,8 +2161,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "104",
@@ -2285,8 +2182,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "105",
@@ -2307,8 +2203,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "106",
@@ -2329,8 +2224,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "107",
@@ -2351,8 +2245,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "108",
@@ -2373,8 +2266,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "109",
@@ -2395,8 +2287,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "110",
@@ -2417,8 +2308,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "111",
@@ -2435,12 +2325,11 @@ export const imageData =
         "site": "",
         "location": "",
         "country": "",
-        "description": "This is a transverse section of a fossil fish rib bone with a calcified central Haversian cal. Connected to the endostial wall of the cal are caliculi that at one time provided nutrients to the osteocytes. The osteocytes are now pyritized leaving them nearly black under transparent illumination. A few osteocytes retain their extensive network of preserved caliculi.",
+        "description": "This is a transverse section of a fossil fish rib bone with a calcified central Haversian cal. Connected to the endostial wall of the canal are caliculi that at one time provided nutrients to the osteocytes. The osteocytes are now pyritized leaving them nearly black under transparent illumination. A few osteocytes retain their extensive network of preserved caliculi.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "112",
@@ -2457,12 +2346,11 @@ export const imageData =
         "site": "",
         "location": "",
         "country": "",
-        "description": "This is a transverse section of a fossil fish rib bone with a calcified central Haversian cal. Extending out from the endostial wall of the cal are caliculi that at one time provided nutrients to the osteocytes. As the result of extensive diagenesis the caliculi have been converted to iron disulfide and now appear as black squiggly lines. There can be seen a primary lamellae around the large cal that is lined with fossil osteocytes. Calcite fills most of the volume of the cal; however, embedded throughout are tiny pyritized framboids (Iron disulfide). The source of the iron is likely fossil blood clots reduced into an isometric pattern.",
+        "description": "This is a transverse section of a fossil fish rib bone with a calcified central Haversian cal. Extending out from the endostial wall of the canal are caliculi that at one time provided nutrients to the osteocytes. As the result of extensive diagenesis the caliculi have been converted to iron disulfide and now appear as black squiggly lines. There can be seen a primary lamellae around the large canal that is lined with fossil osteocytes. Calcite fills most of the volume of the cal; however, embedded throughout are tiny pyritized framboids (Iron disulfide). The source of the iron is likely fossil blood clots reduced into an isometric pattern.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "113",
@@ -2483,8 +2371,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "114",
@@ -2505,8 +2392,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "115",
@@ -2527,8 +2413,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "116",
@@ -2549,8 +2434,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "117",
@@ -2571,8 +2455,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "118",
@@ -2593,8 +2476,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "119",
@@ -2615,8 +2497,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "120",
@@ -2637,8 +2518,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "121",
@@ -2655,12 +2535,11 @@ export const imageData =
         "site": "",
         "location": "",
         "country": "",
-        "description": "This is a thin section of lamir bone featuring a vascular cal running vertically through the center of the image. The cals and cavities of the bone are permineralized primarily of calcite.  Along the center axis of the cal can be seen a pyritized blood vessel, now framboids in character (iron disulfide) seen as a black precipitate.",
+        "description": "This is a thin section of lamir bone featuring a vascular canal running vertically through the center of the image. The canals and cavities of the bone are permineralized primarily of calcite.  Along the center axis of the canal can be seen a pyritized blood vessel, now framboids in character (iron disulfide) seen as a black precipitate.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "122",
@@ -2677,12 +2556,11 @@ export const imageData =
         "site": "",
         "location": "",
         "country": "",
-        "description": "This is a thin section of lamir bone featuring a vascular cal running vertically through the center of the image. The cals and cavities of the bone are permineralized primarily of calcite. Along the center axis of the cal can be seen a pyritized blood vessel, however, the membrane of this vessel remains in-tacked and visible upon close inspection. The contents of the vessel are now framboids (iron disulfide) seen as a black precipitate.",
+        "description": "This is a thin section of lamir bone featuring a vascular canal running vertically through the center of the image. The canals and cavities of the bone are permineralized primarily of calcite. Along the center axis of the canal can be seen a pyritized blood vessel, however, the membrane of this vessel remains in-tacked and visible upon close inspection. The contents of the vessel are now framboids (iron disulfide) seen as a black precipitate.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "123",
@@ -2703,8 +2581,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "124",
@@ -2725,8 +2602,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "125",
@@ -2747,8 +2623,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "126",
@@ -2769,8 +2644,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "127",
@@ -2787,12 +2661,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "This specimen is from Carboniferous coal shale that houses an embedded fossil fish scale (denticle). There is one darkened lacuna along with a single vascular cal to the lower-left. In the upper-right corner is a completely carbonized star shaped osteocyte. The inside walls of the central lacuna are thickly stained with migrating carbon from the surrounding coal deposits. The interl central zone retains fragments of organic materials, polarized light shows little birefringence within the lacuna. The sample was found in Carboniferous English coal shale.",
+        "description": "This specimen is from Carboniferous coal shale that houses an embedded fossil fish scale (denticle). There is one darkened lacuna along with a single vascular canal to the lower-left. In the upper-right corner is a completely carbonized star shaped osteocyte. The inside walls of the central lacuna are thickly stained with migrating carbon from the surrounding coal deposits. The interl central zone retains fragments of organic materials, polarized light shows little birefringence within the lacuna. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "128",
@@ -2809,12 +2682,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "This specimen is from Carboniferous coal shale that houses an embedded fossil fish scale (denticle). There is one darkened lacuna along with a single vascular cal to the lower-left. The inside walls of the lacuna are thickly stained with migrating carbon from the surrounding coal deposits. The interl central zone retains fragments of organic materials, polarized light shows little birefringence within the lacuna. The sample was found in Carboniferous English coal shale.",
+        "description": "This specimen is from Carboniferous coal shale that houses an embedded fossil fish scale (denticle). There is one darkened lacuna along with a single vascular canal to the lower-left. The inside walls of the lacuna are thickly stained with migrating carbon from the surrounding coal deposits. The interl central zone retains fragments of organic materials, polarized light shows little birefringence within the lacuna. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "129",
@@ -2835,8 +2707,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "130",
@@ -2857,8 +2728,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "131",
@@ -2879,8 +2749,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "132",
@@ -2901,8 +2770,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "133",
@@ -2923,8 +2791,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "134",
@@ -2945,8 +2812,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "135",
@@ -2967,8 +2833,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "136",
@@ -2985,12 +2850,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "This fossil fish spine was found in Carboniferous coal shale, and represents a sagittal-section through the growth patterns of the ridges near the surface. Looking through the darker top layer of cals one can see the next layer of smaller vascular cals running from left to right. This illustrates the complex structure of this type of spine morphology. The sample was found in Carboniferous English coal shale.",
+        "description": "This fossil fish spine was found in Carboniferous coal shale, and represents a sagittal-section through the growth patterns of the ridges near the surface. Looking through the darker top layer of canals one can see the next layer of smaller vascular canals running from left to right. This illustrates the complex structure of this type of spine morphology. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "137",
@@ -3007,12 +2871,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine illustrating its interl cal system. Inside the cals are the remains of iron pyrite framboids (iron disulfide). The sample is also contamited with carbon from the surrounding coal shale. Delicate detail can be seen on the endostial walls of the cal system. From Carboniferous coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a fish spine illustrating its interl canal system. Inside the canals are the remains of iron pyrite framboids (iron disulfide). The sample is also contamited with carbon from the surrounding coal shale. Delicate detail can be seen on the endostial walls of the canal system. From Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "138",
@@ -3029,12 +2892,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine illustrating its interl cal system. Inside the upper right cal can be seen a confined pyritized blood clot, now altered to iron pyrite framboids (iron disulfide). Delicate detail can be seen on the endostial walls of the cal system. From Carboniferous coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a fish spine illustrating its interl canal system. Inside the upper right canal can be seen a confined pyritized blood clot, now altered to iron pyrite framboids (iron disulfide). Delicate detail can be seen on the endostial walls of the canal system. From Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "139",
@@ -3051,12 +2913,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine illustrating its interl cal system. Inside the cals are the remains of iron pyrite framboids (iron disulfide). The sample is also contamited with carbon from the surrounding coal shale. Delicate detail can be seen on the endostial walls of the cal system. From Carboniferous coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a fish spine illustrating its interl canal system. Inside the canals are the remains of iron pyrite framboids (iron disulfide). The sample is also contamited with carbon from the surrounding coal shale. Delicate detail can be seen on the endostial walls of the canal system. From Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "140",
@@ -3073,12 +2934,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine illustrating an unknown feature that looks like a super-large lacuna. To the right of a vascular cal is an uncharacterized hollow wrinkled structure that resembles an altered lacuna. It is nearly eight to ten times the size of the typical lacuna found in hard tissues. However, just visible you can see the delicate remains of branching caliculi. This description supports the idea it may be the chamber of an unknown very large cell. At this time we have found no definitive description in the literature but have not yet given up the investigation. The altertive thought is the possibility this is the burrowing chamber of an unknown parasite. However, In this image there is no clear connection to the cal but in other examples in this same sample there is clear evidence of an outlet into the vascular cal (see image No.142 for a reference). In this image we see two almost identical examples whereas they are quite rare throughout the rest of the thin-section. Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. From Carboniferous coal shale, Northumberland, UK. ",
+        "description": "This is a longitudinal section of a fish spine illustrating an unknown feature that looks like a super-large lacuna. To the right of a vascular canal is an uncharacterized hollow wrinkled structure that resembles an altered lacuna. It is nearly eight to ten times the size of the typical lacuna found in hard tissues. However, just visible you can see the delicate remains of branching caliculi. This description supports the idea it may be the chamber of an unknown very large cell. At this time we have found no definitive description in the literature but have not yet given up the investigation. The altertive thought is the possibility this is the burrowing chamber of an unknown parasite. However, In this image there is no clear connection to the canal but in other examples in this same sample there is clear evidence of an outlet into the vascular canal (see image No.142 for a reference). In this image we see two almost identical examples whereas they are quite rare throughout the rest of the thin-section. Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. From Carboniferous coal shale, Northumberland, UK. ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "141",
@@ -3095,12 +2955,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine featuring an unknown structure that looks like a super-large lacuna. This feature has penetrated the lower wall of the vascular cal and extends deep into the hard tissue. At this time, it can be described as an uncharacterized hollow wrinkled structure that could be considered an altered lacuna. However, in this image there are no discernible caliculi. Also, it is nearly eight to ten times the size of the typical lacuna found in hard tissues. At the present we have found no definitive description in the literature but have not yet given up the investigation. It has occurred to us this may be the burrowing chamber of an unknown parasite. Other images show it with no connection to the cal, but that is likely due to the plan of the section (see No.140). Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. Both of the cals contain excess carbon from the surrounding coal deposits. From Carboniferous coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a fish spine featuring an unknown structure that looks like a super-large lacuna. This feature has penetrated the lower wall of the vascular canal and extends deep into the hard tissue. At this time, it can be described as an uncharacterized hollow wrinkled structure that could be considered an altered lacuna. However, in this image there are no discernible caliculi. Also, it is nearly eight to ten times the size of the typical lacuna found in hard tissues. At the present we have found no definitive description in the literature but have not yet given up the investigation. It has occurred to us this may be the burrowing chamber of an unknown parasite. Other images show it with no connection to the cal, but that is likely due to the plan of the section (see No.140). Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. Both of the canals contain excess carbon from the surrounding coal deposits. From Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "142",
@@ -3117,12 +2976,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of a fish spine featuring an unknown structure that looks like a super-large lacuna. This feature has penetrated the lower wall of the vascular cal and extends deep into the dentine. At this time, it can be described as an uncharacterized hollow wrinkled structure that could be considered an altered lacuna. However, in this image there are no discernible caliculi. Also, it is nearly eight to ten times the size of the typical lacuna found in hard tissues. At the present we have found no definitive description in the literature but have not yet given up the investigation. It has occurred to us this may be the burrowing chamber of an unknown parasite. Other images show it with no connection to the cal, but that is likely due to the plan of the section (see No.140). Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. The vascular cal contain excess carbon from the surrounding coal deposits. From Carboniferous coal shale, Northumberland, UK.",
+        "description": "This is a longitudinal section of a fish spine featuring an unknown structure that looks like a super-large lacuna. This feature has penetrated the lower wall of the vascular canal and extends deep into the dentine. At this time, it can be described as an uncharacterized hollow wrinkled structure that could be considered an altered lacuna. However, in this image there are no discernible caliculi. Also, it is nearly eight to ten times the size of the typical lacuna found in hard tissues. At the present we have found no definitive description in the literature but have not yet given up the investigation. It has occurred to us this may be the burrowing chamber of an unknown parasite. Other images show it with no connection to the cal, but that is likely due to the plan of the section (see No.140). Normal lacuna that once held osteocytes are extremely rare throughout the rest of this sample but this is to be expected of the histology of a fish dermal spine. The vascular canal contain excess carbon from the surrounding coal deposits. From Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "143",
@@ -3143,8 +3001,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "144",
@@ -3165,8 +3022,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "145",
@@ -3187,8 +3043,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "146",
@@ -3205,12 +3060,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "This is a cross section through Carboniferous coal shale that holds the preserved remains of a fossil fish tooth.  Most of the image consists of denticulate hard tissue that still hold the fossil Remnants of tubule collagen. Hollow micro-tubes (dentin tubules) connected to the cal can still be seen with darkened collagen still preserved at the distal ends. The sample was found in Carboniferous English coal shale.",
+        "description": "This is a cross section through Carboniferous coal shale that holds the preserved remains of a fossil fish tooth.  Most of the image consists of denticulate hard tissue that still hold the fossil Remnants of tubule collagen. Hollow micro-tubes (dentin tubules) connected to the canal can still be seen with darkened collagen still preserved at the distal ends. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "147",
@@ -3227,12 +3081,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "This is a cross section through Carboniferous coal shale that holds the preserved remains of a fossil fish tooth. Most of the image consists of hard tissues (dentine) that still holds the fossil Remnants of tubule collagen. A very small pulp cal ends with an expanding array of dentine tubules, the inside walls of this cal were once coated with odontoblasts that filled the tubules with extended apical processes. Most of the tubules still hold darkened collagen which has not completely decayed. The sample was found in Carboniferous English coal shale.",
+        "description": "This is a cross section through Carboniferous coal shale that holds the preserved remains of a fossil fish tooth. Most of the image consists of hard tissues (dentine) that still holds the fossil Remnants of tubule collagen. A very small pulp canal ends with an expanding array of dentine tubules, the inside walls of this canal were once coated with odontoblasts that filled the tubules with extended apical processes. Most of the tubules still hold darkened collagen which has not completely decayed. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "148",
@@ -3253,8 +3106,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "149",
@@ -3275,8 +3127,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "150",
@@ -3293,12 +3144,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "UK",
-        "description": "Fossil fish tooth mounted in Carboniferous coal shale, the sample is labeled as a Gyracanthus, denticle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically very large compared to its body. They are considered closely related to the Chondrichthyans. Down the central axis of the right branch is a vascular cal still packed with a fossil blood-clot. The sample was found in Carboniferous English coal shale.",
+        "description": "Fossil fish tooth mounted in Carboniferous coal shale, the sample is labeled as a Gyracanthus, denticle. The Gyracanthides are a rather large acanthodian, some reaching the length of nearly 4 feet. The pectoral fin spines are characteristically very large compared to its body. They are considered closely related to the Chondrichthyans. Down the central axis of the right branch is a vascular canal still packed with a fossil blood-clot. The sample was found in Carboniferous English coal shale.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "151",
@@ -3315,12 +3165,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cells (lacuna are small chambers in the mineralized bone that hold the osteocytes).  The clean and smooth walls of the caliculi indicate almost no degradation. To the upper left of the images is a dark cal filled with iron pyrite, this also occurs in a small cluster to the right.  Fossil bone samples found in Northumberland Carboniferous coal shale are considered to be 350 million years old (myo). 800x, for a lower magnification see I.D.No.031.",
+        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cells (lacuna are small chambers in the mineralized bone that hold the osteocytes).  The clean and smooth walls of the caliculi indicate almost no degradation. To the upper left of the images is a dark canal filled with iron pyrite, this also occurs in a small cluster to the right.  Fossil bone samples found in Northumberland Carboniferous coal shale are considered to be 350 million years old (myo). 800x, for a lower magnification see I.D.No.031.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "152",
@@ -3337,12 +3186,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cells (lacuna are small chambers in the mineralized bone that hold the osteocytes).  The clean and smooth walls of the caliculi indicate almost no degradation. To the upper left of the images is a dark cal filled with iron pyrite.  Fossil bone samples found in Northumberland Carboniferous coal shale are considered to be 350 million years old (myo). 800x, for a lower magnification see I.D.No.033.",
+        "description": "Network of nearly perfectly preserved osteocytes from a longitudinal section of spongy bone (Aspidin), this represents part of a fish fossil that was found in Carboniferous coal shale (Northumberland, UK).  Each lacuna holds the condensed and calcified remnant of what appears to be the original cells (lacuna are small chambers in the mineralized bone that hold the osteocytes).  The clean and smooth walls of the caliculi indicate almost no degradation. To the upper left of the images is a dark canal filled with iron pyrite.  Fossil bone samples found in Northumberland Carboniferous coal shale are considered to be 350 million years old (myo). 800x, for a lower magnification see I.D.No.033.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "153",
@@ -3363,8 +3211,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "154",
@@ -3381,12 +3228,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a longitudinal section of three denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular cals are found throughout the teeth.  Image acquired with the use of x-polarized light and a 1st order compensator, for BF image see No.045. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.  ",
+        "description": "This is a longitudinal section of three denticulate fish teeth all slightly different in size.  The central morphology consists of a trabecular dentine with abundant cavities.  The density increases towards the outer margins of the teeth.  The surface is covered with a very thin emel crown just visible with higher magnification.  Vascular canals are found throughout the teeth.  Image acquired with the use of x-polarized light and a 1st order compensator, for BF image see No.045. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.  ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "155",
@@ -3407,8 +3253,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "156",
@@ -3429,8 +3274,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "157",
@@ -3451,8 +3295,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "158",
@@ -3473,8 +3316,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "159",
@@ -3495,8 +3337,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "160",
@@ -3517,8 +3358,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "161",
@@ -3539,8 +3379,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "162",
@@ -3561,8 +3400,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "163",
@@ -3583,8 +3421,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "164",
@@ -3605,8 +3442,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "165",
@@ -3627,8 +3463,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "166",
@@ -3649,8 +3484,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "167",
@@ -3671,8 +3505,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "168",
@@ -3693,8 +3526,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "169",
@@ -3715,8 +3547,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "170",
@@ -3737,8 +3568,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "171",
@@ -3759,8 +3589,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "172",
@@ -3781,8 +3610,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "173",
@@ -3803,8 +3631,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "174",
@@ -3825,8 +3652,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "175",
@@ -3847,8 +3673,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "176",
@@ -3865,12 +3690,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). These fossil fragments consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment are found both well preserved and decayed osteocytes. The lacuna on the far left are almost completely empty with little organic content remaining. To the right of center are cells with traces of the original content with Remnants of what appears to be organic inclusions. The content of these cells do not produce any detectable birefringence, establishing doubt that permineralization has occurred. These two zones of decay reflect the fact that the lacuna on the left are closer to the central cal of the spine and have been exposed to increased hydrolysis. This image illustrates part of the central shaft of the fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). These fossil fragments consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment are found both well preserved and decayed osteocytes. The lacuna on the far left are almost completely empty with little organic content remaining. To the right of center are cells with traces of the original content with Remnants of what appears to be organic inclusions. The content of these cells do not produce any detectable birefringence, establishing doubt that permineralization has occurred. These two zones of decay reflect the fact that the lacuna on the left are closer to the central canal of the spine and have been exposed to increased hydrolysis. This image illustrates part of the central shaft of the fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "177",
@@ -3887,12 +3711,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments in the shale consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment are just two poorly preserved osteocytes with well degraded caliculi. The cell on the right retains a small remnant of what might be adipocere salts of condensed fatty acids, now more of an organic concretion.  The content of the cell does not produce any significant birefringence, creating doubt that permineralization has occurred. These two lacunas reflect the fact that they are closer to the central cal of the spine and have been exposed to increased hydrolysis. The caliculi are good examples of the long term affects of persistent hydrolysis. This image illustrates part of the central shaft of this fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments in the shale consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment are just two poorly preserved osteocytes with well degraded caliculi. The cell on the right retains a small remnant of what might be adipocere salts of condensed fatty acids, now more of an organic concretion.  The content of the cell does not produce any significant birefringence, creating doubt that permineralization has occurred. These two lacunas reflect the fact that they are closer to the central canal of the spine and have been exposed to increased hydrolysis. The caliculi are good examples of the long term affects of persistent hydrolysis. This image illustrates part of the central shaft of this fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "178",
@@ -3909,12 +3732,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments in the shale consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment is seen one poorly preserved osteocyte with altered and degraded caliculi. The cell still holds a small remnant of what might be adipocere salts of condensed fatty acids, now more of an organic concretion. The content of the cell does not produce any significant birefringence; creating doubt that permineralization has occurred. This individual lacuna reflects the fact that it was located closer to the central cal of the spine and has been exposed to increased hydrolysis. The altered caliculi are good examples of the long term affects of persistent hydrolysis and even suggest the recrystallization of the surrounding mineral. The image was acquired from the central shaft of this fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
+        "description": "This is a section through North English coal shale containing the fossil remains of Rhizodontida, a Carboniferous class of fish; The Rhizodonts are among the Sareopterygians and thrived during the Devonian and Carboniferous.  The specific species is unknown but thought to be Rhizodus hibberti (1864). The fossil fragments in the shale consist of fish spines, scales, tusk and dermal skeletal tissues. In this small fragment is seen one poorly preserved osteocyte with altered and degraded caliculi. The cell still holds a small remnant of what might be adipocere salts of condensed fatty acids, now more of an organic concretion. The content of the cell does not produce any significant birefringence; creating doubt that permineralization has occurred. This individual lacuna reflects the fact that it was located closer to the central canal of the spine and has been exposed to increased hydrolysis. The altered caliculi are good examples of the long term affects of persistent hydrolysis and even suggest the recrystallization of the surrounding mineral. The image was acquired from the central shaft of this fossil fish spine. The source of this sample is from the Carboniferous low main coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "179",
@@ -3935,8 +3757,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "180",
@@ -3953,12 +3774,11 @@ export const imageData =
         "site": "woods deposit",
         "location": "London",
         "country": "England",
-        "description": "This is a well preserved vascular cal inside a sharks tooth. Within the surrounding dentin can be seen small segments of dentil tubules. Inside the cal can be seen what looks like surviving erythrocytes (blood cells). These small red structures are within the range of 8 to 10 microns in diameter. As this time there is not yet any iron or pyrite framboids associated with these red cell structures. The location from which this tooth comes is the Abbey Wood deposits in London, England, UK. This fossil site is of Eocene deposits. MSSC 22.11-1.",
+        "description": "This is a well preserved vascular canal inside a sharks tooth. Within the surrounding dentin can be seen small segments of dentil tubules. Inside the canal can be seen what looks like surviving erythrocytes (blood cells). These small red structures are within the range of 8 to 10 microns in diameter. As this time there is not yet any iron or pyrite framboids associated with these red cell structures. The location from which this tooth comes is the Abbey Wood deposits in London, England, UK. This fossil site is of Eocene deposits. MSSC 22.11-1.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "181",
@@ -3975,12 +3795,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Within the dentin can be seen converging fibers that represent thin dentil tubules. Ultimately, the tubules originate from a central pulp cavity. With the use of polarized light, the tooth itself lights up with bright birefringence do to the relative purity of the apatite. The darker and more organic areas are compatible with spongy bone morphology. This area of the tooth is not very optically active and acts as an anchor or root for the tooth (see No.182 for bright-field image). The light blue granular cals have been permineralized with a silicate. This tooth is just one of a number of others found in this section. This sample is from Carboniferous coal shale, Northumberland, UK.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Within the dentin can be seen converging fibers that represent thin dentil tubules. Ultimately, the tubules originate from a central pulp cavity. With the use of polarized light, the tooth itself lights up with bright birefringence do to the relative purity of the apatite. The darker and more organic areas are compatible with spongy bone morphology. This area of the tooth is not very optically active and acts as an anchor or root for the tooth (see No.182 for bright-field image). The light blue granular canals have been permineralized with a silicate. This tooth is just one of a number of others found in this section. This sample is from Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "182",
@@ -3997,12 +3816,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Within the dentin can be seen converging fibers that represent thin dentil tubules. Ultimately, the tubules originate from a central pulp cavity. This bright-field image should be compared with the polarized light image which better defines the concentrated apatite found in the dentine (see No.181, BF). The zone of the tooth to the left illustrates a network of pulp cals that provided blood to the area (tooth). The cavities are now permineralized with a granular silicate. This sample is from Carboniferous coal shale, Northumberland, UK. ",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Within the dentin can be seen converging fibers that represent thin dentil tubules. Ultimately, the tubules originate from a central pulp cavity. This bright-field image should be compared with the polarized light image which better defines the concentrated apatite found in the dentine (see No.181, BF). The zone of the tooth to the left illustrates a network of pulp canals that provided blood to the area (tooth). The cavities are now permineralized with a granular silicate. This sample is from Carboniferous coal shale, Northumberland, UK. ",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "183",
@@ -4019,12 +3837,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Around each cal can be seen a thick network of dentin tubules highlighted by a tural ferrous oxide stain. The tubules now look like a dense fibrous mass imbedded in the dentine. This bright-field image is a higher magnification of image No.182. This zone of the tooth is punctuated by a number of pulp cals that provided blood to the area (tooth). The cavities are now permineralized with a granular silicate. This sample is from Carboniferous coal shale, Northumberland, UK.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image illustrates the proximal zone of a very tiny toothlet. Around each canal can be seen a thick network of dentin tubules highlighted by a tural ferrous oxide stain. The tubules now look like a dense fibrous mass imbedded in the dentine. This bright-field image is a higher magnification of image No.182. This zone of the tooth is punctuated by a number of pulp canals that provided blood to the area (tooth). The cavities are now permineralized with a granular silicate. This sample is from Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "184",
@@ -4045,8 +3862,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "185",
@@ -4067,8 +3883,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "186",
@@ -4089,8 +3904,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "187",
@@ -4111,8 +3925,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "188",
@@ -4133,8 +3946,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "189",
@@ -4155,8 +3967,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "190",
@@ -4177,8 +3988,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "191",
@@ -4199,8 +4009,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "192",
@@ -4221,8 +4030,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "193",
@@ -4243,8 +4051,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "194",
@@ -4265,8 +4072,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "195",
@@ -4287,8 +4093,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "196",
@@ -4309,8 +4114,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "197",
@@ -4331,8 +4135,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "198",
@@ -4353,8 +4156,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "199",
@@ -4375,8 +4177,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "200",
@@ -4397,8 +4198,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "201",
@@ -4419,8 +4219,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "202",
@@ -4441,8 +4240,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "203",
@@ -4459,12 +4257,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the spongy bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.  See No.204 for higher magnification",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is but a small section of the bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the spongy bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.  See No.204 for higher magnification",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "204",
@@ -4481,12 +4278,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK. See No.203 for lower magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK. See No.203 for lower magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "205",
@@ -4503,12 +4299,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a tiny tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is but a small section of the spongy bone ground to about 80\u00c2\u00b5 thick. At this magnification more details within the structure of the bone can be resolved. The sample is from Carboniferous coal shale, Northumberland, UK.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "206",
@@ -4525,12 +4320,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see the fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.207, 208 and 209 for higher magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see the fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.207, 208 and 209 for higher magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "207",
@@ -4547,12 +4341,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This thin- section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 208 and 209 for different magnifications.",
+        "description": "This thin- section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (center). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 208 and 209 for different magnifications.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "208",
@@ -4569,12 +4362,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (upper). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 209 for different magnifications.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through the pulp cavity, represented by the darker zone (upper). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it would be exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 209 for different magnifications.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "209",
@@ -4591,12 +4383,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of cals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through a pulp cavity, represented by the darker zone (upper half). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it is exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 208 for lower magnification.",
+        "description": "This ground section of Carboniferous coal was found to contain fragments of fossilized fish. The fragments include teeth, spine and dermal skeletal tissues. This image represents a longitudinal-section of a small tooth embedded in the coal. At the base of the tooth is a zone of spongy bone full of canals, cavities, fibril processes and odontogenic cells. This is more tooth than bone as the mineral is dentin but the morphology is bone like. What we see is but a small section of the tooth which was ground to about 80\u00c2\u00b5 thick. The domite feature is a section through a pulp cavity, represented by the darker zone (upper half). The endostial walls are generally lined with debris, however, along the lower surface can be seen a column of small spheres. If this were not a fossil, it is exactly where you would expect to see the odontoblasts. Odontoblasts are columr cells that secret dentin at the pulp-dentin boundary (exactly where you see these fossil spheres). The sample is from Carboniferous coal shale, Northumberland, UK.  Also see No.206, 207 and 208 for lower magnification.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "210",
@@ -4613,12 +4404,11 @@ export const imageData =
         "site": "bone bed",
         "location": "Gloucestershire",
         "country": "UK",
-        "description": "This fish tooth chip is just one of many fossil Remnants found in a thin-section from the Aust Cliff, Bone Bed, UK, also known as the Rhaetic Bone Bed. Aust Cliff is located in Gloucestershire, near Avon, situated on the southern side of the Severn River Estuary. This is one of the most famous exposures of Triassic rocks in the world. The image shows a tiny section of a tooth still featuring slender pulp cals dentin tubules. The outer surface is now worn away from erosion and time spent in bottom sediments. The tooth was deposited in granular siliceous sediment. The colors are interference color due to the birefringence produced by the crossed polarized light and first order red compensator.",
+        "description": "This fish tooth chip is just one of many fossil Remnants found in a thin-section from the Aust Cliff, Bone Bed, UK, also known as the Rhaetic Bone Bed. Aust Cliff is located in Gloucestershire, near Avon, situated on the southern side of the Severn River Estuary. This is one of the most famous exposures of Triassic rocks in the world. The image shows a tiny section of a tooth still featuring slender pulp canals dentin tubules. The outer surface is now worn away from erosion and time spent in bottom sediments. The tooth was deposited in granular siliceous sediment. The colors are interference color due to the birefringence produced by the crossed polarized light and first order red compensator.",
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "211",
@@ -4639,8 +4429,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "212",
@@ -4661,8 +4450,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "213",
@@ -4683,8 +4471,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "214",
@@ -4705,8 +4492,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "215",
@@ -4727,8 +4513,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "216",
@@ -4749,8 +4534,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "217",
@@ -4771,8 +4555,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "218",
@@ -4793,8 +4576,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "219",
@@ -4815,8 +4597,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "220",
@@ -4837,8 +4618,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "221",
@@ -4859,8 +4639,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "222",
@@ -4881,8 +4660,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "223",
@@ -4903,8 +4681,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "224",
@@ -4925,8 +4702,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "225",
@@ -4947,8 +4723,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "226",
@@ -4969,8 +4744,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "227",
@@ -4991,8 +4765,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "228",
@@ -5013,8 +4786,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "229",
@@ -5035,8 +4807,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "230",
@@ -5057,8 +4828,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "231",
@@ -5079,8 +4849,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "232",
@@ -5101,8 +4870,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "233",
@@ -5123,8 +4891,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "234",
@@ -5145,8 +4912,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "235",
@@ -5167,8 +4933,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "236",
@@ -5189,8 +4954,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "237",
@@ -5211,8 +4975,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "238",
@@ -5233,8 +4996,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "239",
@@ -5255,8 +5017,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "240",
@@ -5277,8 +5038,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished",
-        "": ""
+        "reference": "Unpublished"
     },
     {
         "id": "241",
@@ -5299,8 +5059,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "242",
@@ -5321,8 +5080,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "243",
@@ -5343,8 +5101,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "244",
@@ -5365,8 +5122,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "245",
@@ -5387,8 +5143,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "246",
@@ -5409,8 +5164,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "247",
@@ -5431,8 +5185,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "248",
@@ -5453,8 +5206,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "249",
@@ -5475,8 +5227,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "250",
@@ -5497,8 +5248,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "251",
@@ -5519,8 +5269,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "252",
@@ -5541,8 +5290,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "253",
@@ -5563,8 +5311,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "254",
@@ -5585,8 +5332,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "255",
@@ -5607,8 +5353,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "256",
@@ -5629,8 +5374,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "257",
@@ -5651,8 +5395,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "258",
@@ -5673,8 +5416,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "259",
@@ -5695,8 +5437,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "260",
@@ -5717,8 +5458,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "261",
@@ -5739,8 +5479,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "262",
@@ -5761,8 +5500,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "263",
@@ -5783,8 +5521,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "264",
@@ -5805,8 +5542,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "265",
@@ -5827,8 +5563,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "266",
@@ -5849,8 +5584,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "267",
@@ -5871,8 +5605,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "268",
@@ -5893,8 +5626,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "269",
@@ -5915,8 +5647,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "270",
@@ -5937,8 +5668,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "271",
@@ -5959,8 +5689,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "272",
@@ -5981,8 +5710,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "273",
@@ -6003,8 +5731,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "274",
@@ -6025,8 +5752,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "275",
@@ -6047,8 +5773,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "276",
@@ -6069,8 +5794,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "277",
@@ -6091,8 +5815,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "278",
@@ -6113,8 +5836,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "279",
@@ -6135,8 +5857,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "280",
@@ -6157,8 +5878,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "281",
@@ -6175,16 +5895,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "This is a thin section through a zone of the fish scale where laminated mineral layers dominate. Within each layer and along minute fishers can be seen individual lacuna that generally runs parallel with each other in the same layer. In lower layers",
-        "figure": " they normally run perpendicular to the lacuna of the upper layer. Here we see a stacked image featuring lacuna sitting perpendicular to each other",
-        "publication_year": " all following the nearly invisible fishers in the mineral layers. The canaliculi are not as disciplined in this pattern but do tend to follow the same fishers when encountered. These liner canaliculi have small inclusions or congestion that over time has picked up a natural ferrous oxide stain. Each lacuna appears to retain the condensed remains of the osteocyte. They can be seen twisting their way down through the long axis of the lacuna. These fossil remains now likely consist of a waxy concretion of fossilized fatty acids having a rather smooth surface texture.",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral layers dominate. Within each layer and along minute fishers can be seen individual lacuna that generally runs parallel with each other in the same layer. In lower layers, they normally run perpendicular to the lacuna of the upper layer. Here we see a stacked image featuring lacuna sitting perpendicular to each other, all following the nearly invisible fishers in the mineral layers. The canaliculi are not as disciplined in this pattern but do tend to follow the same fishers when encountered. These liner canaliculi have small inclusions or congestion that over time has picked up a natural ferrous oxide stain. Each lacuna appears to retain the condensed remains of the osteocyte. They can be seen twisting their way down through the long axis of the lacuna. These fossil remains now likely consist of a waxy concretion of fossilized fatty acids having a rather smooth surface texture.",
+        "figure": "",
+        "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": "",
-        "null": [
-            "",
-            ""
-        ]
+        "reference": ""
     },
     {
         "id": "282",
@@ -6205,8 +5920,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "283",
@@ -6223,16 +5937,11 @@ export const imageData =
         "site": "coal shale",
         "location": "Northumberland",
         "country": "UK",
-        "description": "Here we have a complete lacuna with well preserved sub cellular content. This includes a number of dark inclusions formed by gas bubbles which developed during early decay. One bubble has now developed into a fluid inclusion",
-        "figure": " possibly the result of processing the thin section. The internal walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. Down through the long axis of the lacuna is a waxy condensed cell body having a lighter color then the walls of the lacuna. This feature is likely made of old fossilized fatty acids (adipocere",
-        "publication_year": " or grave-wax). The extended canaliculi remain well defined and in good condition suggesting a state of good preservation.",
+        "description": "Here we have a complete lacuna with well preserved sub cellular content. This includes a number of dark inclusions formed by gas bubbles which developed during early decay. One bubble has now developed into a fluid inclusion, possibly the result of processing the thin section. The internal walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. Down through the long axis of the lacuna is a waxy condensed cell body having a lighter color then the walls of the lacuna. This feature is likely made of old fossilized fatty acids (adipocere, or grave-wax). The extended canaliculi remain well defined and in good condition suggesting a state of good preservation.",
+        "figure": "",
+        "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": "",
-        "null": [
-            "",
-            ""
-        ]
+        "reference": ""
     },
     {
         "id": "284",
@@ -6253,8 +5962,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "285",
@@ -6275,8 +5983,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "286",
@@ -6297,8 +6004,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "287",
@@ -6319,8 +6025,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "288",
@@ -6341,8 +6046,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "289",
@@ -6363,8 +6067,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "290",
@@ -6385,8 +6088,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "291",
@@ -6407,8 +6109,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "292",
@@ -6425,18 +6126,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "England",
-        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states Tubercle",
-        "figure": " Gyracanthus",
-        "publication_year": " fish\". Gyracanthus is an extinct genus from the class",
-        "first_author": " Acanthodian",
-        "reference": " having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal bifurcating into two branches.\"",
-        "": "",
-        "null": [
-            "",
-            "",
-            "",
-            ""
-        ]
+        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states \"Tubercle, Gyracanthus, fish\". Gyracanthus is an extinct genus from the class, Acanthodian, having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal bifurcating into two branches.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
     },
     {
         "id": "293",
@@ -6453,18 +6147,11 @@ export const imageData =
         "site": "coal shale",
         "location": "",
         "country": "England",
-        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states Tubercle",
-        "figure": " Gyracanthus",
-        "publication_year": " fish\". Gyracanthus is an extinct genus from the class",
-        "first_author": " Acanthodian",
-        "reference": " having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal that bifurcates into two branches. Close inspection reveals tiny fossilized blood cells within the clotted canal (at least they have the basic morphology of a mineralized blood cell).\"",
-        "": "",
-        "null": [
-            "",
-            "",
-            "",
-            ""
-        ]
+        "description": "There is some confusion associated with this section, it is labeled as a tubercle, but the morphology and situation strongly indicate its part of a pectoral spine. The label states \"Tubercle, Gyracanthus, fish\". Gyracanthus is an extinct genus from the class, Acanthodian, having a temporal range from the middle Devonian to the Bashkirian. The specimen was found in Carboniferous coal shale and apparently is consistent with the location. The most striking feature is a darkly stained clotted vascular canal that bifurcates into two branches. Close inspection reveals tiny fossilized blood cells within the clotted canal (at least they have the basic morphology of a mineralized blood cell).",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
     },
     {
         "id": "294",
@@ -6485,8 +6172,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "295",
@@ -6507,8 +6193,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "296",
@@ -6529,8 +6214,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "297",
@@ -6551,8 +6235,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "298",
@@ -6573,8 +6256,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "299",
@@ -6595,8 +6277,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "300",
@@ -6617,8 +6298,637 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
+    },
+    {
+        "id": "301",
+        "filename": "00301.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "750",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a well preserved osteocyte with a network of surviving canaliculi. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. It appears that the osteocyte itself has condensed into a waxy concretion with a varied and scalloped border, better described as an inclusion with a higher density then its surrounding content.  The concretion inside the lacuna appears as a light colored cell body, possibly mineralized fatty acids (adipocere, or grave-wax). The somewhat altered condition of the canaliculi suggests a state of partial decay.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "302",
+        "filename": "00302.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where osteocytes tend to run parallel with each other. The internal walls of both lacunas are darkened by a naturally occurring ferrous oxide stain. Inside each cell are the condensed and sometimes spotty remains of fossilized fatty acids that are several shades lighter in color than the stained walls of the lacuna. To the top of the image can be seen a vascular canal that is now permineralized with a microcrystalline silicate. The dark lines in the center are the remains of carbonized canaliculi.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "303",
+        "filename": "00303.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "750",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where osteocytes tend to run parallel with each other. The internal walls of the lacuna are darkened by a naturally occurring ferrous oxide stain. Inside the cell are the condensed remains of fossilized fatty acids that are several shades lighter in color than the stained walls of the lacuna. The fossil cell-body can still be seen with a large extension or filipodia passing into the canaliculi (left). The cell itself is punctuated by small inclusions (likely, old gas bubbles). To the left the dark lines are the remains of carbonized canaliculi.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "304",
+        "filename": "00304.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral (dentine) layers persist. Within each layer and along minute fishers can be seen organic material and often individual lacuna. Each laminar layer holds generally to a liner pattern running parallel with each other within the same layer. In the lower layer, the lacuna runs perpendicular to the lacuna of the upper layer. Here we see a stacked image combining two layers which illustrate the perpendicular junctions. Near the center is a carbonized lacuna now seen as opaque.  The canaliculi are for the most part decayed with only fragments remaining.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "305",
+        "filename": "00305.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "70",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral (dentine) layers persist. Within each layer and along minute fishers can be seen organic material and often individual lacuna, many of which are now carbonized. Each laminar layer holds generally to a liner pattern running parallel with each other within the same layer. In the lower layer, the lacuna runs perpendicular to the lacuna of the upper layer. Here we see a stacked image combining two layers which illustrate the tendency for perpendicular junctions. Most of the canals appear at distinct junctions.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "306",
+        "filename": "00306.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "750",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Two nearly empty lacunas connected to each other alongside a tiny canal. The internal walls of the lacuna are darkened by a naturally occurring ferrous oxide stain. Inside the lacuna are small condensed inclusions, fossilized fatty acids that are a much lighter color than the stained walls of the lacuna.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "307",
+        "filename": "00307.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral (dentine) layers persist. The large feature to the top is a junction where two vascular canals merge.  Within each layer and along minute fishers can be seen organic material and sometimes individual lacuna. To the bottom right is a carbonized lacuna with extended canaliculi following a tiny fisher.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "308",
+        "filename": "00308.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "70",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a thin section through a zone of the fish scale where laminated mineral (dentine) layers persist. Within each layer and along minute fishers can be seen organic material and often individual lacuna, many of which are now carbonized. Each laminar layer holds generally to a liner pattern running parallel with each other within the same layer. In the lower layer, the lacuna run perpendicular to the lacuna of the upper layer. Here we see a stacked image combining three layers which illustrate the tendency for near perpendicular junctions. Most of the canals appear to join together at distinct junctions.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "309",
+        "filename": "00309.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish denticle",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have a number of differing types of osteocytes found in the matrix of a fossil fish scale. This section is cut through a zone of the fish scale where laminated mineral layers persist.  Within each layer and along minute fishers can be seen individual lacuna that in many cases run parallel with each other. Inside these particular lacuna can be seen the condensed remnants of preserved osteocytes. These fossil cells can be described as preserved semi-concretions. They are typically made of fossilized fatty acids having a waxy texture and a scalloped form. What you should expect is to find that lacuna from the Carboniferous should be empty or maybe permineralized with a dissolved minerals. But here we find little if no anisotropic compounds, meaning that the cell is altered but not mineralized.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "310",
+        "filename": "00310.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "750",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have a number of differing types of osteocytes found in the matrix of a fossil fish scale. This section is cut through a zone of the fish scale where laminated mineral layers persist. Within each layer and along minute fishers can be seen individual lacuna that in many cases run parallel with each other. Inside these particular lacuna can be seen the condensed remnants of preserved osteocytes. These fossil cells can be described as preserved semi-concretions. They are typically made of fossilized fatty acids having a waxy texture and a scalloped form. What you should expect is to find that lacuna from the Carboniferous should be empty or maybe permineralized with a dissolved minerals. But here we find little if no anisotropic minerals (in the cell), meaning that the cell is altered but not mineralized.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "311",
+        "filename": "00311.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "550",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "Here we have a number of longitudinal osteocytes found in the matrix of a fossil fish scale. This section is cut through a zone of the fish scale where laminated mineral layers persist.  Within each layer and along minute fishers can be seen individual lacuna that in many cases runs parallel with each other. In the lower layer, the lacuna runs perpendicular to the lacuna of the upper layer. This pattern reflects the mineral layers that make up the matrix of the fish scale. Inside each lacuna can be seen condensed fragments of fossilized fatty acids. They may also be described as preserved semi-concretions. To the far right is a well stained vascular canal.  What you should expect is to find that lacuna from the Carboniferous should be empty or maybe permineralized with a dissolved minerals. But here we find little if no anisotropic compounds, meaning that the cell is altered but not mineralized.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "312",
+        "filename": "00312.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "50",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section was taken from near the anterior edge of the fish scale just below the ribs at the surface. It has a corrugated appearance along with the hardness of dentine. Between the long-axis of the ribs are cavities now permineralized with a silicate mixed with organic debris. This morphology is very organized but hard to place in context. The dense interior of the scale can be seen around the base of the images.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "313",
+        "filename": "00313.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "80",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section was taken from near the anterior edge of the fish scale just below the ribs at the surface. It has a corrugated appearance along with the hardness of dentine. Between the long-axis of the ribs are cavities now permineralized with a silicate mixed with organic debris. This morphology is very organized but hard to place in context. The dense interior of the scale can be seen to the right bottom of the images.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "314",
+        "filename": "00314.jpg",
+        "microscope_technology": "crossed polarized light",
+        "magnification": "80",
+        "taxon": "fish",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This section was taken from near the anterior edge of the fish scale just below the ribs on the surface. It has a corrugated appearance along with the hardness of dentine. Between the long-axis of the ribs are cavities now permineralized with a silicate mixed with organic debris. In X-polarized light the long cavities between the ribs are mostly seen in extinction, but the apatite (mineral) in the ribs and body of the scale are highly birefringent. Delicate canals can be seen in the body of the scale.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "315",
+        "filename": "00315.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "The present tooth section is identified as simply a marine reptile tooth. At this magnification vascular canals are clearly visible along with networks of darkened dentin tubules. Inside the canals can be seen framboid metal sulfides, seen as black precipitates.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "316",
+        "filename": "00316.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "The present tooth section is identified as simply a marine reptile tooth. Across the center of the image is a mature and darkly stained vascular canal. Surrounding the canal is a ghost image of earlier and larger versions of the canal. The dentine closest to the current canal is clearly more subject to a naturally occurring ferrous oxide stain. Organic debris lines the inside wall of the final version of the canal.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "317",
+        "filename": "00317.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "This particular tooth is identified as simply a marine reptile tooth. Down through the center of the image is a long narrow and lightly stained vascular canal. If you look carefully, inside the canal is what looks like a fossilized tubular feature. Surrounding part of the canal system is a ghost image of lightly stained dentine. Organic debris remains inside some of the cavities and canals.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "318",
+        "filename": "00318.jpg",
+        "microscope_technology": "crossed polarized light",
+        "magnification": "125",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "This particular tooth is identified as simply a marine reptile tooth. Down through the center of the image is a long narrow and lightly stained vascular canal. If you look carefully, inside the canal is what looks like a fossilized tubular feature. Surrounding the canal is a very bright birefringent zone with interference colors throughout the field. The dentine that makes up the matrix of the tooth remains mostly unaltered. Organic debris remains inside some of the cavities and canals.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "319",
+        "filename": "00319.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "250",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "This particular tooth is identified as simply a marine reptile tooth. Down through the center of the image is a long narrow and lightly stained vascular canal. If you look carefully, inside the canal is what looks like a fossilized vascular feature. This internal structure has condensed and fractured into discernible sections. Organic debris remains inside some of the cavities and canals.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "320",
+        "filename": "00320.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "reptile",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "tooth",
+        "interval": "Jurassic",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "Lyme Regis",
+        "location": "Dorset",
+        "country": "UK",
+        "description": "The present tooth section is identified as simply a marine reptile tooth. The dominant feature in this image is a number of bifurcated vascular canals that are heavily stained in the larger branches. Some of the smaller branches have what appears to be a tube stained red, likely a natural ferric oxide stain. Surrounding the canals is a ghost image of earlier and larger versions of the canal. The dentine closest to the current canal is clearly more subject to a naturally occurring ferrous oxide stain. In many sections, organic debris still lines the inside wall of the final version of the canal.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "321",
+        "filename": "00321.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "osteocyte",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Found in the scale are well preserved Osteocytes with surviving canaliculi still connected. The endostial walls of the lacuna and canaliculi are lightly colored with a naturally occurring ferrous oxide stain. Inside the lacuna the osteocyte itself has condensed into a waxy concretion with a lighter color than the internal wall of the lacuna (adipocere, or grave-wax). The somewhat altered condition of the canaliculi suggests a state of partial decay.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "322",
+        "filename": "00322.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "70",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. This is close to where the ventral end of the scale connects to the dermis (the lower blood-rich layer of the skin of the fish). This is clearly identified as trabeculae, often referred to as spongy bone. Osteocytes can be seen sprinkled throughout the bone and clear cavities separate the trabeculae.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "323",
+        "filename": "00323.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "70",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "spongy bone",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. This represents a zone where the ventral end of the scale connects to the dermis (the lower blood-rich layer of skin on the fish). This is clearly identified as trabeculae, often referred to as spongy bone. Osteocytes can be seen sprinkled throughout the bone and the cavities are permineralized with a micro-crystalline silicate. Within the trabeculae one can see birefringent fibrous collagen represented by interference illumination.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "324",
+        "filename": "00324.jpg",
+        "microscope_technology": "crossed polarized light",
+        "magnification": "70",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "spongy bone",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. This represents a zone where the ventral end of the scale connects to the dermis (the lower blood-rich layer of skin on the fish). This is clearly identified as trabeculae, often referred to as spongy bone. Osteocytes can be seen sprinkled throughout the bone and the cavities are permineralized with a micro-crystalline silicate. Within the trabeculae one can see birefringent fibrous collagen represented by interference colors. Using X-polarized light and a 1st order red wave-plate one can see the collagen as pseudo-pleochroic colors. This can be confirmed by rotating the stage and watching the green and orange colors switch position.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "325",
+        "filename": "00325.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "spongy bone",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Within the ventral bony zone of the scale are found numerous vascular canals. Careful inspection reveals a thin membrane that lines the endostial margins of the canals. A spiral shaped ribbon like feature can be seen with a light brown stain. This might be interpreted as surviving fossilized connective tissue that still provides structure to the membrane. Red tinted osteocytes can still be seen throughout the bone.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "326",
+        "filename": "00326.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "spongy bone",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Within the ventral bony zone of the scale can be seen numerous vascular canals. Careful inspection reveals a thin membrane that still lines the endostial margins of the canals. Ferrous stained osteocytes can still be seen throughout the bone.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "327",
+        "filename": "00327.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "125",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "",
+        "tissue": "spongy bone",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Within the ventral bony zone of the scale are found numerous vascular canals. Careful inspection reveals a thin membrane that lines the endostial margins of the canals. A spiral shaped ribbon like feature can be seen with a light brown stain. This might be interpreted as surviving fossilized connective tissue that still provides structure to the membrane. Ferrous stained osteocytes can still be seen throughout the bone.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "328",
+        "filename": "00328.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish allegedly from the Carboniferous. Within the bone matrix there are a number of preserved Osteocytes with a few still having a network of surviving canaliculi. It appears that we see three different types of osteocytes at different stages of preservation. Diagenesis has acted on each cell with a notably different outcome. The two lacunas to the lower right are now completely permineralized. While the two cells on the left could be seen as mummy cells, with even the canaliculi remaining intact. The cell at the center has the appearance of a concretion with preserved gas-bubble inclusions. The concretion is of a lighter color then the other cells and nearly fills the entire lacuna. The large cell to the far left is full of gas-bubble inclusions that are now filled with migrating carbon from the surrounding coal. All the cells are within the trabecular bone area of the scale.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "329",
+        "filename": "00329.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "750",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Within the bone matrix there are a number of preserved Osteocytes with a few still having a network of surviving canaliculi. It appears that we see different types of osteocytes at different stages of preservation. Diagenesis has acted on each cell with a notably different outcome. The two cells on the left could be seen as mummy cells, with even the canaliculi remaining intact. The cell on the right has the appearance of a concretion with preserved gas-bubble inclusions. The concretion is of a lighter color then the other cells and nearly fills the entire lacuna. The large cell to the far left is full of gas-bubble inclusions that are now filled with migrating carbon from the surrounding coal shale.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
+    },
+    {
+        "id": "330",
+        "filename": "00330.jpg",
+        "microscope_technology": "bright-field illumination",
+        "magnification": "500",
+        "taxon": "Megalichthys",
+        "sample_id": "",
+        "cell": "osteocyte",
+        "tissue": "fish scale",
+        "interval": "Carboniferous",
+        "conventional_age": "",
+        "lithology": "",
+        "site": "coal shale",
+        "location": "Northumberland",
+        "country": "UK",
+        "description": "This is a denticle or scale from Megalichthys, an extinct fish of the Carboniferous. Within the bone matrix there are a number of preserved osteocytes with a few still having a network of surviving canaliculi. It appears that we see different types of osteocytes at different stages of preservation. Diagenesis has acted on each cell with a notably different outcome. The two cells at the top left are completely permineralized. In many of the darker lacuna the cell content has now distilled into a concretion which has now perforated into individual sections. In a few of the remaining lacuna we can see circular dark stained gas inclusions. Some of the detail at the cell level remains quite impressive.",
+        "figure": "",
+        "publication_year": "",
+        "first_author": "",
+        "reference": ""
     },
     {
         "id": "1001",
@@ -6639,8 +6949,7 @@ export const imageData =
         "figure": "1A-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1002",
@@ -6661,8 +6970,7 @@ export const imageData =
         "figure": "1E-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1003",
@@ -6683,8 +6991,7 @@ export const imageData =
         "figure": "1I-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1004",
@@ -6705,8 +7012,7 @@ export const imageData =
         "figure": "1M-P",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1005",
@@ -6727,8 +7033,7 @@ export const imageData =
         "figure": "1Q-T",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1006",
@@ -6749,8 +7054,7 @@ export const imageData =
         "figure": "1U-X",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1007",
@@ -6771,8 +7075,7 @@ export const imageData =
         "figure": "2A-B",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1008",
@@ -6793,8 +7096,7 @@ export const imageData =
         "figure": "2C-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1009",
@@ -6815,8 +7117,7 @@ export const imageData =
         "figure": "2E-F",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1010",
@@ -6837,8 +7138,7 @@ export const imageData =
         "figure": "2G-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1011",
@@ -6859,8 +7159,7 @@ export const imageData =
         "figure": "2I-J",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1012",
@@ -6881,8 +7180,7 @@ export const imageData =
         "figure": "2K-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217",
-        "": ""
+        "reference": "39910217"
     },
     {
         "id": "1013",
@@ -6903,8 +7201,7 @@ export const imageData =
         "figure": "1A-E",
         "publication_year": "2020",
         "first_author": "Fabbri",
-        "reference": "10.1111/pala.12470",
-        "": ""
+        "reference": "10.1111/pala.12470"
     },
     {
         "id": "1014",
@@ -6925,8 +7222,7 @@ export const imageData =
         "figure": "",
         "publication_year": "2020",
         "first_author": "Ullmann",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1015",
@@ -6947,8 +7243,7 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391",
-        "": ""
+        "reference": "39823391"
     },
     {
         "id": "1016",
@@ -6969,8 +7264,7 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740",
-        "": ""
+        "reference": "39919740"
     },
     {
         "id": "1017",
@@ -6991,8 +7285,7 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542",
-        "": ""
+        "reference": "31015542"
     },
     {
         "id": "1018",
@@ -7013,8 +7306,7 @@ export const imageData =
         "figure": "B",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542",
-        "": ""
+        "reference": "31015542"
     },
     {
         "id": "1019",
@@ -7035,8 +7327,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1020",
@@ -7057,8 +7348,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1021",
@@ -7079,8 +7369,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1022",
@@ -7101,8 +7390,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1023",
@@ -7123,8 +7411,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1024",
@@ -7145,8 +7432,7 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "",
-        "": ""
+        "reference": ""
     },
     {
         "id": "1025",
@@ -7167,8 +7453,7 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391",
-        "": ""
+        "reference": "39823391"
     },
     {
         "id": "1026",
@@ -7189,8 +7474,7 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740",
-        "": ""
+        "reference": "39919740"
     },
     {
         "id": "1027",
@@ -7211,8 +7495,7 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542",
-        "": ""
+        "reference": "31015542"
     },
     {
         "id": "2001",
@@ -7233,8 +7516,7 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2003",
@@ -7255,8 +7537,7 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2004",
@@ -7277,8 +7558,7 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2006",
@@ -7299,8 +7579,7 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2007",
@@ -7321,8 +7600,7 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2008",
@@ -7343,8 +7621,7 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2009",
@@ -7365,8 +7642,7 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2010",
@@ -7387,8 +7663,7 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2014",
@@ -7409,8 +7684,7 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2015",
@@ -7431,8 +7705,7 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2016",
@@ -7453,8 +7726,7 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2017",
@@ -7475,8 +7747,7 @@ export const imageData =
         "figure": "4G",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2018",
@@ -7497,8 +7768,7 @@ export const imageData =
         "figure": "4H",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2019",
@@ -7519,8 +7789,7 @@ export const imageData =
         "figure": "4I",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2020",
@@ -7541,8 +7810,7 @@ export const imageData =
         "figure": "4J",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2021",
@@ -7563,8 +7831,7 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2022",
@@ -7585,8 +7852,7 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787",
-        "": ""
+        "reference": "36009787"
     },
     {
         "id": "2023",
@@ -7607,8 +7873,7 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2024",
@@ -7629,8 +7894,7 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2025",
@@ -7651,8 +7915,7 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2026",
@@ -7673,8 +7936,7 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2027",
@@ -7695,8 +7957,7 @@ export const imageData =
         "figure": "1E",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2028",
@@ -7717,8 +7978,7 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2029",
@@ -7739,8 +7999,7 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2030",
@@ -7761,8 +8020,7 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2031",
@@ -7783,8 +8041,7 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2032",
@@ -7805,8 +8062,7 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "": ""
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
     },
     {
         "id": "2033",
@@ -7827,8 +8083,7 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2034",
@@ -7849,8 +8104,7 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2035",
@@ -7871,8 +8125,7 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2036",
@@ -7893,8 +8146,7 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2037",
@@ -7915,8 +8167,7 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2038",
@@ -7937,8 +8188,7 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2039",
@@ -7959,8 +8209,7 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2040",
@@ -7981,8 +8230,7 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2041",
@@ -8003,8 +8251,7 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2042",
@@ -8025,8 +8272,7 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2043",
@@ -8047,8 +8293,7 @@ export const imageData =
         "figure": "3C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2044",
@@ -8069,8 +8314,7 @@ export const imageData =
         "figure": "3D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2045",
@@ -8091,8 +8335,7 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2046",
@@ -8113,8 +8356,7 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2047",
@@ -8135,8 +8377,7 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2048",
@@ -8157,8 +8398,7 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2049",
@@ -8179,8 +8419,7 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2050",
@@ -8201,8 +8440,7 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099",
-        "": ""
+        "reference": "34692099"
     },
     {
         "id": "2051",
@@ -8216,15 +8454,14 @@ export const imageData =
         "interval": "Cenomanian",
         "conventional_age": "94-100My",
         "lithology": "sublithographic limestone",
-        "site": "H\u00c3\u00a2djula Lagerst\u00c3\u00a4tte",
+        "site": "H\u00e2djula Lagerst\u00e4tte",
         "location": "Byblos",
         "country": "Lebanon",
         "description": "Tethymyxine tapirostrum gen. et sp. nov, a fossil hagfish from the Cenomanian of Lebanon. Holotype (BHI 6445) in right lateral view",
         "figure": "2A",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644",
-        "": ""
+        "reference": "30670644"
     },
     {
         "id": "2052",
@@ -8238,15 +8475,14 @@ export const imageData =
         "interval": "Cenomanian",
         "conventional_age": "94-100My",
         "lithology": "sublithographic limestone",
-        "site": "H\u00c3\u00a2djula Lagerst\u00c3\u00a4tte",
+        "site": "H\u00e2djula Lagerst\u00e4tte",
         "location": "Byblos",
         "country": "Lebanon",
         "description": "The visceral anatomy of BHI 6445 in composite photograph",
         "figure": "2D",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644",
-        "": ""
+        "reference": "30670644"
     },
     {
         "id": "2053",
@@ -8267,8 +8503,7 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2054",
@@ -8289,8 +8524,7 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2055",
@@ -8311,8 +8545,7 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2056",
@@ -8333,8 +8566,7 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2057",
@@ -8355,8 +8587,7 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2058",
@@ -8377,8 +8608,7 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2059",
@@ -8399,8 +8629,7 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2060",
@@ -8421,8 +8650,7 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2061",
@@ -8443,8 +8671,7 @@ export const imageData =
         "figure": "2G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2062",
@@ -8465,8 +8692,7 @@ export const imageData =
         "figure": "2H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2063",
@@ -8487,8 +8713,7 @@ export const imageData =
         "figure": "2I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2064",
@@ -8509,8 +8734,7 @@ export const imageData =
         "figure": "2J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2065",
@@ -8531,8 +8755,7 @@ export const imageData =
         "figure": "2K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2066",
@@ -8553,8 +8776,7 @@ export const imageData =
         "figure": "2L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2067",
@@ -8575,8 +8797,7 @@ export const imageData =
         "figure": "3F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2068",
@@ -8597,8 +8818,7 @@ export const imageData =
         "figure": "3G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2069",
@@ -8619,8 +8839,7 @@ export const imageData =
         "figure": "3H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2070",
@@ -8641,8 +8860,7 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2071",
@@ -8663,8 +8881,7 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2072",
@@ -8685,8 +8902,7 @@ export const imageData =
         "figure": "3K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2073",
@@ -8707,8 +8923,7 @@ export const imageData =
         "figure": "3L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2074",
@@ -8729,8 +8944,7 @@ export const imageData =
         "figure": "3M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2075",
@@ -8751,8 +8965,7 @@ export const imageData =
         "figure": "3N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2076",
@@ -8773,8 +8986,7 @@ export const imageData =
         "figure": "3O",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2077",
@@ -8795,8 +9007,7 @@ export const imageData =
         "figure": "3P",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2078",
@@ -8817,8 +9028,7 @@ export const imageData =
         "figure": "3Q",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2079",
@@ -8839,8 +9049,7 @@ export const imageData =
         "figure": "3R",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2080",
@@ -8861,8 +9070,7 @@ export const imageData =
         "figure": "3S",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2081",
@@ -8883,8 +9091,7 @@ export const imageData =
         "figure": "3T",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2082",
@@ -8905,8 +9112,7 @@ export const imageData =
         "figure": "3U",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2083",
@@ -8927,8 +9133,7 @@ export const imageData =
         "figure": "3V",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2084",
@@ -8949,8 +9154,7 @@ export const imageData =
         "figure": "3W",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2085",
@@ -8971,8 +9175,7 @@ export const imageData =
         "figure": "3X",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2086",
@@ -8993,8 +9196,7 @@ export const imageData =
         "figure": "3Y",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2087",
@@ -9015,8 +9217,7 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2088",
@@ -9037,8 +9238,7 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2089",
@@ -9059,8 +9259,7 @@ export const imageData =
         "figure": "4M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2090",
@@ -9081,8 +9280,7 @@ export const imageData =
         "figure": "4N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2091",
@@ -9096,15 +9294,14 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagerst\u00c3\u00a4tte",
+        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2092",
@@ -9118,15 +9315,14 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagerst\u00c3\u00a4tte",
+        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2093",
@@ -9140,15 +9336,14 @@ export const imageData =
         "interval": "Lower Toarcian",
         "conventional_age": "182.7My",
         "lithology": "carbonate concretion",
-        "site": "Posidonia Shale Konservat Fossil Lagersttte",
+        "site": "Posidonia Shale Konservat Fossil Lagerst\u00e4tte",
         "location": "",
         "country": "Germany",
         "description": "Secondary electron images of the trabecular bone following the removal of sparry calcite by light acetic acid treatment revealing exceptionally well-preserved soft tissues. Collagen fibres with increasing magnification.",
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2094",
@@ -9169,8 +9364,7 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2095",
@@ -9191,8 +9385,7 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2096",
@@ -9213,8 +9406,7 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2097",
@@ -9235,8 +9427,7 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2098",
@@ -9257,8 +9448,7 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2099",
@@ -9279,8 +9469,7 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2100",
@@ -9301,8 +9490,7 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2101",
@@ -9323,8 +9511,7 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2102",
@@ -9345,8 +9532,7 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2103",
@@ -9367,8 +9553,7 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2104",
@@ -9389,8 +9574,7 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     },
     {
         "id": "2105",
@@ -9411,7 +9595,6 @@ export const imageData =
         "figure": "5A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985",
-        "": ""
+        "reference": "29061985"
     }
 ]
