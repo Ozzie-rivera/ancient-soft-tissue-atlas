@@ -1,12 +1,35 @@
 import { useParams, Link } from "react-router-dom";
 import { imageData } from "../data/imageData3";
-//import { imageData } from "../newimages/imageData3";
+import { useEffect, useState } from "react";
 
 function ImageDetail() {
     const { id } = useParams();
     //const numericId = Number(id);
     const numericId = String(id);
     const item = imageData.find((i) => i.id === numericId);
+
+    const [taxId, setTaxId] = useState(null);
+
+    const fetchTaxId = async (taxonName) => {
+        try {
+            const res = await fetch(
+                `https://eutils.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=taxonomy&term=${encodeURIComponent(taxonName)}&retmode=json&retmax=1`
+            );
+            const data = await res.json();
+
+            const id = data?.esearchresult?.idlist?.[0];
+            return id || null;
+        } catch (e) {
+            console.error("TaxID fetch failed", e);
+            return null;
+        }
+    };
+
+    useEffect(() => {
+        if (item?.taxon) {
+            fetchTaxId(item.taxon).then(setTaxId);
+        }
+    }, [item?.taxon]);
 
     if (!item) {
         return (
@@ -25,6 +48,20 @@ function ImageDetail() {
         <div style={{ padding: 24 }}>
             <Link to="/explore">Back to Explore</Link>
             <h1>{item.taxon}</h1>
+            <p>
+                {taxId && (
+                    <>
+                        &nbsp;
+                        <a
+                            href={`https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?command=show&mode=node&id=${taxId}&lvl=3`}
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View on NCBI Taxonomy
+                        </a>
+                    </>
+                )}
+            </p>
             <p><strong>Tissue:</strong> {item.tissue} &nbsp; | &nbsp; <strong>Interval:</strong> {item.interval}
             {item.reference && item.reference !== "Unpublished" && (
                 item.reference.includes("http") ? (
