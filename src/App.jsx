@@ -18,7 +18,7 @@ function App() {
 
   return (
     <>
-      <NavBar />
+      {!location.pathname.startsWith("/image/") && <NavBar />}
       <Routes>
 
         <Route path='/' element={<Home />} />
