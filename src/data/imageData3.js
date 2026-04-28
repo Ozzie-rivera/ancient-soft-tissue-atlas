@@ -7201,7 +7201,7 @@ export const imageData =
         "figure": "1A-E",
         "publication_year": "2020",
         "first_author": "Fabbri",
-        "reference": "10.1111/pala.12470"
+        "reference": "https://doi.org/10.1111/pala.12470"
     },
     {
         "id": "1014",
