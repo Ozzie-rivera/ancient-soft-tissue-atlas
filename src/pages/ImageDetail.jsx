@@ -63,7 +63,7 @@ function ImageDetail() {
             </p>
             <p><strong>Tissue:</strong> {item.tissue} &nbsp; | &nbsp; <strong>Interval:</strong> {item.interval}
             {item.reference && item.reference !== "Unpublished" && (
-                item.reference.includes("http") ? (
+                item.reference.includes("http") ? (         // includes http
                 <>
                 &nbsp; | &nbsp;
                 <a href={item.reference} target="_blank" rel="noopener noreferrer">

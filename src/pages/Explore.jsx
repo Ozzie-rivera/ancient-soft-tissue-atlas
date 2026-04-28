@@ -9,11 +9,13 @@ function Explore() {
     const intervals = [...new Set(imageData.map(row => row.interval))].sort();
     const tissues = [...new Set(imageData.map(row => row.tissue))].sort();
     const sites = [...new Set(imageData.map(row => row.site))].sort();
+    const authors = [...new Set(imageData.map(row => row.first_author))].sort();
 
     const [taxon, setTaxon] = useState("");
     const [tissue, setTissue] = useState("");
     const [interval, setInterval] = useState("");
     const [site, setSite] = useState("");
+    const [first_author, setFirstauthor] = useState("");
     const [textQuery, setTextQuery] = useState("");
 
     const [results, setResults] = useState([]);
@@ -25,13 +27,15 @@ function Explore() {
         console.log("Tissue:", tissue);
         console.log("Interval:", interval);
         console.log("Site:", site);
+        console.log("First Author:", first_author);
 
         const filtered = imageData.filter((item) => {
             const matchesFilters = (
                 (taxon === "" || item.taxon === taxon) &&
                 (tissue === "" || item.tissue === tissue) &&
                 (interval === "" || item.interval === interval) &&
-                (site === "" || item.site === site)
+                (site === "" || item.site === site) &&
+                (first_author === "" || item.first_author === first_author)
             );
 
             const q = textQuery.trim().toLowerCase();
@@ -40,7 +44,8 @@ function Explore() {
                 (item.taxon && item.taxon.toLowerCase().includes(q)) ||
                 (item.tissue && item.tissue.toLowerCase().includes(q)) ||
                 (item.interval && item.interval.toLowerCase().includes(q)) ||
-                (item.site && item.site.toLowerCase().includes(q))
+                (item.site && item.site.toLowerCase().includes(q)) ||
+                (item.first_author && item.first_author.toLowerCase().includes(q))
             );
 
             return matchesFilters && matchesText;
@@ -124,6 +129,7 @@ function Explore() {
         setTissue("");
         setInterval("");
         setSite("");
+        setFirstauthor("");
         setTextQuery("");
         setResults([]);
     }; 
@@ -176,6 +182,19 @@ function Explore() {
                 <select value={site} onChange={(e) => setSite(e.target.value)}>
                     <option value="">--Select Site--</option>
                         {sites.map((s, index) => (
+                            <option key={index} value={s}>
+                                {s}
+                            </option>
+                        ))}
+                      </select>
+            </label>
+            <br />
+
+            <label>
+                First author:{" "}
+                <select value={first_author} onChange={(e) => setFirstauthor(e.target.value)}>
+                    <option value="">--Select Author--</option>
+                        {authors.map((s, index) => (
                             <option key={index} value={s}>
                                 {s}
                             </option>
