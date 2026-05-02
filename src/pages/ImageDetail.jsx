@@ -8,6 +8,12 @@ function ImageDetail() {
     const numericId = String(id);
     const item = imageData.find((i) => i.id === numericId);
 
+    const imageMap = Object.fromEntries(
+        imageData.map(img => [img.id, img])
+    );
+    const relatedImages = item?.image_crossref
+        ? item.image_crossref.split(",").map(id => id.trim()).map(id => imageMap[id]).filter(Boolean) : [];
+
     const [taxId, setTaxId] = useState(null);
 
     const fetchTaxId = async (taxonName) => {
@@ -82,7 +88,34 @@ function ImageDetail() {
             </p>
 
             <div style={{ marginTop: 16 }}>
-                <img src={imageUrl} alt={item.taxon} style={{ maxWidth: "100%", height: "auto", border: "1px solid #ddd" }} />
+                <img 
+                    src={imageUrl} 
+                    alt={item.taxon} 
+                    style={{ maxWidth: "100%", height: "auto", border: "1px solid #ddd" }} 
+                />
+
+                {/* Cross-referenced images */}
+                {relatedImages.length > 0 && (
+                    <div style={{ marginTop: 12 }}>
+                        <h4>Related Images</h4>
+                        <div style={{ display: "flex", gap: "10px", flexWrap: "wrap" }}>
+                            {relatedImages.map((refImg) => (
+                                <div key={refImg.id}>
+                                    <img
+                                        src={`/newimages/${refImg.filename}`}
+                                        alt={refImg.taxon}
+                                        style={{ width: "120px", border: "1px solid #ccc" }}
+                                    />
+                                    <div style={{ fontSize: "0.8em" }}>
+                                        <Link to={`/image/${refImg.id}`}>
+                                            {refImg.taxon || refImg.filename}
+                                        </Link>
+                                    </div>
+                                </div>
+                            ))}
+                        </div>
+                    </div>
+                )}
             </div>
 
             {item.description && (

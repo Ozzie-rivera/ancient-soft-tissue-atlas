@@ -19,7 +19,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "2",
@@ -40,7 +41,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "3",
@@ -61,7 +63,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "4",
@@ -82,7 +85,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "5",
@@ -103,7 +107,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "6",
@@ -124,7 +129,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "7",
@@ -145,7 +151,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "8",
@@ -166,7 +173,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "9",
@@ -187,7 +195,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "10",
@@ -208,7 +217,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "11",
@@ -229,7 +239,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "12",
@@ -250,7 +261,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "13",
@@ -271,7 +283,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "14",
@@ -292,7 +305,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "15",
@@ -313,7 +327,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "16",
@@ -334,7 +349,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "17",
@@ -355,7 +371,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "18",
@@ -376,7 +393,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "19",
@@ -397,7 +415,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "20",
@@ -418,7 +437,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "21",
@@ -439,7 +459,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "22",
@@ -460,7 +481,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "23",
@@ -481,7 +503,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "24",
@@ -502,7 +525,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "25",
@@ -523,7 +547,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "26",
@@ -544,7 +569,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "27",
@@ -565,7 +591,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "28",
@@ -586,7 +613,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "29",
@@ -607,7 +635,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "30",
@@ -628,7 +657,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "31",
@@ -649,7 +679,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "32",
@@ -670,7 +701,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "33",
@@ -691,7 +723,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "34",
@@ -712,7 +745,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "35",
@@ -733,7 +767,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "36",
@@ -754,7 +789,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "37",
@@ -775,7 +811,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "38",
@@ -796,7 +833,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "39",
@@ -817,7 +855,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "40",
@@ -838,7 +877,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "41",
@@ -859,7 +899,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "42",
@@ -880,7 +921,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "43",
@@ -901,7 +943,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "44",
@@ -922,7 +965,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "45",
@@ -943,7 +987,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "46",
@@ -964,7 +1009,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "47",
@@ -985,7 +1031,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "48",
@@ -1006,7 +1053,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "49",
@@ -1027,7 +1075,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "50",
@@ -1048,7 +1097,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "51",
@@ -1069,7 +1119,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "52",
@@ -1090,7 +1141,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "53",
@@ -1111,7 +1163,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "54",
@@ -1132,7 +1185,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "55",
@@ -1153,7 +1207,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "56",
@@ -1174,7 +1229,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "57",
@@ -1195,7 +1251,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "58",
@@ -1216,7 +1273,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "59",
@@ -1237,7 +1295,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "60",
@@ -1258,7 +1317,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "61",
@@ -1279,7 +1339,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "62",
@@ -1300,7 +1361,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "63",
@@ -1321,7 +1383,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "64",
@@ -1342,7 +1405,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "65",
@@ -1363,7 +1427,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "66",
@@ -1384,7 +1449,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "67",
@@ -1405,7 +1471,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "68",
@@ -1426,7 +1493,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "69",
@@ -1447,7 +1515,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "70",
@@ -1468,7 +1537,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "71",
@@ -1489,7 +1559,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "72",
@@ -1510,7 +1581,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "73",
@@ -1531,7 +1603,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "74",
@@ -1552,7 +1625,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "75",
@@ -1573,7 +1647,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "76",
@@ -1594,7 +1669,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "77",
@@ -1615,7 +1691,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "78",
@@ -1636,7 +1713,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "79",
@@ -1657,7 +1735,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "80",
@@ -1678,7 +1757,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "81",
@@ -1699,7 +1779,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "82",
@@ -1720,7 +1801,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "83",
@@ -1741,7 +1823,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "84",
@@ -1762,7 +1845,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "85",
@@ -1783,7 +1867,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "86",
@@ -1804,7 +1889,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "87",
@@ -1825,7 +1911,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "88",
@@ -1846,7 +1933,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "89",
@@ -1867,7 +1955,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "90",
@@ -1888,7 +1977,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "91",
@@ -1909,7 +1999,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "92",
@@ -1930,7 +2021,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "93",
@@ -1951,7 +2043,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "94",
@@ -1972,7 +2065,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "95",
@@ -1993,7 +2087,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "96",
@@ -2014,7 +2109,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "97",
@@ -2035,7 +2131,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "98",
@@ -2056,7 +2153,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "99",
@@ -2077,7 +2175,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "100",
@@ -2098,7 +2197,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "101"
     },
     {
         "id": "101",
@@ -2119,7 +2219,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "102",
@@ -2140,7 +2241,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "103",
@@ -2161,7 +2263,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "104",
@@ -2182,7 +2285,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "105,106,107,108"
     },
     {
         "id": "105",
@@ -2203,7 +2307,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "106,107,108"
     },
     {
         "id": "106",
@@ -2224,7 +2329,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "107,108"
     },
     {
         "id": "107",
@@ -2245,7 +2351,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "108"
     },
     {
         "id": "108",
@@ -2266,7 +2373,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "109",
@@ -2287,7 +2395,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "110",
@@ -2308,7 +2417,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "111",
@@ -2329,7 +2439,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "112",
@@ -2350,7 +2461,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "113",
@@ -2371,7 +2483,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "114",
@@ -2392,7 +2505,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "115",
@@ -2413,7 +2527,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "116",
@@ -2434,7 +2549,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "117",
@@ -2455,7 +2571,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "118",
@@ -2476,7 +2593,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "118"
     },
     {
         "id": "119",
@@ -2497,7 +2615,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "120",
@@ -2518,7 +2637,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "121",
@@ -2539,7 +2659,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "122",
@@ -2560,7 +2681,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "123",
@@ -2581,7 +2703,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "124",
@@ -2602,7 +2725,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "125",
@@ -2623,7 +2747,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "126",
@@ -2644,7 +2769,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "127",
@@ -2665,7 +2791,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "128",
@@ -2686,7 +2813,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "129",
@@ -2707,7 +2835,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "130",
@@ -2728,7 +2857,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "131",
@@ -2749,7 +2879,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "132",
@@ -2770,7 +2901,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "133",
@@ -2791,7 +2923,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "134",
@@ -2812,7 +2945,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "135",
@@ -2833,7 +2967,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "136",
@@ -2854,7 +2989,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "137",
@@ -2875,7 +3011,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "138",
@@ -2896,7 +3033,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "139",
@@ -2917,7 +3055,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "140",
@@ -2938,7 +3077,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "140"
     },
     {
         "id": "141",
@@ -2959,7 +3099,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "140"
     },
     {
         "id": "142",
@@ -2980,7 +3121,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "143",
@@ -3001,7 +3143,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "144"
     },
     {
         "id": "144",
@@ -3022,7 +3165,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "143"
     },
     {
         "id": "145",
@@ -3043,7 +3187,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "146",
@@ -3064,7 +3209,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "147",
@@ -3085,7 +3231,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "148",
@@ -3106,7 +3253,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "149",
@@ -3127,7 +3275,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "150",
@@ -3148,7 +3297,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "151",
@@ -3169,7 +3319,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "152",
@@ -3190,7 +3341,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "153",
@@ -3211,7 +3363,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "45"
     },
     {
         "id": "154",
@@ -3232,7 +3385,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "155",
@@ -3253,7 +3407,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "156",
@@ -3274,7 +3429,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "157",
@@ -3295,7 +3451,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "158",
@@ -3316,7 +3473,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "159",
@@ -3337,7 +3495,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "160",
@@ -3358,7 +3517,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "161",
@@ -3379,7 +3539,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "162",
@@ -3400,7 +3561,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "163",
@@ -3421,7 +3583,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "164",
@@ -3442,7 +3605,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "165",
@@ -3463,7 +3627,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "166",
@@ -3484,7 +3649,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "167",
@@ -3505,7 +3671,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "168",
@@ -3526,7 +3693,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "167"
     },
     {
         "id": "169",
@@ -3547,7 +3715,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "166"
     },
     {
         "id": "170",
@@ -3568,7 +3737,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "172"
     },
     {
         "id": "171",
@@ -3589,7 +3759,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "171"
     },
     {
         "id": "172",
@@ -3610,7 +3781,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "173",
@@ -3631,7 +3803,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "174",
@@ -3652,7 +3825,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "175",
@@ -3673,7 +3847,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "176",
@@ -3694,7 +3869,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "177",
@@ -3715,7 +3891,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "178",
@@ -3736,7 +3913,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "179",
@@ -3757,7 +3935,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "180",
@@ -3778,7 +3957,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "181",
@@ -3799,7 +3979,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "182"
     },
     {
         "id": "182",
@@ -3820,7 +4001,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "181"
     },
     {
         "id": "183",
@@ -3841,7 +4023,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "184",
@@ -3862,7 +4045,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "185"
     },
     {
         "id": "185",
@@ -3883,7 +4067,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "184"
     },
     {
         "id": "186",
@@ -3904,7 +4089,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "184"
     },
     {
         "id": "187",
@@ -3925,7 +4111,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "188",
@@ -3946,7 +4133,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "189",
@@ -3967,7 +4155,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "190",
@@ -3988,7 +4177,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "191",
@@ -4009,7 +4199,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "192",
@@ -4030,7 +4221,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "191"
     },
     {
         "id": "193",
@@ -4051,7 +4243,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "194",
@@ -4072,7 +4265,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "193"
     },
     {
         "id": "195",
@@ -4093,7 +4287,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "196",
@@ -4114,7 +4309,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "195"
     },
     {
         "id": "197",
@@ -4135,7 +4331,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "198",
@@ -4156,7 +4353,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "197"
     },
     {
         "id": "199",
@@ -4177,7 +4375,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "200,201,202"
     },
     {
         "id": "200",
@@ -4198,7 +4397,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "199,201,202"
     },
     {
         "id": "201",
@@ -4219,7 +4419,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "199,200,202"
     },
     {
         "id": "202",
@@ -4240,7 +4441,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "199,200,201"
     },
     {
         "id": "203",
@@ -4261,7 +4463,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "204"
     },
     {
         "id": "204",
@@ -4282,7 +4485,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "203"
     },
     {
         "id": "205",
@@ -4303,7 +4507,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "206",
@@ -4324,7 +4529,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "207,208,209"
     },
     {
         "id": "207",
@@ -4345,7 +4551,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "206,208,209"
     },
     {
         "id": "208",
@@ -4366,7 +4573,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "206,207,208"
     },
     {
         "id": "209",
@@ -4387,7 +4595,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "206,207,208"
     },
     {
         "id": "210",
@@ -4408,7 +4617,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "211",
@@ -4429,7 +4639,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "56"
     },
     {
         "id": "212",
@@ -4450,7 +4661,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "213",
@@ -4471,7 +4683,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "11"
     },
     {
         "id": "214",
@@ -4492,7 +4705,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "12"
     },
     {
         "id": "215",
@@ -4513,7 +4727,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "245"
     },
     {
         "id": "216",
@@ -4534,7 +4749,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "215"
     },
     {
         "id": "217",
@@ -4555,7 +4771,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "216"
     },
     {
         "id": "218",
@@ -4576,7 +4793,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "216"
     },
     {
         "id": "219",
@@ -4597,7 +4815,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "220"
     },
     {
         "id": "220",
@@ -4618,7 +4837,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "219"
     },
     {
         "id": "221",
@@ -4639,7 +4859,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "222",
@@ -4660,7 +4881,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "223"
     },
     {
         "id": "223",
@@ -4681,7 +4903,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "222"
     },
     {
         "id": "224",
@@ -4702,7 +4925,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "124"
     },
     {
         "id": "225",
@@ -4723,7 +4947,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "226",
@@ -4744,7 +4969,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "225"
     },
     {
         "id": "227",
@@ -4765,7 +4991,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "225"
     },
     {
         "id": "228",
@@ -4786,7 +5013,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "225"
     },
     {
         "id": "229",
@@ -4807,7 +5035,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "230",
@@ -4828,7 +5057,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "231",
@@ -4849,7 +5079,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "232",
@@ -4870,7 +5101,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "233",
@@ -4891,7 +5123,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "234",
@@ -4912,7 +5145,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "235",
@@ -4933,7 +5167,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "234"
     },
     {
         "id": "236",
@@ -4954,7 +5189,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "237",
@@ -4975,7 +5211,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": "238,239"
     },
     {
         "id": "238",
@@ -4996,7 +5233,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "239",
@@ -5017,7 +5255,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "240",
@@ -5038,7 +5277,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": "Unpublished"
+        "reference": "Unpublished",
+        "image_crossref": ""
     },
     {
         "id": "241",
@@ -5059,7 +5299,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "242",
@@ -5080,7 +5321,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "243",
@@ -5101,7 +5343,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "244",
@@ -5122,7 +5365,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "245",
@@ -5143,7 +5387,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "246",
@@ -5164,7 +5409,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "247",
@@ -5185,7 +5431,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "248",
@@ -5206,7 +5453,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "249",
@@ -5227,7 +5475,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "250",
@@ -5248,7 +5497,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "251",
@@ -5269,7 +5519,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "252",
@@ -5290,7 +5541,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "253",
@@ -5311,7 +5563,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "254",
@@ -5332,7 +5585,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "255",
@@ -5353,7 +5607,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "256",
@@ -5374,7 +5629,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "257",
@@ -5395,7 +5651,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "258",
@@ -5416,7 +5673,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "259",
@@ -5437,7 +5695,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "260",
@@ -5458,7 +5717,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "261",
@@ -5479,7 +5739,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "262",
@@ -5500,7 +5761,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "263",
@@ -5521,7 +5783,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "264",
@@ -5542,7 +5805,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "265",
@@ -5563,7 +5827,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "266",
@@ -5584,7 +5849,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "267",
@@ -5605,7 +5871,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "268",
@@ -5626,7 +5893,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "269",
@@ -5647,7 +5915,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "270",
@@ -5668,7 +5937,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "271",
@@ -5689,7 +5959,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "272",
@@ -5710,7 +5981,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "273",
@@ -5731,7 +6003,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "274",
@@ -5752,7 +6025,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "275"
     },
     {
         "id": "275",
@@ -5773,7 +6047,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "274"
     },
     {
         "id": "276",
@@ -5794,7 +6069,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "277",
@@ -5815,7 +6091,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "278,280"
     },
     {
         "id": "278",
@@ -5836,7 +6113,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "277"
     },
     {
         "id": "279",
@@ -5857,7 +6135,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "278"
     },
     {
         "id": "280",
@@ -5878,7 +6157,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "277"
     },
     {
         "id": "281",
@@ -5899,7 +6179,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "282"
     },
     {
         "id": "282",
@@ -5920,7 +6201,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "281"
     },
     {
         "id": "283",
@@ -5941,7 +6223,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "284",
@@ -5962,7 +6245,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "285",
@@ -5983,7 +6267,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "286",
@@ -6004,7 +6289,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "287",
@@ -6025,7 +6311,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "288",
@@ -6046,7 +6333,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "289",
@@ -6067,7 +6355,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "290",
@@ -6088,7 +6377,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "291",
@@ -6109,7 +6399,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "292",
@@ -6130,7 +6421,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "293"
     },
     {
         "id": "293",
@@ -6151,7 +6443,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "292"
     },
     {
         "id": "294",
@@ -6172,7 +6465,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "295",
@@ -6193,7 +6487,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "296",
@@ -6214,7 +6509,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "297",
@@ -6235,7 +6531,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "299"
     },
     {
         "id": "298",
@@ -6256,7 +6553,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "299"
     },
     {
         "id": "299",
@@ -6277,7 +6575,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "300",
@@ -6298,7 +6597,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "301",
@@ -6319,7 +6619,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "302",
@@ -6340,7 +6641,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "303"
     },
     {
         "id": "303",
@@ -6361,7 +6663,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "304",
@@ -6382,7 +6685,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "302"
     },
     {
         "id": "305",
@@ -6403,7 +6707,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "306",
@@ -6424,7 +6729,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "307"
     },
     {
         "id": "307",
@@ -6445,7 +6751,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "306"
     },
     {
         "id": "308",
@@ -6466,7 +6773,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "305"
     },
     {
         "id": "309",
@@ -6487,7 +6795,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "310"
     },
     {
         "id": "310",
@@ -6508,7 +6817,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "309"
     },
     {
         "id": "311",
@@ -6529,7 +6839,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "312",
@@ -6550,7 +6861,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "313",
@@ -6571,7 +6883,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "312"
     },
     {
         "id": "314",
@@ -6592,7 +6905,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "312, 313"
     },
     {
         "id": "315",
@@ -6613,7 +6927,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "316",
@@ -6634,7 +6949,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "317",
@@ -6655,7 +6971,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "318, 319"
     },
     {
         "id": "318",
@@ -6676,7 +6993,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "317"
     },
     {
         "id": "319",
@@ -6697,7 +7015,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "317"
     },
     {
         "id": "320",
@@ -6718,7 +7037,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "321",
@@ -6739,7 +7059,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "322",
@@ -6760,7 +7081,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "323, 324"
     },
     {
         "id": "323",
@@ -6781,7 +7103,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "322, 324"
     },
     {
         "id": "324",
@@ -6802,7 +7125,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "322, 323"
     },
     {
         "id": "325",
@@ -6823,7 +7147,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "326",
@@ -6844,7 +7169,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "327",
@@ -6865,7 +7191,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "328",
@@ -6886,7 +7213,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "329"
     },
     {
         "id": "329",
@@ -6907,7 +7235,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": "328"
     },
     {
         "id": "330",
@@ -6928,7 +7257,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1001",
@@ -6949,7 +7279,8 @@ export const imageData =
         "figure": "1A-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1002",
@@ -6970,7 +7301,8 @@ export const imageData =
         "figure": "1E-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1003",
@@ -6991,7 +7323,8 @@ export const imageData =
         "figure": "1I-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1004",
@@ -7012,7 +7345,8 @@ export const imageData =
         "figure": "1M-P",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1005",
@@ -7033,7 +7367,8 @@ export const imageData =
         "figure": "1Q-T",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1006",
@@ -7054,7 +7389,8 @@ export const imageData =
         "figure": "1U-X",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1007",
@@ -7075,7 +7411,8 @@ export const imageData =
         "figure": "2A-B",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1008",
@@ -7096,7 +7433,8 @@ export const imageData =
         "figure": "2C-D",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1009",
@@ -7117,7 +7455,8 @@ export const imageData =
         "figure": "2E-F",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1010",
@@ -7138,7 +7477,8 @@ export const imageData =
         "figure": "2G-H",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1011",
@@ -7159,7 +7499,8 @@ export const imageData =
         "figure": "2I-J",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1012",
@@ -7180,7 +7521,8 @@ export const imageData =
         "figure": "2K-L",
         "publication_year": "2025",
         "first_author": "Schweitzer",
-        "reference": "39910217"
+        "reference": "39910217",
+        "image_crossref": ""
     },
     {
         "id": "1013",
@@ -7201,7 +7543,8 @@ export const imageData =
         "figure": "1A-E",
         "publication_year": "2020",
         "first_author": "Fabbri",
-        "reference": "https://doi.org/10.1111/pala.12470"
+        "reference": "https://doi.org/10.1111/pala.12470",
+        "image_crossref": ""
     },
     {
         "id": "1014",
@@ -7222,7 +7565,8 @@ export const imageData =
         "figure": "",
         "publication_year": "2020",
         "first_author": "Ullmann",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1015",
@@ -7243,7 +7587,8 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391"
+        "reference": "39823391",
+        "image_crossref": ""
     },
     {
         "id": "1016",
@@ -7264,7 +7609,8 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740"
+        "reference": "39919740",
+        "image_crossref": ""
     },
     {
         "id": "1017",
@@ -7285,7 +7631,8 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "image_crossref": ""
     },
     {
         "id": "1018",
@@ -7306,7 +7653,8 @@ export const imageData =
         "figure": "B",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "image_crossref": ""
     },
     {
         "id": "1019",
@@ -7327,7 +7675,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1020",
@@ -7348,7 +7697,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1021",
@@ -7369,7 +7719,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1022",
@@ -7390,7 +7741,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1023",
@@ -7411,7 +7763,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1024",
@@ -7432,7 +7785,8 @@ export const imageData =
         "figure": "",
         "publication_year": "",
         "first_author": "",
-        "reference": ""
+        "reference": "",
+        "image_crossref": ""
     },
     {
         "id": "1025",
@@ -7453,7 +7807,8 @@ export const imageData =
         "figure": "3",
         "publication_year": "2025",
         "first_author": "Tuinstra",
-        "reference": "39823391"
+        "reference": "39823391",
+        "image_crossref": ""
     },
     {
         "id": "1026",
@@ -7474,7 +7829,8 @@ export const imageData =
         "figure": "1D-E",
         "publication_year": "2025",
         "first_author": "Marx",
-        "reference": "39919740"
+        "reference": "39919740",
+        "image_crossref": ""
     },
     {
         "id": "1027",
@@ -7495,7 +7851,8 @@ export const imageData =
         "figure": "A",
         "publication_year": "2019",
         "first_author": "McCoy",
-        "reference": "31015542"
+        "reference": "31015542",
+        "image_crossref": ""
     },
     {
         "id": "2001",
@@ -7516,7 +7873,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2003",
@@ -7537,7 +7895,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2004",
@@ -7558,7 +7917,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2006",
@@ -7579,7 +7939,8 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2007",
@@ -7600,7 +7961,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2008",
@@ -7621,7 +7983,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2009",
@@ -7642,7 +8005,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2010",
@@ -7663,7 +8027,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2014",
@@ -7684,7 +8049,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2015",
@@ -7705,7 +8071,8 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2016",
@@ -7726,7 +8093,8 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2017",
@@ -7747,7 +8115,8 @@ export const imageData =
         "figure": "4G",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2018",
@@ -7768,7 +8137,8 @@ export const imageData =
         "figure": "4H",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2019",
@@ -7789,7 +8159,8 @@ export const imageData =
         "figure": "4I",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2020",
@@ -7810,7 +8181,8 @@ export const imageData =
         "figure": "4J",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2021",
@@ -7831,7 +8203,8 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2022",
@@ -7852,7 +8225,8 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2022",
         "first_author": "Voegele",
-        "reference": "36009787"
+        "reference": "36009787",
+        "image_crossref": ""
     },
     {
         "id": "2023",
@@ -7873,7 +8247,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2024",
@@ -7894,7 +8269,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2025",
@@ -7915,7 +8291,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2026",
@@ -7936,7 +8313,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2027",
@@ -7957,7 +8335,8 @@ export const imageData =
         "figure": "1E",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2028",
@@ -7978,7 +8357,8 @@ export const imageData =
         "figure": "1F",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2029",
@@ -7999,7 +8379,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2030",
@@ -8020,7 +8401,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2031",
@@ -8041,7 +8423,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2032",
@@ -8062,7 +8445,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2021",
         "first_author": "Dhiman",
-        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565"
+        "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
+        "image_crossref": ""
     },
     {
         "id": "2033",
@@ -8083,7 +8467,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2034",
@@ -8104,7 +8489,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2035",
@@ -8125,7 +8511,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2036",
@@ -8146,7 +8533,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2037",
@@ -8167,7 +8555,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2038",
@@ -8188,7 +8577,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2039",
@@ -8209,7 +8599,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2040",
@@ -8230,7 +8621,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2041",
@@ -8251,7 +8643,8 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2042",
@@ -8272,7 +8665,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2043",
@@ -8293,7 +8687,8 @@ export const imageData =
         "figure": "3C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2044",
@@ -8314,7 +8709,8 @@ export const imageData =
         "figure": "3D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2045",
@@ -8335,7 +8731,8 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2046",
@@ -8356,7 +8753,8 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2047",
@@ -8377,7 +8775,8 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2048",
@@ -8398,7 +8797,8 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2049",
@@ -8419,7 +8819,8 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2050",
@@ -8440,7 +8841,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2020",
         "first_author": "Bailleul",
-        "reference": "34692099"
+        "reference": "34692099",
+        "image_crossref": ""
     },
     {
         "id": "2051",
@@ -8461,7 +8863,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644"
+        "reference": "30670644",
+        "image_crossref": ""
     },
     {
         "id": "2052",
@@ -8482,7 +8885,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2019",
         "first_author": "Miyashita",
-        "reference": "30670644"
+        "reference": "30670644",
+        "image_crossref": ""
     },
     {
         "id": "2053",
@@ -8503,7 +8907,8 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2054",
@@ -8524,7 +8929,8 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2055",
@@ -8545,7 +8951,8 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2056",
@@ -8566,7 +8973,8 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2057",
@@ -8587,7 +8995,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2058",
@@ -8608,7 +9017,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2059",
@@ -8629,7 +9039,8 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2060",
@@ -8650,7 +9061,8 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2061",
@@ -8671,7 +9083,8 @@ export const imageData =
         "figure": "2G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2062",
@@ -8692,7 +9105,8 @@ export const imageData =
         "figure": "2H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2063",
@@ -8713,7 +9127,8 @@ export const imageData =
         "figure": "2I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2064",
@@ -8734,7 +9149,8 @@ export const imageData =
         "figure": "2J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2065",
@@ -8755,7 +9171,8 @@ export const imageData =
         "figure": "2K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2066",
@@ -8776,7 +9193,8 @@ export const imageData =
         "figure": "2L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2067",
@@ -8797,7 +9215,8 @@ export const imageData =
         "figure": "3F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2068",
@@ -8818,7 +9237,8 @@ export const imageData =
         "figure": "3G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2069",
@@ -8839,7 +9259,8 @@ export const imageData =
         "figure": "3H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2070",
@@ -8860,7 +9281,8 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2071",
@@ -8881,7 +9303,8 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2072",
@@ -8902,7 +9325,8 @@ export const imageData =
         "figure": "3K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2073",
@@ -8923,7 +9347,8 @@ export const imageData =
         "figure": "3L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2074",
@@ -8944,7 +9369,8 @@ export const imageData =
         "figure": "3M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2075",
@@ -8965,7 +9391,8 @@ export const imageData =
         "figure": "3N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2076",
@@ -8986,7 +9413,8 @@ export const imageData =
         "figure": "3O",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2077",
@@ -9007,7 +9435,8 @@ export const imageData =
         "figure": "3P",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2078",
@@ -9028,7 +9457,8 @@ export const imageData =
         "figure": "3Q",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2079",
@@ -9049,7 +9479,8 @@ export const imageData =
         "figure": "3R",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2080",
@@ -9070,7 +9501,8 @@ export const imageData =
         "figure": "3S",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2081",
@@ -9091,7 +9523,8 @@ export const imageData =
         "figure": "3T",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2082",
@@ -9112,7 +9545,8 @@ export const imageData =
         "figure": "3U",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2083",
@@ -9133,7 +9567,8 @@ export const imageData =
         "figure": "3V",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2084",
@@ -9154,7 +9589,8 @@ export const imageData =
         "figure": "3W",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2085",
@@ -9175,7 +9611,8 @@ export const imageData =
         "figure": "3X",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2086",
@@ -9196,7 +9633,8 @@ export const imageData =
         "figure": "3Y",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2087",
@@ -9217,7 +9655,8 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2088",
@@ -9238,7 +9677,8 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2089",
@@ -9259,7 +9699,8 @@ export const imageData =
         "figure": "4M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2090",
@@ -9280,7 +9721,8 @@ export const imageData =
         "figure": "4N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2091",
@@ -9301,7 +9743,8 @@ export const imageData =
         "figure": "2A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2092",
@@ -9322,7 +9765,8 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2093",
@@ -9343,7 +9787,8 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2094",
@@ -9364,7 +9809,8 @@ export const imageData =
         "figure": "2D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2095",
@@ -9385,7 +9831,8 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2096",
@@ -9406,7 +9853,8 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2097",
@@ -9427,7 +9875,8 @@ export const imageData =
         "figure": "3A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2098",
@@ -9448,7 +9897,8 @@ export const imageData =
         "figure": "3B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2099",
@@ -9469,7 +9919,8 @@ export const imageData =
         "figure": "4A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2100",
@@ -9490,7 +9941,8 @@ export const imageData =
         "figure": "4B",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2101",
@@ -9511,7 +9963,8 @@ export const imageData =
         "figure": "4C",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2102",
@@ -9532,7 +9985,8 @@ export const imageData =
         "figure": "4D",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2103",
@@ -9553,7 +10007,8 @@ export const imageData =
         "figure": "4E",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2104",
@@ -9574,7 +10029,8 @@ export const imageData =
         "figure": "4F",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     },
     {
         "id": "2105",
@@ -9595,6 +10051,7 @@ export const imageData =
         "figure": "5A",
         "publication_year": "2017",
         "first_author": "Plet",
-        "reference": "29061985"
+        "reference": "29061985",
+        "image_crossref": ""
     }
 ]
