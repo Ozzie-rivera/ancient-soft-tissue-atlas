@@ -8,11 +8,13 @@ function Explore() {
     const alltaxons = [...new Set(imageData.map(row => row.taxon))].sort();
     const intervals = [...new Set(imageData.map(row => row.interval))].sort();
     const tissues = [...new Set(imageData.map(row => row.tissue))].sort();
+    const cells = [...new Set(imageData.map(row => row.cell))].sort();
     const sites = [...new Set(imageData.map(row => row.site))].sort();
     const authors = [...new Set(imageData.map(row => row.first_author))].sort();
 
     const [taxon, setTaxon] = useState("");
     const [tissue, setTissue] = useState("");
+    const [cell, setCell] = useState("");
     const [interval, setInterval] = useState("");
     const [site, setSite] = useState("");
     const [first_author, setFirstauthor] = useState("");
@@ -25,6 +27,7 @@ function Explore() {
         console.log("Selected filters:");
         console.log("Taxon:", taxon);
         console.log("Tissue:", tissue);
+        console.log("Cell:", cell);
         console.log("Interval:", interval);
         console.log("Site:", site);
         console.log("First Author:", first_author);
@@ -33,6 +36,7 @@ function Explore() {
             const matchesFilters = (
                 (taxon === "" || item.taxon === taxon) &&
                 (tissue === "" || item.tissue === tissue) &&
+                (cell === "" || item.cell === cell) &&
                 (interval === "" || item.interval === interval) &&
                 (site === "" || item.site === site) &&
                 (first_author === "" || item.first_author === first_author)
@@ -43,6 +47,7 @@ function Explore() {
                 (item.description && item.description.toLowerCase().includes(q)) ||
                 (item.taxon && item.taxon.toLowerCase().includes(q)) ||
                 (item.tissue && item.tissue.toLowerCase().includes(q)) ||
+                (item.cell && item.cell.toLowerCase().includes(q)) ||
                 (item.interval && item.interval.toLowerCase().includes(q)) ||
                 (item.site && item.site.toLowerCase().includes(q)) ||
                 (item.first_author && item.first_author.toLowerCase().includes(q))
@@ -127,6 +132,7 @@ function Explore() {
     const resetAll = () => {
         setTaxon("");
         setTissue("");
+        setCell("");
         setInterval("");
         setSite("");
         setFirstauthor("");
@@ -138,9 +144,9 @@ function Explore() {
         <div>
             <h1>Explore the Atlas</h1>
             
-            <label>
+            <label className="form-label">
                 Taxon:{" "}
-                <select value={taxon} onChange={(e) => setTaxon(e.target.value)}>
+                <select className="uniform-select" value={taxon} onChange={(e) => setTaxon(e.target.value)}>
                     <option value="">--Select Taxon--</option>
                         {alltaxons.map((taxon, index) => (
                             <option key={index} value={taxon}>
@@ -149,11 +155,11 @@ function Explore() {
                         ))}
                 </select>
             </label>
-            <br />
+            <br/>
 
-            <label>
+            <label className="form-label">
                 Tissue:{" "}
-                <select value={tissue} onChange={(e) => setTissue(e.target.value)}>
+                <select className="uniform-select" value={tissue} onChange={(e) => setTissue(e.target.value)}>
                     <option value="">--Select Tissue--</option>
                         {tissues.map((tissue, index) => (
                             <option key={index} value={tissue}>
@@ -162,11 +168,24 @@ function Explore() {
                         ))}
                 </select>
             </label>
-            <br />
+            <br/>
 
-            <label>
+            <label className="form-label">
+                Cell:{" "}
+                <select className="uniform-select" value={cell} onChange={(e) => setCell(e.target.value)}>
+                    <option value="">--Select Cell--</option>
+                        {cells.map((cell, index) => (
+                            <option key={index} value={cell}>
+                                {cell}
+                            </option>
+                        ))}
+                </select>
+            </label>
+            <br/>
+
+            <label className="form-label">
                 Interval:{" "}
-                <select value={interval} onChange={(e) => setInterval(e.target.value)}>
+                <select className="uniform-select" value={interval} onChange={(e) => setInterval(e.target.value)}>
                     <option value="">--Select Interval--</option>
                         {intervals.map((e, index) => (
                             <option key={index} value={e}>
@@ -175,11 +194,11 @@ function Explore() {
                         ))}
                       </select>
             </label>
-            <br />
+            <br/>
 
-            <label>
+            <label className="form-label">
                 Site:{" "}
-                <select value={site} onChange={(e) => setSite(e.target.value)}>
+                <select className="uniform-select" value={site} onChange={(e) => setSite(e.target.value)}>
                     <option value="">--Select Site--</option>
                         {sites.map((s, index) => (
                             <option key={index} value={s}>
@@ -188,11 +207,11 @@ function Explore() {
                         ))}
                       </select>
             </label>
-            <br />
+            <br/>
 
-            <label>
+            <label className="form-label">
                 First author:{" "}
-                <select value={first_author} onChange={(e) => setFirstauthor(e.target.value)}>
+                <select className="uniform-select" value={first_author} onChange={(e) => setFirstauthor(e.target.value)}>
                     <option value="">--Select Author--</option>
                         {authors.map((s, index) => (
                             <option key={index} value={s}>
@@ -201,9 +220,9 @@ function Explore() {
                         ))}
                       </select>
             </label>
-            <br />
+            <br/>
 
-            <label>
+            <label className="form-label">
                 Search text: {" "}
                 <input
                     type="text"
@@ -213,7 +232,7 @@ function Explore() {
                     style={{ width: "320px" }}
                 />
             </label>
-            <br />
+            <br/>
 
 
             <button onClick={handleSearch}>Search</button>
