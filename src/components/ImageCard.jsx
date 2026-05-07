@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-function ImageCard({ id, imageUrl, taxon, tissue, interval, description }) {
+function ImageCard({ id, imageUrl, taxon, tissue, interval, description, microscope_technology, magnification }) {
     const [expanded, setExpanded] = useState(false);
 
     const shortDesc = description
@@ -21,6 +21,8 @@ function ImageCard({ id, imageUrl, taxon, tissue, interval, description }) {
 
             <h3>{taxon}</h3>
             <p><strong>Tissue:</strong> {tissue}</p>
+            <p><strong>Microscope technology:</strong> {microscope_technology}</p>
+            <p><strong>Magnification:</strong> {magnification}</p>
             <p><strong>Interval:</strong> {interval}</p>
 
             {description && (

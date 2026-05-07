@@ -259,6 +259,8 @@ function Explore() {
                         city={item.city}
                         country={item.country}
                         description={item.description}
+                        magnification={item.magnification}
+                        microscope_technology={item.microscope_technology}
                     />
                 ))}
             </div>

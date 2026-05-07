@@ -118,6 +118,13 @@ function ImageDetail() {
                 )}
             </div>
 
+            {item.magnification && (
+                <div style={{ marginTop: 16, whiteSpace: "pre-wrap" }}>
+                    <b>Magnification:</b> {item.magnification}<br/>
+                    <b>Microscope technology:</b> {item.microscope_technology}
+                </div>
+            )}
+
             {item.description && (
                 <div style={{ marginTop: 16, whiteSpace: "pre-wrap" }}>
                     <h3>Description</h3>
