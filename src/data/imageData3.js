@@ -7261,8 +7261,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1001",
-        "filename": "01001.png",
+        "id": "3001",
+        "filename": "03001.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Brachylophosaurus canadensis",
@@ -7283,8 +7283,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1002",
-        "filename": "01002.png",
+        "id": "3002",
+        "filename": "03002.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Ceratopsidae sp.",
@@ -7305,8 +7305,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1003",
-        "filename": "01003.png",
+        "id": "3003",
+        "filename": "03003.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Tyrannosaurus rex",
@@ -7327,8 +7327,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1004",
-        "filename": "01004.png",
+        "id": "3004",
+        "filename": "03004.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Tyrannosaurus rex",
@@ -7349,8 +7349,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1005",
-        "filename": "01005.png",
+        "id": "3005",
+        "filename": "03005.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Tyrannosaurus rex",
@@ -7371,8 +7371,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1006",
-        "filename": "01006.png",
+        "id": "3006",
+        "filename": "03006.png",
         "microscope_technology": "scanning electron microscopy",
         "magnification": "various",
         "taxon": "Tyrannosaurus rex",
@@ -7393,8 +7393,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1007",
-        "filename": "01007.png",
+        "id": "3007",
+        "filename": "03007.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Brachylophosaurus canadensis",
@@ -7415,8 +7415,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1008",
-        "filename": "01008.png",
+        "id": "3008",
+        "filename": "03008.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Ceratopsidae sp.",
@@ -7437,8 +7437,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1009",
-        "filename": "01009.png",
+        "id": "3009",
+        "filename": "03009.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Tyrannosaurus rex",
@@ -7459,8 +7459,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1010",
-        "filename": "01010.png",
+        "id": "3010",
+        "filename": "03010.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Tyrannosaurus rex",
@@ -7481,8 +7481,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1011",
-        "filename": "01011.png",
+        "id": "3011",
+        "filename": "03011.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Tyrannosaurus rex",
@@ -7503,8 +7503,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1012",
-        "filename": "01012.png",
+        "id": "3012",
+        "filename": "03012.png",
         "microscope_technology": "transmission electron microscropy",
         "magnification": "NR",
         "taxon": "Tyrannosaurus rex",
@@ -7525,8 +7525,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1013",
-        "filename": "01013.png",
+        "id": "3013",
+        "filename": "03013.png",
         "microscope_technology": "bright-field illumination",
         "magnification": "NR",
         "taxon": "Hadrosauridae",
@@ -7547,8 +7547,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1014",
-        "filename": "01014.png",
+        "id": "3014",
+        "filename": "03014.png",
         "microscope_technology": "immunofluorescence",
         "magnification": "NR",
         "taxon": "Edmontosaurus annectens",
@@ -7569,8 +7569,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1015",
-        "filename": "01015.png",
+        "id": "3015",
+        "filename": "03015.png",
         "microscope_technology": "fourier transform infrared spectroscopy (FTIR)",
         "magnification": "NA",
         "taxon": "Edmontosaurus",
@@ -7591,8 +7591,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1016",
-        "filename": "01016.png",
+        "id": "3016",
+        "filename": "03016.png",
         "microscope_technology": "transmitted light microscopy",
         "magnification": "NR",
         "taxon": "Pleiosaurus",
@@ -7613,8 +7613,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1017",
-        "filename": "01017.png",
+        "id": "3017",
+        "filename": "03017.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7635,8 +7635,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1018",
-        "filename": "01018.png",
+        "id": "3018",
+        "filename": "03018.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7657,8 +7657,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1019",
-        "filename": "01019.png",
+        "id": "3019",
+        "filename": "03019.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7679,8 +7679,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1020",
-        "filename": "01020.png",
+        "id": "3020",
+        "filename": "03020.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7701,8 +7701,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1021",
-        "filename": "01021.png",
+        "id": "3021",
+        "filename": "03021.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7723,8 +7723,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1022",
-        "filename": "01022.png",
+        "id": "3022",
+        "filename": "03022.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7745,8 +7745,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1023",
-        "filename": "01023.png",
+        "id": "3023",
+        "filename": "03023.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7767,8 +7767,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1024",
-        "filename": "01024.png",
+        "id": "3024",
+        "filename": "03024.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7789,8 +7789,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1025",
-        "filename": "01025.png",
+        "id": "3025",
+        "filename": "03025.png",
         "microscope_technology": "fourier transform infrared spectroscopy (FTIR)",
         "magnification": "NA",
         "taxon": "Edmontosaurus",
@@ -7811,8 +7811,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1026",
-        "filename": "01026.png",
+        "id": "3026",
+        "filename": "03026.png",
         "microscope_technology": "transmitted light microscopy",
         "magnification": "NR",
         "taxon": "Pleiosaurus",
@@ -7833,8 +7833,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "1027",
-        "filename": "01027.png",
+        "id": "3027",
+        "filename": "03027.png",
         "microscope_technology": "NR",
         "magnification": "NR",
         "taxon": "",
@@ -7855,8 +7855,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2001",
-        "filename": "02001.png",
+        "id": "4001",
+        "filename": "04001.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus",
@@ -7877,8 +7877,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2003",
-        "filename": "02003.png",
+        "id": "4002",
+        "filename": "04003.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Euclastes",
@@ -7899,8 +7899,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2004",
-        "filename": "02004.png",
+        "id": "4003",
+        "filename": "04004.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -7921,8 +7921,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2006",
-        "filename": "02006.png",
+        "id": "4004",
+        "filename": "04006.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -7943,8 +7943,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2007",
-        "filename": "02007.png",
+        "id": "4005",
+        "filename": "04007.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus neocesariensis",
@@ -7965,8 +7965,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2008",
-        "filename": "02008.png",
+        "id": "4006",
+        "filename": "04008.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus neocesariensis",
@@ -7987,8 +7987,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2009",
-        "filename": "02009.png",
+        "id": "4007",
+        "filename": "04009.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus neocesariensis",
@@ -8009,8 +8009,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2010",
-        "filename": "02010.png",
+        "id": "4008",
+        "filename": "04010.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus",
@@ -8031,8 +8031,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2014",
-        "filename": "02014.png",
+        "id": "4009",
+        "filename": "04014.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus",
@@ -8053,8 +8053,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2015",
-        "filename": "02015.png",
+        "id": "4010",
+        "filename": "04015.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus",
@@ -8075,8 +8075,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2016",
-        "filename": "02016.png",
+        "id": "4011",
+        "filename": "04016.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -8097,8 +8097,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2017",
-        "filename": "02017.png",
+        "id": "4012",
+        "filename": "04017.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Thoracosaurus",
@@ -8119,8 +8119,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2018",
-        "filename": "02018.png",
+        "id": "4013",
+        "filename": "04018.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -8141,8 +8141,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2019",
-        "filename": "02019.png",
+        "id": "4014",
+        "filename": "04019.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -8163,8 +8163,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2020",
-        "filename": "02020.png",
+        "id": "4015",
+        "filename": "04020.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Testudines",
@@ -8185,8 +8185,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2021",
-        "filename": "02021.png",
+        "id": "4016",
+        "filename": "04021.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Taphrosphys",
@@ -8207,8 +8207,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2022",
-        "filename": "02022.png",
+        "id": "4017",
+        "filename": "04022.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Euclastes",
@@ -8229,8 +8229,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2023",
-        "filename": "02023.png",
+        "id": "4018",
+        "filename": "04023.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Megaloolithus",
@@ -8251,8 +8251,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2024",
-        "filename": "02024.png",
+        "id": "4019",
+        "filename": "04024.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Megaloolithus",
@@ -8273,8 +8273,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2025",
-        "filename": "02025.png",
+        "id": "4020",
+        "filename": "04025.png",
         "microscope_technology": "X-ray microscopy",
         "magnification": "",
         "taxon": "Megaloolithus",
@@ -8295,8 +8295,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2026",
-        "filename": "02026.png",
+        "id": "4021",
+        "filename": "04026.png",
         "microscope_technology": "X-ray microscopy",
         "magnification": "",
         "taxon": "Megaloolithus",
@@ -8317,8 +8317,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2027",
-        "filename": "02027.png",
+        "id": "4022",
+        "filename": "04027.png",
         "microscope_technology": "",
         "magnification": "",
         "taxon": "Megaloolithus",
@@ -8339,8 +8339,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2028",
-        "filename": "02028.png",
+        "id": "4023",
+        "filename": "04028.png",
         "microscope_technology": "",
         "magnification": "",
         "taxon": "Fusioolithus",
@@ -8361,8 +8361,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2029",
-        "filename": "02029.png",
+        "id": "4024",
+        "filename": "04029.png",
         "microscope_technology": "stereomicroscope",
         "magnification": "",
         "taxon": "",
@@ -8383,8 +8383,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2030",
-        "filename": "02030.png",
+        "id": "4025",
+        "filename": "04030.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "",
@@ -8405,8 +8405,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2031",
-        "filename": "02031.png",
+        "id": "4026",
+        "filename": "04031.png",
         "microscope_technology": "",
         "magnification": "",
         "taxon": "",
@@ -8427,8 +8427,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2032",
-        "filename": "02032.png",
+        "id": "4027",
+        "filename": "04032.png",
         "microscope_technology": "",
         "magnification": "",
         "taxon": "",
@@ -8449,8 +8449,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2033",
-        "filename": "02033.png",
+        "id": "4028",
+        "filename": "04033.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8471,8 +8471,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2034",
-        "filename": "02034.png",
+        "id": "4029",
+        "filename": "04034.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8493,8 +8493,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2035",
-        "filename": "02035.png",
+        "id": "4030",
+        "filename": "04035.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8515,8 +8515,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2036",
-        "filename": "02036.png",
+        "id": "4031",
+        "filename": "04036.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8537,8 +8537,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2037",
-        "filename": "02037.png",
+        "id": "4032",
+        "filename": "04037.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8559,8 +8559,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2038",
-        "filename": "02038.png",
+        "id": "4033",
+        "filename": "04038.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8581,8 +8581,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2039",
-        "filename": "02039.png",
+        "id": "4034",
+        "filename": "04039.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8603,8 +8603,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2040",
-        "filename": "02040.png",
+        "id": "4035",
+        "filename": "04040.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8625,8 +8625,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2041",
-        "filename": "02041.png",
+        "id": "4036",
+        "filename": "04041.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8647,8 +8647,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2042",
-        "filename": "02042.png",
+        "id": "4037",
+        "filename": "04042.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8669,8 +8669,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2043",
-        "filename": "02043.png",
+        "id": "4038",
+        "filename": "04043.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8691,8 +8691,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2044",
-        "filename": "02044.png",
+        "id": "4039",
+        "filename": "04044.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8713,8 +8713,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2045",
-        "filename": "02045.png",
+        "id": "4040",
+        "filename": "04045.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8735,8 +8735,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2046",
-        "filename": "02046.png",
+        "id": "4041",
+        "filename": "04046.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8757,8 +8757,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2047",
-        "filename": "02047.png",
+        "id": "4042",
+        "filename": "04047.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8779,8 +8779,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2048",
-        "filename": "02048.png",
+        "id": "4043",
+        "filename": "04048.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8801,8 +8801,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2049",
-        "filename": "02049.png",
+        "id": "4044",
+        "filename": "04049.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8823,8 +8823,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2050",
-        "filename": "02050.png",
+        "id": "4045",
+        "filename": "04050.png",
         "microscope_technology": "polarizing light microscope",
         "magnification": "",
         "taxon": "Hypacrosaurus stebingeri",
@@ -8845,8 +8845,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2051",
-        "filename": "02051.png",
+        "id": "4046",
+        "filename": "04051.png",
         "microscope_technology": "X-ray fluorescence microscopy",
         "magnification": "",
         "taxon": "Tethymyxine tapirostrum",
@@ -8867,8 +8867,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2052",
-        "filename": "02052.png",
+        "id": "4047",
+        "filename": "04052.png",
         "microscope_technology": "X-ray fluorescence microscopy",
         "magnification": "",
         "taxon": "Tethymyxine tapirostrum",
@@ -8889,8 +8889,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2053",
-        "filename": "02053.png",
+        "id": "4048",
+        "filename": "04053.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -8907,12 +8907,12 @@ export const imageData =
         "figure": "1A",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2054",
-        "filename": "02054.png",
+        "id": "4049",
+        "filename": "04054.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -8929,12 +8929,12 @@ export const imageData =
         "figure": "1B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2055",
-        "filename": "02055.png",
+        "id": "4050",
+        "filename": "04055.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -8951,12 +8951,12 @@ export const imageData =
         "figure": "1C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2056",
-        "filename": "02056.png",
+        "id": "4051",
+        "filename": "04056.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -8973,12 +8973,12 @@ export const imageData =
         "figure": "1D",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2057",
-        "filename": "02057.png",
+        "id": "4052",
+        "filename": "04057.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -8995,12 +8995,12 @@ export const imageData =
         "figure": "2B",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2058",
-        "filename": "02058.png",
+        "id": "4053",
+        "filename": "04058.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9017,12 +9017,12 @@ export const imageData =
         "figure": "2C",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2059",
-        "filename": "02059.png",
+        "id": "4054",
+        "filename": "04059.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9039,12 +9039,12 @@ export const imageData =
         "figure": "2E",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2060",
-        "filename": "02060.png",
+        "id": "4055",
+        "filename": "04060.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9061,12 +9061,12 @@ export const imageData =
         "figure": "2F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2061",
-        "filename": "02061.png",
+        "id": "4056",
+        "filename": "04061.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9083,12 +9083,12 @@ export const imageData =
         "figure": "2G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2062",
-        "filename": "02062.png",
+        "id": "4057",
+        "filename": "04062.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9105,12 +9105,12 @@ export const imageData =
         "figure": "2H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2063",
-        "filename": "02063.png",
+        "id": "4058",
+        "filename": "04063.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "",
@@ -9127,12 +9127,12 @@ export const imageData =
         "figure": "2I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2064",
-        "filename": "02064.png",
+        "id": "4059",
+        "filename": "04064.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9149,12 +9149,12 @@ export const imageData =
         "figure": "2J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2065",
-        "filename": "02065.png",
+        "id": "4060",
+        "filename": "04065.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9171,12 +9171,12 @@ export const imageData =
         "figure": "2K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2066",
-        "filename": "02066.png",
+        "id": "4061",
+        "filename": "04066.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "",
@@ -9193,12 +9193,12 @@ export const imageData =
         "figure": "2L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2067",
-        "filename": "02067.png",
+        "id": "4062",
+        "filename": "04067.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9215,12 +9215,12 @@ export const imageData =
         "figure": "3F",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2068",
-        "filename": "02068.png",
+        "id": "4063",
+        "filename": "04068.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9237,12 +9237,12 @@ export const imageData =
         "figure": "3G",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2069",
-        "filename": "02069.png",
+        "id": "4064",
+        "filename": "04069.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9259,12 +9259,12 @@ export const imageData =
         "figure": "3H",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2070",
-        "filename": "02070.png",
+        "id": "4065",
+        "filename": "04070.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9281,12 +9281,12 @@ export const imageData =
         "figure": "3I",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2071",
-        "filename": "02071.png",
+        "id": "4066",
+        "filename": "04071.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9303,12 +9303,12 @@ export const imageData =
         "figure": "3J",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2072",
-        "filename": "02072.png",
+        "id": "4067",
+        "filename": "04072.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9325,12 +9325,12 @@ export const imageData =
         "figure": "3K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2073",
-        "filename": "02073.png",
+        "id": "4068",
+        "filename": "04073.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9347,12 +9347,12 @@ export const imageData =
         "figure": "3L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2074",
-        "filename": "02074.png",
+        "id": "4069",
+        "filename": "04074.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9369,12 +9369,12 @@ export const imageData =
         "figure": "3M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2075",
-        "filename": "02075.png",
+        "id": "4070",
+        "filename": "04075.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9391,12 +9391,12 @@ export const imageData =
         "figure": "3N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2076",
-        "filename": "02076.png",
+        "id": "4071",
+        "filename": "04076.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Dromaeosauridae",
@@ -9413,12 +9413,12 @@ export const imageData =
         "figure": "3O",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2077",
-        "filename": "02077.png",
+        "id": "4072",
+        "filename": "04077.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9435,12 +9435,12 @@ export const imageData =
         "figure": "3P",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2078",
-        "filename": "02078.png",
+        "id": "4073",
+        "filename": "04078.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9457,12 +9457,12 @@ export const imageData =
         "figure": "3Q",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2079",
-        "filename": "02079.png",
+        "id": "4074",
+        "filename": "04079.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9479,12 +9479,12 @@ export const imageData =
         "figure": "3R",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2080",
-        "filename": "02080.png",
+        "id": "4075",
+        "filename": "04080.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9501,12 +9501,12 @@ export const imageData =
         "figure": "3S",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2081",
-        "filename": "02081.png",
+        "id": "4076",
+        "filename": "04081.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Eoconfuciusornis",
@@ -9523,12 +9523,12 @@ export const imageData =
         "figure": "3T",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2082",
-        "filename": "02082.png",
+        "id": "4077",
+        "filename": "04082.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9545,12 +9545,12 @@ export const imageData =
         "figure": "3U",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2083",
-        "filename": "02083.png",
+        "id": "4078",
+        "filename": "04083.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9567,12 +9567,12 @@ export const imageData =
         "figure": "3V",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2084",
-        "filename": "02084.png",
+        "id": "4079",
+        "filename": "04084.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9589,12 +9589,12 @@ export const imageData =
         "figure": "3W",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2085",
-        "filename": "02085.png",
+        "id": "4080",
+        "filename": "04085.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9611,12 +9611,12 @@ export const imageData =
         "figure": "3X",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2086",
-        "filename": "02086.png",
+        "id": "4081",
+        "filename": "04086.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Yanornis",
@@ -9633,12 +9633,12 @@ export const imageData =
         "figure": "3Y",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2087",
-        "filename": "02087.png",
+        "id": "4082",
+        "filename": "04087.png",
         "microscope_technology": "ChemiSTEM",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9655,12 +9655,12 @@ export const imageData =
         "figure": "4K",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2088",
-        "filename": "02088.png",
+        "id": "4083",
+        "filename": "04088.png",
         "microscope_technology": "ChemiSTEM",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9677,12 +9677,12 @@ export const imageData =
         "figure": "4L",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2089",
-        "filename": "02089.png",
+        "id": "4084",
+        "filename": "04089.png",
         "microscope_technology": "ChemiSTEM",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9699,12 +9699,12 @@ export const imageData =
         "figure": "4M",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2090",
-        "filename": "02090.png",
+        "id": "4085",
+        "filename": "04090.png",
         "microscope_technology": "ChemiSTEM",
         "magnification": "",
         "taxon": "Anchiornis",
@@ -9721,12 +9721,12 @@ export const imageData =
         "figure": "4N",
         "publication_year": "2017",
         "first_author": "Pan",
-        "reference": "29061985",
+        "reference": "30692253",
         "image_crossref": ""
     },
     {
-        "id": "2091",
-        "filename": "02091.png",
+        "id": "4086",
+        "filename": "04091.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9747,8 +9747,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2092",
-        "filename": "02092.png",
+        "id": "4087",
+        "filename": "04092.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9769,8 +9769,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2093",
-        "filename": "02093.png",
+        "id": "4088",
+        "filename": "04093.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9791,8 +9791,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2094",
-        "filename": "02094.png",
+        "id": "4089",
+        "filename": "04094.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9813,8 +9813,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2095",
-        "filename": "02095.png",
+        "id": "4090",
+        "filename": "04095.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9835,8 +9835,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2096",
-        "filename": "02096.png",
+        "id": "4091",
+        "filename": "04096.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9857,8 +9857,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2097",
-        "filename": "02097.png",
+        "id": "4092",
+        "filename": "04097.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9879,8 +9879,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2098",
-        "filename": "02098.png",
+        "id": "4093",
+        "filename": "04098.png",
         "microscope_technology": "scanning electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9901,8 +9901,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2099",
-        "filename": "02099.png",
+        "id": "4094",
+        "filename": "04099.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9923,8 +9923,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2100",
-        "filename": "02100.png",
+        "id": "4095",
+        "filename": "04100.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9945,8 +9945,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2101",
-        "filename": "02101.png",
+        "id": "4096",
+        "filename": "04101.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9967,8 +9967,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2102",
-        "filename": "02102.png",
+        "id": "4097",
+        "filename": "04102.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -9989,8 +9989,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2103",
-        "filename": "02103.png",
+        "id": "4098",
+        "filename": "04103.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -10011,8 +10011,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2104",
-        "filename": "02104.png",
+        "id": "4099",
+        "filename": "04104.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
@@ -10033,8 +10033,8 @@ export const imageData =
         "image_crossref": ""
     },
     {
-        "id": "2105",
-        "filename": "02105.png",
+        "id": "4100",
+        "filename": "04105.png",
         "microscope_technology": "transmission electron microscope",
         "magnification": "",
         "taxon": "Stenopterygius",
