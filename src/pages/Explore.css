@@ -47,6 +47,16 @@ select {
   border-radius: 6px;
   background-color: #fff;
   font-size: 14px;
+
+  /* for Chrome book*/
+  background-color: #bbb !important;
+  color: white !important;
+}
+
+/* for Chrome book*/
+option {
+    background-color: #777 !important;
+    color: white !important;
 }
 
 /* Button */
