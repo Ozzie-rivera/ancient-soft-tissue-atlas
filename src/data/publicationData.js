@@ -16,7 +16,7 @@ export const publicationData = [
     "year": "2025",
     "firstAuthor": "Tuinstra Lucien",
     "journal": "Analytical chemistry",
-    "title": "Evidence for Endogenous Collagen in <i>Edmontosaurus</i> Fossil Bone.",
+    "title": "Evidence for Endogenous Collagen in Edmontosaurus Fossil Bone.",
     "volume": "97",
     "pages": "2618-2628",
     "url": "https://doi.org/10.1021/acs.analchem.4c03115"
@@ -258,7 +258,7 @@ export const publicationData = [
     "year": "2018",
     "firstAuthor": "Bobrovskiy Ilya",
     "journal": "Science (New York, N.Y.)",
-    "title": "Ancient steroids establish the Ediacaran fossil <i>Dickinsonia</i> as one of the earliest animals.",
+    "title": "Ancient steroids establish the Ediacaran fossil Dickinsonia as one of the earliest animals.",
     "volume": "361",
     "pages": "1246-1249",
     "url": "https://doi.org/10.1126/science.aat7228"
@@ -478,7 +478,7 @@ export const publicationData = [
     "year": 2014,
     "firstAuthor": "Moczyd\u0142owska Ma\u0142gorzata",
     "journal": "Journal of Paleontology",
-    "title": "Microstructure and Biogeochemistry of the Organically Preserved Ediacaran Metazoan<i>Sabellidites</i>",
+    "title": "Microstructure and Biogeochemistry of the Organically Preserved Ediacaran Metazoan Sabellidites",
     "volume": "88",
     "pages": "224-239",
     "url": "https://doi.org/10.1666/13-003"
@@ -874,7 +874,7 @@ export const publicationData = [
     "year": 2007,
     "firstAuthor": "Asara John M.",
     "journal": "Science",
-    "title": "Protein Sequences from Mastodon and\n                    <i>Tyrannosaurus Rex</i>\n                    Revealed by Mass Spectrometry",
+    "title": "Protein Sequences from Mastodon and Tyrannosaurus Rex Revealed by Mass Spectrometry",
     "volume": "316",
     "pages": "280-285",
     "url": "https://doi.org/10.1126/science.1137614"
@@ -1017,7 +1017,7 @@ export const publicationData = [
     "year": 1999,
     "firstAuthor": "Schweitzer Mary H.",
     "journal": "Journal of Vertebrate Paleontology",
-    "title": "Keratin immunoreactivity in the Late Cretaceous bird<i>Rahonavis ostromi</i>",
+    "title": "Keratin immunoreactivity in the Late Cretaceous bird Rahonavis ostromi",
     "volume": "19",
     "pages": "712-722",
     "url": "https://doi.org/10.1080/02724634.1999.10011183"

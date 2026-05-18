@@ -5,6 +5,7 @@ import NavBar from './components/NavBar'
 import Materials from './pages/Materials'
 import Contribute from './pages/Contribute'
 import Statistics from './pages/Statistics'
+import Map from './pages/Map'
 import Publications from './pages/Publications'
 import NotFound from './pages/NotFound'
 import ImageDetail from './pages/ImageDetail'
@@ -27,6 +28,7 @@ function App() {
         <Route path='/materials' element={<Materials />} />
         <Route path='/contribute' element={<Contribute />} />
         <Route path='/statistics' element={<Statistics />} />
+        <Route path='/map' element={<Map />} />
         <Route path='/publications' element={<Publications />} />
         <Route path="*" element={<NotFound />} />
 

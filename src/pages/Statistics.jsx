@@ -26,7 +26,7 @@ function Statistics() {
         return acc;
     }, {});
     const histogramData = Object.entries(intervalCounts).sort(
-    ([, countA], [, countB]) => countB - countA
+        ([, countA], [, countB]) => countB - countA
     );
     // Count occurrences of each taxon
     const taxonCounts = imageData.reduce((acc, tax) => {
@@ -35,7 +35,7 @@ function Statistics() {
         return acc;
     }, {});
     const taxon_histogramData = Object.entries(taxonCounts).sort(
-    ([, countA], [, countB]) => countB - countA
+        ([, countA], [, countB]) => countB - countA
     );
     // Count occurrences of each cell type
     const cellCounts = imageData.reduce((acc, cell) => {
@@ -44,7 +44,7 @@ function Statistics() {
         return acc;
     }, {});
     const cell_histogramData = Object.entries(cellCounts).sort(
-    ([, countA], [, countB]) => countB - countA
+        ([, countA], [, countB]) => countB - countA
     );
 
     // Count occurrences of each country
@@ -85,7 +85,7 @@ function Statistics() {
 
             <h3>Image Count</h3>
             <div className="statistics-list">
-                There are {n_images} images in the ASTA Database.
+                Number of images in the ASTA Database: <strong>{n_images}</strong>
             </div>
             <br/>
 
@@ -152,78 +152,6 @@ function Statistics() {
                 ))}
             </div>
             <br/>
-
-            <h3>Images per Country</h3>
-            <div className="map-container">
-                <ComposableMap projectionConfig={{ scale: 200 }}>
-                <Geographies geography={geoUrl}>
-                    {({ geographies }) =>
-                    geographies.map((geo) => {
-                        const countryName = geo.properties.name;
-                        return (
-                            <Geography
-                            key={geo.rsmKey}
-                            geography={geo}
-                            onMouseEnter={(evt) => {
-                                const countryName = geo.properties.name;
-                                const count = countryCounts[countryName] || 0;
-
-                                setTooltip({
-                                visible: true,
-                                content: `${countryName}: ${count} images`,
-                                x: evt.clientX,
-                                y: evt.clientY
-                                });
-                            }}
-                            onMouseMove={(evt) => {
-                                setTooltip((prev) => ({
-                                ...prev,
-                                x: evt.clientX,
-                                y: evt.clientY
-                                }));
-                            }}
-                            onMouseLeave={() => {
-                                setTooltip({
-                                visible: false,
-                                content: "",
-                                x: 0,
-                                y: 0
-                                });
-                            }}
-                            style={{
-                                default: {
-                                fill: getColor(geo.properties.name),
-                                outline: "none"
-                                },
-                                hover: {
-                                fill: "#f53",
-                                outline: "none"
-                                },
-                                pressed: {
-                                outline: "none"
-                                }
-                            }}
-                            />
-                        );
-                    })
-                    }
-                </Geographies>
-                </ComposableMap>
-
-                    {tooltip.visible && (
-                    <div
-                        className="map-tooltip"
-                        style={{
-                        left: tooltip.x + 10,
-                        top: tooltip.y + 10
-                        }}
-                    >
-                        {tooltip.content}
-                    </div>
-                    )}
-
-            </div>
-
         </div>
     );
 }

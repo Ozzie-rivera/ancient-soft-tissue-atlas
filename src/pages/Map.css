@@ -1,0 +1,84 @@
+.map-container {
+    text-align: left;
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.map-container h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 2.5em;
+    color: #333;
+}
+
+.map-intro {
+    text-align: left;
+    color: #666;
+    margin-bottom: 40px;
+    line-height: 1.6;
+    font-size: 1.1em;
+}
+
+.map-list {
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.map-content {
+    flex: 1;
+}
+
+.map-main {
+    line-height: 1.8;
+    margin-bottom: 12px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    .map-container {
+        padding: 20px 10px;
+    }
+
+    .map-container h1 {
+        font-size: 2em;
+    }
+
+    .map-main {
+        font-size: 0.95em;
+    }
+}
+
+/* misc */
+
+.nim {
+    font-weight: bold;
+    white-space: nowrap;
+}
+
+/* map */
+
+.map-container {
+/*  max-width: 100%;
+  margin-top: 20px; */
+  position: relative;
+}
+
+svg {
+  width: 100%;
+  height: auto;
+}
+
+.map-tooltip {
+  position: fixed;
+  background: white;
+  padding: 6px 10px;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  font-size: 14px;
+  pointer-events: none;
+  z-index: 1000;
+  white-space: nowrap;
+}
