@@ -17,6 +17,8 @@ function Statistics() {
         x: 0,
         y: 0
     });
+    // number of samples
+    const n_samples = new Set(imageData.map(item => item.sample_id)).size;
     // number of images
     const n_images = imageData.length;
     // Count occurrences of each interval
@@ -82,6 +84,12 @@ function Statistics() {
                     Following are several important statistics about the content of the ASTA Database.
                 </div>
             </p>
+
+            <h3>Sample Count</h3>
+            <div className="statistics-list">
+                Number of samples in the ASTA Database: <strong>{n_samples}</strong>
+            </div>
+            <br/>
 
             <h3>Image Count</h3>
             <div className="statistics-list">
