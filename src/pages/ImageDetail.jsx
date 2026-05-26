@@ -52,7 +52,6 @@ function ImageDetail() {
 
     return (
         <div style={{ padding: 24 }}>
-            <h1>{item.taxon}</h1>
             <p>
                 {taxId && (
                     <>
@@ -67,7 +66,7 @@ function ImageDetail() {
                     </>
                 )}
             </p>
-            <p><strong>Tissue:</strong> {item.tissue} &nbsp; | &nbsp; <strong>Interval:</strong> {item.interval}
+            <p><strong>Taxon:</strong> {item.taxon}&nbsp;| &nbsp;<strong>Sample ID:</strong> {item.sample_id} &nbsp;| &nbsp;<strong>Tissue:</strong> {item.tissue} &nbsp; | &nbsp; <strong>Interval:</strong> {item.interval}
             {item.reference && item.reference !== "Unpublished" && (
                 item.reference.includes("http") ? (         // includes http
                 <>
