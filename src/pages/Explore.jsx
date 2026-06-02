@@ -261,6 +261,7 @@ function Explore() {
                         description={item.description}
                         magnification={item.magnification}
                         microscope_technology={item.microscope_technology}
+                        blur={item.blur}
                     />
                 ))}
             </div>

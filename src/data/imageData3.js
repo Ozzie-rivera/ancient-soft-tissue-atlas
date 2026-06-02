@@ -20,7 +20,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "2",
@@ -42,7 +43,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3",
@@ -64,7 +66,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "4",
@@ -86,7 +89,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "5",
@@ -108,7 +112,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "6",
@@ -130,7 +135,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "7",
@@ -152,7 +158,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "8",
@@ -174,7 +181,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "9",
@@ -196,7 +204,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "10",
@@ -218,7 +227,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "11",
@@ -240,7 +250,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "12",
@@ -262,7 +273,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "13",
@@ -284,7 +296,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "14",
@@ -306,7 +319,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "15",
@@ -328,7 +342,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "16",
@@ -350,7 +365,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "17",
@@ -372,7 +388,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "18",
@@ -394,7 +411,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "19",
@@ -416,7 +434,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "20",
@@ -438,7 +457,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "21",
@@ -460,7 +480,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "22",
@@ -482,7 +503,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "23",
@@ -504,7 +526,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "24",
@@ -526,7 +549,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "25",
@@ -548,7 +572,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "26",
@@ -570,7 +595,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "27",
@@ -592,7 +618,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "28",
@@ -614,7 +641,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "29",
@@ -636,7 +664,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "30",
@@ -658,7 +687,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "31",
@@ -680,7 +710,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "32",
@@ -702,7 +733,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "33",
@@ -724,7 +756,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "34",
@@ -746,7 +779,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "35",
@@ -768,7 +802,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "36",
@@ -790,7 +825,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "37",
@@ -812,7 +848,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "38",
@@ -834,7 +871,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "39",
@@ -856,7 +894,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "40",
@@ -878,7 +917,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "41",
@@ -900,7 +940,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "42",
@@ -922,7 +963,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "43",
@@ -944,7 +986,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "44",
@@ -966,7 +1009,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "45",
@@ -988,7 +1032,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "46",
@@ -1010,7 +1055,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "47",
@@ -1032,7 +1078,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "48",
@@ -1054,7 +1101,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "49",
@@ -1076,7 +1124,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "50",
@@ -1098,7 +1147,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "51",
@@ -1120,7 +1170,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "52",
@@ -1142,7 +1193,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "53",
@@ -1164,7 +1216,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "54",
@@ -1186,7 +1239,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "55",
@@ -1208,7 +1262,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "56",
@@ -1230,7 +1285,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "57",
@@ -1252,7 +1308,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "58",
@@ -1274,7 +1331,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "59",
@@ -1296,7 +1354,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "60",
@@ -1318,7 +1377,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "61",
@@ -1340,7 +1400,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "62",
@@ -1362,7 +1423,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "63",
@@ -1384,7 +1446,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "64",
@@ -1406,7 +1469,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "65",
@@ -1428,7 +1492,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "66",
@@ -1450,7 +1515,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "67",
@@ -1472,7 +1538,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "68",
@@ -1494,7 +1561,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "69",
@@ -1516,7 +1584,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "70",
@@ -1538,7 +1607,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "71",
@@ -1560,7 +1630,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "72",
@@ -1582,7 +1653,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "73",
@@ -1604,7 +1676,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "74",
@@ -1626,7 +1699,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "75",
@@ -1648,7 +1722,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "76",
@@ -1670,7 +1745,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "77",
@@ -1692,7 +1768,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "78",
@@ -1714,7 +1791,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "79",
@@ -1736,7 +1814,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "80",
@@ -1758,7 +1837,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "81",
@@ -1780,7 +1860,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "82",
@@ -1802,7 +1883,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "83",
@@ -1824,7 +1906,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "84",
@@ -1846,7 +1929,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "85",
@@ -1868,7 +1952,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "86",
@@ -1890,7 +1975,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "87",
@@ -1912,7 +1998,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "88",
@@ -1934,7 +2021,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "89",
@@ -1956,7 +2044,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "90",
@@ -1978,7 +2067,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "91",
@@ -2000,7 +2090,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "92",
@@ -2022,7 +2113,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "93",
@@ -2044,7 +2136,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "94",
@@ -2066,7 +2159,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "95",
@@ -2088,7 +2182,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "96",
@@ -2110,7 +2205,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "97",
@@ -2132,7 +2228,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "98",
@@ -2154,7 +2251,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "99",
@@ -2176,7 +2274,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "100",
@@ -2198,7 +2297,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "101"
+        "image_crossref": "101",
+        "blur": "0"
     },
     {
         "id": "101",
@@ -2220,7 +2320,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "102",
@@ -2242,7 +2343,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "103",
@@ -2264,7 +2366,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "104",
@@ -2286,7 +2389,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "105,106,107,108"
+        "image_crossref": "105,106,107,108",
+        "blur": "0"
     },
     {
         "id": "105",
@@ -2308,7 +2412,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "106,107,108"
+        "image_crossref": "106,107,108",
+        "blur": "0"
     },
     {
         "id": "106",
@@ -2330,7 +2435,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "107,108"
+        "image_crossref": "107,108",
+        "blur": "0"
     },
     {
         "id": "107",
@@ -2352,7 +2458,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "108"
+        "image_crossref": "108",
+        "blur": "0"
     },
     {
         "id": "108",
@@ -2374,7 +2481,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "109",
@@ -2396,7 +2504,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "110",
@@ -2418,7 +2527,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "111",
@@ -2440,7 +2550,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "112",
@@ -2462,7 +2573,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "113",
@@ -2484,7 +2596,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "114",
@@ -2506,7 +2619,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "115",
@@ -2528,7 +2642,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "116",
@@ -2550,7 +2665,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "117",
@@ -2572,7 +2688,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "118",
@@ -2594,7 +2711,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "118"
+        "image_crossref": "118",
+        "blur": "0"
     },
     {
         "id": "119",
@@ -2616,7 +2734,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "120",
@@ -2638,7 +2757,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "121",
@@ -2660,7 +2780,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "122",
@@ -2682,7 +2803,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "123",
@@ -2704,7 +2826,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "124",
@@ -2726,7 +2849,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "125",
@@ -2748,7 +2872,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "126",
@@ -2770,7 +2895,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "127",
@@ -2792,7 +2918,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "128",
@@ -2814,7 +2941,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "129",
@@ -2836,7 +2964,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "130",
@@ -2858,7 +2987,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "131",
@@ -2880,7 +3010,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "132",
@@ -2902,7 +3033,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "133",
@@ -2924,7 +3056,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "132"
+        "image_crossref": "132",
+        "blur": "0"
     },
     {
         "id": "134",
@@ -2946,7 +3079,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "135",
@@ -2968,7 +3102,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "136",
@@ -2990,7 +3125,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "137",
@@ -3012,7 +3148,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "138",
@@ -3034,7 +3171,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "139",
@@ -3056,7 +3194,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "140",
@@ -3078,7 +3217,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "140, 142"
+        "image_crossref": "140, 142",
+        "blur": "0"
     },
     {
         "id": "141",
@@ -3100,7 +3240,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "140"
+        "image_crossref": "140",
+        "blur": "0"
     },
     {
         "id": "142",
@@ -3122,7 +3263,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "140"
+        "image_crossref": "140",
+        "blur": "0"
     },
     {
         "id": "143",
@@ -3144,7 +3286,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "144"
+        "image_crossref": "144",
+        "blur": "0"
     },
     {
         "id": "144",
@@ -3166,7 +3309,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "143"
+        "image_crossref": "143",
+        "blur": "0"
     },
     {
         "id": "145",
@@ -3188,7 +3332,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "146",
@@ -3210,7 +3355,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "147",
@@ -3232,7 +3378,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "148",
@@ -3254,7 +3401,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "149",
@@ -3276,7 +3424,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "150",
@@ -3298,7 +3447,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "151",
@@ -3320,7 +3470,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "31"
+        "image_crossref": "31",
+        "blur": "0"
     },
     {
         "id": "152",
@@ -3342,7 +3493,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "33"
+        "image_crossref": "33",
+        "blur": "0"
     },
     {
         "id": "153",
@@ -3364,7 +3516,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "45"
+        "image_crossref": "45",
+        "blur": "0"
     },
     {
         "id": "154",
@@ -3386,7 +3539,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "45"
+        "image_crossref": "45",
+        "blur": "0"
     },
     {
         "id": "155",
@@ -3408,7 +3562,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "156",
@@ -3430,7 +3585,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "157",
@@ -3452,7 +3608,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "158",
@@ -3474,7 +3631,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "159",
@@ -3496,7 +3654,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "160",
@@ -3518,7 +3677,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "161",
@@ -3540,7 +3700,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "162",
@@ -3562,7 +3723,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "161"
+        "image_crossref": "161",
+        "blur": "0"
     },
     {
         "id": "163",
@@ -3584,7 +3746,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "162"
+        "image_crossref": "162",
+        "blur": "0"
     },
     {
         "id": "164",
@@ -3606,7 +3769,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "161"
+        "image_crossref": "161",
+        "blur": "0"
     },
     {
         "id": "165",
@@ -3628,7 +3792,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "162"
+        "image_crossref": "162",
+        "blur": "0"
     },
     {
         "id": "166",
@@ -3650,7 +3815,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "167",
@@ -3672,7 +3838,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "168",
@@ -3694,7 +3861,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "167"
+        "image_crossref": "167",
+        "blur": "0"
     },
     {
         "id": "169",
@@ -3716,7 +3884,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "166"
+        "image_crossref": "166",
+        "blur": "0"
     },
     {
         "id": "170",
@@ -3738,7 +3907,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "169, 172"
+        "image_crossref": "169, 172",
+        "blur": "0"
     },
     {
         "id": "171",
@@ -3760,7 +3930,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "172"
+        "image_crossref": "172",
+        "blur": "0"
     },
     {
         "id": "172",
@@ -3782,7 +3953,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "171"
+        "image_crossref": "171",
+        "blur": "0"
     },
     {
         "id": "173",
@@ -3804,7 +3976,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "174",
@@ -3826,7 +3999,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "175",
@@ -3848,7 +4022,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "176",
@@ -3870,7 +4045,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "177",
@@ -3892,7 +4068,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "178",
@@ -3914,7 +4091,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "179",
@@ -3936,7 +4114,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "180",
@@ -3958,7 +4137,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "181",
@@ -3980,7 +4160,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "182"
+        "image_crossref": "182",
+        "blur": "0"
     },
     {
         "id": "182",
@@ -4002,7 +4183,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "181"
+        "image_crossref": "181",
+        "blur": "0"
     },
     {
         "id": "183",
@@ -4024,7 +4206,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "182"
+        "image_crossref": "182",
+        "blur": "0"
     },
     {
         "id": "184",
@@ -4046,7 +4229,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "185"
+        "image_crossref": "185",
+        "blur": "0"
     },
     {
         "id": "185",
@@ -4068,7 +4252,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "184"
+        "image_crossref": "184",
+        "blur": "0"
     },
     {
         "id": "186",
@@ -4090,7 +4275,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "184"
+        "image_crossref": "184",
+        "blur": "0"
     },
     {
         "id": "187",
@@ -4112,7 +4298,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "188",
@@ -4134,7 +4321,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "189",
@@ -4156,7 +4344,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "190",
@@ -4178,7 +4367,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "191",
@@ -4200,7 +4390,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "192",
@@ -4222,7 +4413,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "191"
+        "image_crossref": "191",
+        "blur": "0"
     },
     {
         "id": "193",
@@ -4244,7 +4436,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "194",
@@ -4266,7 +4459,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "193"
+        "image_crossref": "193",
+        "blur": "0"
     },
     {
         "id": "195",
@@ -4288,7 +4482,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "196",
@@ -4310,7 +4505,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "195"
+        "image_crossref": "195",
+        "blur": "0"
     },
     {
         "id": "197",
@@ -4332,7 +4528,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "198",
@@ -4354,7 +4551,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "197"
+        "image_crossref": "197",
+        "blur": "0"
     },
     {
         "id": "199",
@@ -4376,7 +4574,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "200,201,202"
+        "image_crossref": "200,201,202",
+        "blur": "0"
     },
     {
         "id": "200",
@@ -4398,7 +4597,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "199,201,202"
+        "image_crossref": "199,201,202",
+        "blur": "0"
     },
     {
         "id": "201",
@@ -4420,7 +4620,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "199,200,202"
+        "image_crossref": "199,200,202",
+        "blur": "0"
     },
     {
         "id": "202",
@@ -4442,7 +4643,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "199,200,201"
+        "image_crossref": "199,200,201",
+        "blur": "0"
     },
     {
         "id": "203",
@@ -4464,7 +4666,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "204"
+        "image_crossref": "204",
+        "blur": "0"
     },
     {
         "id": "204",
@@ -4486,7 +4689,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "203"
+        "image_crossref": "203",
+        "blur": "0"
     },
     {
         "id": "205",
@@ -4508,7 +4712,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "206",
@@ -4530,7 +4735,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "207,208,209"
+        "image_crossref": "207,208,209",
+        "blur": "0"
     },
     {
         "id": "207",
@@ -4552,7 +4758,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "206,208,209"
+        "image_crossref": "206,208,209",
+        "blur": "0"
     },
     {
         "id": "208",
@@ -4574,7 +4781,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "206, 207, 209"
+        "image_crossref": "206, 207, 209",
+        "blur": "0"
     },
     {
         "id": "209",
@@ -4596,7 +4804,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "206,207,208"
+        "image_crossref": "206,207,208",
+        "blur": "0"
     },
     {
         "id": "210",
@@ -4618,7 +4827,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "211",
@@ -4640,7 +4850,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "56"
+        "image_crossref": "56",
+        "blur": "0"
     },
     {
         "id": "212",
@@ -4662,7 +4873,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "213",
@@ -4684,7 +4896,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "11"
+        "image_crossref": "11",
+        "blur": "0"
     },
     {
         "id": "214",
@@ -4706,7 +4919,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "12"
+        "image_crossref": "12",
+        "blur": "0"
     },
     {
         "id": "215",
@@ -4728,7 +4942,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "245"
+        "image_crossref": "245",
+        "blur": "0"
     },
     {
         "id": "216",
@@ -4750,7 +4965,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "215"
+        "image_crossref": "215",
+        "blur": "0"
     },
     {
         "id": "217",
@@ -4772,7 +4988,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "216"
+        "image_crossref": "216",
+        "blur": "0"
     },
     {
         "id": "218",
@@ -4794,7 +5011,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "216"
+        "image_crossref": "216",
+        "blur": "0"
     },
     {
         "id": "219",
@@ -4816,7 +5034,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "220"
+        "image_crossref": "220",
+        "blur": "0"
     },
     {
         "id": "220",
@@ -4838,7 +5057,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "219"
+        "image_crossref": "219",
+        "blur": "0"
     },
     {
         "id": "221",
@@ -4860,7 +5080,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "222",
@@ -4882,7 +5103,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "223"
+        "image_crossref": "223",
+        "blur": "0"
     },
     {
         "id": "223",
@@ -4904,7 +5126,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "222"
+        "image_crossref": "222",
+        "blur": "0"
     },
     {
         "id": "224",
@@ -4926,7 +5149,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "124"
+        "image_crossref": "124",
+        "blur": "0"
     },
     {
         "id": "225",
@@ -4948,7 +5172,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "226",
@@ -4970,7 +5195,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "225"
+        "image_crossref": "225",
+        "blur": "0"
     },
     {
         "id": "227",
@@ -4992,7 +5218,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "225"
+        "image_crossref": "225",
+        "blur": "0"
     },
     {
         "id": "228",
@@ -5014,7 +5241,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "225"
+        "image_crossref": "225",
+        "blur": "0"
     },
     {
         "id": "229",
@@ -5036,7 +5264,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "230",
@@ -5058,7 +5287,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "231",
@@ -5080,7 +5310,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "232",
@@ -5102,7 +5333,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "233",
@@ -5124,7 +5356,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "234",
@@ -5146,7 +5379,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "235"
+        "image_crossref": "235",
+        "blur": "0"
     },
     {
         "id": "235",
@@ -5168,7 +5402,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "234, 236"
+        "image_crossref": "234, 236",
+        "blur": "0"
     },
     {
         "id": "236",
@@ -5190,7 +5425,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "234, 235"
+        "image_crossref": "234, 235",
+        "blur": "0"
     },
     {
         "id": "237",
@@ -5212,7 +5448,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "238,239"
+        "image_crossref": "238,239",
+        "blur": "0"
     },
     {
         "id": "238",
@@ -5234,7 +5471,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "237, 239"
+        "image_crossref": "237, 239",
+        "blur": "0"
     },
     {
         "id": "239",
@@ -5256,7 +5494,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": "237, 238, 266"
+        "image_crossref": "237, 238, 266",
+        "blur": "0"
     },
     {
         "id": "240",
@@ -5278,7 +5517,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "Unpublished",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "241",
@@ -5300,7 +5540,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "242",
@@ -5322,7 +5563,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "243",
@@ -5344,7 +5586,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "244",
@@ -5366,7 +5609,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "245",
@@ -5388,7 +5632,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "246",
@@ -5410,7 +5655,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "247",
@@ -5432,7 +5678,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "248",
@@ -5454,7 +5701,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "249",
@@ -5476,7 +5724,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "250",
@@ -5498,7 +5747,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "251",
@@ -5520,7 +5770,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "252",
@@ -5542,7 +5793,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "253",
@@ -5564,7 +5816,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "254",
@@ -5586,7 +5839,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "255",
@@ -5608,7 +5862,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "256",
@@ -5630,7 +5885,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "257",
@@ -5652,7 +5908,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "258",
@@ -5674,7 +5931,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "259",
@@ -5696,7 +5954,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "260",
@@ -5718,7 +5977,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "261",
@@ -5740,7 +6000,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "262",
@@ -5762,7 +6023,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "263",
@@ -5784,7 +6046,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "264",
@@ -5806,7 +6069,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "265",
@@ -5828,7 +6092,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "266",
@@ -5850,7 +6115,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "267",
@@ -5872,7 +6138,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "268",
@@ -5894,7 +6161,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "269"
+        "image_crossref": "269",
+        "blur": "0"
     },
     {
         "id": "269",
@@ -5916,7 +6184,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "268"
+        "image_crossref": "268",
+        "blur": "0"
     },
     {
         "id": "270",
@@ -5938,7 +6207,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "271",
@@ -5960,7 +6230,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "272",
@@ -5982,7 +6253,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "273",
@@ -6004,7 +6276,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "274",
@@ -6026,7 +6299,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "275"
+        "image_crossref": "275",
+        "blur": "0"
     },
     {
         "id": "275",
@@ -6048,7 +6322,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "274"
+        "image_crossref": "274",
+        "blur": "0"
     },
     {
         "id": "276",
@@ -6070,7 +6345,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "277",
@@ -6092,7 +6368,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "278,280"
+        "image_crossref": "278,280",
+        "blur": "0"
     },
     {
         "id": "278",
@@ -6114,7 +6391,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "277"
+        "image_crossref": "277",
+        "blur": "0"
     },
     {
         "id": "279",
@@ -6136,7 +6414,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "278"
+        "image_crossref": "278",
+        "blur": "0"
     },
     {
         "id": "280",
@@ -6158,7 +6437,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "277"
+        "image_crossref": "277",
+        "blur": "0"
     },
     {
         "id": "281",
@@ -6180,7 +6460,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "282"
+        "image_crossref": "282",
+        "blur": "0"
     },
     {
         "id": "282",
@@ -6202,7 +6483,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "281"
+        "image_crossref": "281",
+        "blur": "0"
     },
     {
         "id": "283",
@@ -6224,7 +6506,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "284",
@@ -6246,7 +6529,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "285",
@@ -6268,7 +6552,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "286",
@@ -6290,7 +6575,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "287",
@@ -6312,7 +6598,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "286"
+        "image_crossref": "286",
+        "blur": "0"
     },
     {
         "id": "288",
@@ -6334,7 +6621,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "289",
@@ -6356,7 +6644,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "288"
+        "image_crossref": "288",
+        "blur": "0"
     },
     {
         "id": "290",
@@ -6378,7 +6667,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "288, 289"
+        "image_crossref": "288, 289",
+        "blur": "0"
     },
     {
         "id": "291",
@@ -6400,7 +6690,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "292",
@@ -6422,7 +6713,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "293"
+        "image_crossref": "293",
+        "blur": "0"
     },
     {
         "id": "293",
@@ -6444,7 +6736,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "292"
+        "image_crossref": "292",
+        "blur": "0"
     },
     {
         "id": "294",
@@ -6466,7 +6759,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "295",
@@ -6488,7 +6782,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "294"
+        "image_crossref": "294",
+        "blur": "0"
     },
     {
         "id": "296",
@@ -6510,7 +6805,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "294, 295"
+        "image_crossref": "294, 295",
+        "blur": "0"
     },
     {
         "id": "297",
@@ -6532,7 +6828,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "294, 299"
+        "image_crossref": "294, 299",
+        "blur": "0"
     },
     {
         "id": "298",
@@ -6554,7 +6851,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "294, 297, 299"
+        "image_crossref": "294, 297, 299",
+        "blur": "0"
     },
     {
         "id": "299",
@@ -6576,7 +6874,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "294, 297"
+        "image_crossref": "294, 297",
+        "blur": "0"
     },
     {
         "id": "300",
@@ -6598,7 +6897,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "301",
@@ -6620,7 +6920,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "302",
@@ -6642,7 +6943,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "303"
+        "image_crossref": "303",
+        "blur": "0"
     },
     {
         "id": "303",
@@ -6664,7 +6966,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "304",
@@ -6686,7 +6989,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "302"
+        "image_crossref": "302",
+        "blur": "0"
     },
     {
         "id": "305",
@@ -6708,7 +7012,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "306",
@@ -6730,7 +7035,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "307"
+        "image_crossref": "307",
+        "blur": "0"
     },
     {
         "id": "307",
@@ -6752,7 +7058,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "306"
+        "image_crossref": "306",
+        "blur": "0"
     },
     {
         "id": "308",
@@ -6774,7 +7081,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "305"
+        "image_crossref": "305",
+        "blur": "0"
     },
     {
         "id": "309",
@@ -6796,7 +7104,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "310"
+        "image_crossref": "310",
+        "blur": "0"
     },
     {
         "id": "310",
@@ -6818,7 +7127,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "309"
+        "image_crossref": "309",
+        "blur": "0"
     },
     {
         "id": "311",
@@ -6840,7 +7150,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "312",
@@ -6862,7 +7173,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "313",
@@ -6884,7 +7196,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "312"
+        "image_crossref": "312",
+        "blur": "0"
     },
     {
         "id": "314",
@@ -6906,7 +7219,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "312, 313"
+        "image_crossref": "312, 313",
+        "blur": "0"
     },
     {
         "id": "315",
@@ -6928,7 +7242,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "316",
@@ -6950,7 +7265,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "317",
@@ -6972,7 +7288,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "318, 319"
+        "image_crossref": "318, 319",
+        "blur": "0"
     },
     {
         "id": "318",
@@ -6994,7 +7311,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "317"
+        "image_crossref": "317",
+        "blur": "0"
     },
     {
         "id": "319",
@@ -7016,7 +7334,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "317"
+        "image_crossref": "317",
+        "blur": "0"
     },
     {
         "id": "320",
@@ -7038,7 +7357,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "321",
@@ -7060,7 +7380,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "322",
@@ -7082,7 +7403,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "323, 324"
+        "image_crossref": "323, 324",
+        "blur": "0"
     },
     {
         "id": "323",
@@ -7104,7 +7426,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "322, 324"
+        "image_crossref": "322, 324",
+        "blur": "0"
     },
     {
         "id": "324",
@@ -7126,7 +7449,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "322, 323"
+        "image_crossref": "322, 323",
+        "blur": "0"
     },
     {
         "id": "325",
@@ -7148,7 +7472,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "326",
@@ -7170,7 +7495,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "327",
@@ -7192,7 +7518,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "328",
@@ -7214,7 +7541,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "329"
+        "image_crossref": "329",
+        "blur": "0"
     },
     {
         "id": "329",
@@ -7236,7 +7564,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": "328"
+        "image_crossref": "328",
+        "blur": "0"
     },
     {
         "id": "330",
@@ -7258,7 +7587,8 @@ export const imageData =
         "publication_year": "",
         "first_author": "",
         "reference": "",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3001",
@@ -7280,7 +7610,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3002",
@@ -7302,7 +7633,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3003",
@@ -7324,7 +7656,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3004",
@@ -7346,7 +7679,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3005",
@@ -7368,7 +7702,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3006",
@@ -7390,7 +7725,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3007",
@@ -7412,7 +7748,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3008",
@@ -7434,7 +7771,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3009",
@@ -7456,7 +7794,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3010",
@@ -7478,7 +7817,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3011",
@@ -7500,7 +7840,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3012",
@@ -7522,7 +7863,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Schweitzer",
         "reference": "39910217",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3013",
@@ -7544,7 +7886,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Fabbri",
         "reference": "https://doi.org/10.1111/pala.12470",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3014",
@@ -7566,7 +7909,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Ullmann",
         "reference": "32968129",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3015",
@@ -7588,7 +7932,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Tuinstra",
         "reference": "39823391",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3016",
@@ -7610,7 +7955,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Marx",
         "reference": "39919740",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3017",
@@ -7632,7 +7978,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3018",
@@ -7654,7 +8001,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3019",
@@ -7676,7 +8024,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3020",
@@ -7698,7 +8047,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3021",
@@ -7720,7 +8070,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3022",
@@ -7742,7 +8093,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3023",
@@ -7764,7 +8116,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3024",
@@ -7786,7 +8139,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3025",
@@ -7808,7 +8162,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Tuinstra",
         "reference": "39823391",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3026",
@@ -7830,7 +8185,8 @@ export const imageData =
         "publication_year": "2025",
         "first_author": "Marx",
         "reference": "39919740",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "3027",
@@ -7852,7 +8208,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "McCoy",
         "reference": "31015542",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "4001",
@@ -7874,7 +8231,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4002, 4003, 4004"
+        "image_crossref": "4002, 4003, 4004",
+        "blur": "0"
     },
     {
         "id": "4002",
@@ -7896,7 +8254,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4001, 4003, 4004"
+        "image_crossref": "4001, 4003, 4004",
+        "blur": "0"
     },
     {
         "id": "4003",
@@ -7918,7 +8277,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4001, 4002, 4004"
+        "image_crossref": "4001, 4002, 4004",
+        "blur": "0"
     },
     {
         "id": "4004",
@@ -7940,7 +8300,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4001, 4002, 4003"
+        "image_crossref": "4001, 4002, 4003",
+        "blur": "0"
     },
     {
         "id": "4005",
@@ -7962,7 +8323,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4006, 4007"
+        "image_crossref": "4006, 4007",
+        "blur": "0"
     },
     {
         "id": "4006",
@@ -7984,7 +8346,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4005, 4007"
+        "image_crossref": "4005, 4007",
+        "blur": "0"
     },
     {
         "id": "4007",
@@ -8006,7 +8369,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4005, 4006"
+        "image_crossref": "4005, 4006",
+        "blur": "0"
     },
     {
         "id": "4008",
@@ -8028,7 +8392,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "4009",
@@ -8050,7 +8415,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4010, 4012"
+        "image_crossref": "4010, 4012",
+        "blur": "0"
     },
     {
         "id": "4010",
@@ -8072,7 +8438,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4009, 4012"
+        "image_crossref": "4009, 4012",
+        "blur": "0"
     },
     {
         "id": "4011",
@@ -8094,7 +8461,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4013, 4014, 4016"
+        "image_crossref": "4013, 4014, 4016",
+        "blur": "0"
     },
     {
         "id": "4012",
@@ -8116,7 +8484,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4009, 4010"
+        "image_crossref": "4009, 4010",
+        "blur": "0"
     },
     {
         "id": "4013",
@@ -8138,7 +8507,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4011, 4014, 4016"
+        "image_crossref": "4011, 4014, 4016",
+        "blur": "0"
     },
     {
         "id": "4014",
@@ -8160,7 +8530,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4011, 4013, 4016"
+        "image_crossref": "4011, 4013, 4016",
+        "blur": "0"
     },
     {
         "id": "4015",
@@ -8182,7 +8553,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "4016",
@@ -8204,7 +8576,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": "4011, 4013, 4014"
+        "image_crossref": "4011, 4013, 4014",
+        "blur": "0"
     },
     {
         "id": "4017",
@@ -8226,7 +8599,8 @@ export const imageData =
         "publication_year": "2022",
         "first_author": "Voegele",
         "reference": "36009787",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     },
     {
         "id": "4018",
@@ -8248,7 +8622,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4019, 4020, 4021, 4022, 4023"
+        "image_crossref": "4019, 4020, 4021, 4022, 4023",
+        "blur": "0"
     },
     {
         "id": "4019",
@@ -8270,7 +8645,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4018, 4020, 4021, 4022, 4023"
+        "image_crossref": "4018, 4020, 4021, 4022, 4023",
+        "blur": "0"
     },
     {
         "id": "4020",
@@ -8292,7 +8668,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4018, 4019, 4021, 4022, 4023"
+        "image_crossref": "4018, 4019, 4021, 4022, 4023",
+        "blur": "0"
     },
     {
         "id": "4021",
@@ -8314,7 +8691,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4018, 4019, 4020, 4022, 4023"
+        "image_crossref": "4018, 4019, 4020, 4022, 4023",
+        "blur": "0"
     },
     {
         "id": "4022",
@@ -8336,7 +8714,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4018, 4019, 4020, 4021, 4023"
+        "image_crossref": "4018, 4019, 4020, 4021, 4023",
+        "blur": "0"
     },
     {
         "id": "4023",
@@ -8358,7 +8737,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4018, 4019, 4020, 4021, 4022"
+        "image_crossref": "4018, 4019, 4020, 4021, 4022",
+        "blur": "0"
     },
     {
         "id": "4024",
@@ -8380,7 +8760,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4025, 4026, 4027"
+        "image_crossref": "4025, 4026, 4027",
+        "blur": "0"
     },
     {
         "id": "4025",
@@ -8402,7 +8783,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4024, 4026, 4027"
+        "image_crossref": "4024, 4026, 4027",
+        "blur": "0"
     },
     {
         "id": "4026",
@@ -8424,7 +8806,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4024, 4025, 4027"
+        "image_crossref": "4024, 4025, 4027",
+        "blur": "0"
     },
     {
         "id": "4027",
@@ -8446,7 +8829,8 @@ export const imageData =
         "publication_year": "2021",
         "first_author": "Dhiman",
         "reference": "https://onlinelibrary.wiley.com/doi/10.1111/pala.12565",
-        "image_crossref": "4024, 4025, 4026"
+        "image_crossref": "4024, 4025, 4026",
+        "blur": "0"
     },
     {
         "id": "4028",
@@ -8468,7 +8852,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4029, 4030, 4031"
+        "image_crossref": "4029, 4030, 4031",
+        "blur": "0"
     },
     {
         "id": "4029",
@@ -8490,7 +8875,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4028, 4030, 4031"
+        "image_crossref": "4028, 4030, 4031",
+        "blur": "0"
     },
     {
         "id": "4030",
@@ -8512,7 +8898,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4028, 4029, 4031"
+        "image_crossref": "4028, 4029, 4031",
+        "blur": "0"
     },
     {
         "id": "4031",
@@ -8534,7 +8921,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4028, 4029, 4030"
+        "image_crossref": "4028, 4029, 4030",
+        "blur": "0"
     },
     {
         "id": "4032",
@@ -8556,7 +8944,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4033"
+        "image_crossref": "4033",
+        "blur": "0"
     },
     {
         "id": "4033",
@@ -8578,7 +8967,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4032"
+        "image_crossref": "4032",
+        "blur": "0"
     },
     {
         "id": "4034",
@@ -8600,7 +8990,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4035"
+        "image_crossref": "4035",
+        "blur": "0"
     },
     {
         "id": "4035",
@@ -8622,7 +9013,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4034"
+        "image_crossref": "4034",
+        "blur": "0"
     },
     {
         "id": "4036",
@@ -8644,7 +9036,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4037"
+        "image_crossref": "4037",
+        "blur": "0"
     },
     {
         "id": "4037",
@@ -8666,7 +9059,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4036"
+        "image_crossref": "4036",
+        "blur": "0"
     },
     {
         "id": "4038",
@@ -8688,7 +9082,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4039"
+        "image_crossref": "4039",
+        "blur": "0"
     },
     {
         "id": "4039",
@@ -8710,7 +9105,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4038"
+        "image_crossref": "4038",
+        "blur": "0"
     },
     {
         "id": "4040",
@@ -8732,7 +9128,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4041"
+        "image_crossref": "4041",
+        "blur": "0"
     },
     {
         "id": "4041",
@@ -8754,7 +9151,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4040"
+        "image_crossref": "4040",
+        "blur": "0"
     },
     {
         "id": "4042",
@@ -8776,7 +9174,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4043, 4044, 4045"
+        "image_crossref": "4043, 4044, 4045",
+        "blur": "0"
     },
     {
         "id": "4043",
@@ -8798,7 +9197,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4042, 4044, 4045"
+        "image_crossref": "4042, 4044, 4045",
+        "blur": "0"
     },
     {
         "id": "4044",
@@ -8820,7 +9220,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4042, 4043, 4045"
+        "image_crossref": "4042, 4043, 4045",
+        "blur": "0"
     },
     {
         "id": "4045",
@@ -8842,7 +9243,8 @@ export const imageData =
         "publication_year": "2020",
         "first_author": "Bailleul",
         "reference": "34692099",
-        "image_crossref": "4042, 4043, 4044"
+        "image_crossref": "4042, 4043, 4044",
+        "blur": "0"
     },
     {
         "id": "4046",
@@ -8864,7 +9266,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "Miyashita",
         "reference": "30670644",
-        "image_crossref": "4047"
+        "image_crossref": "4047",
+        "blur": "0"
     },
     {
         "id": "4047",
@@ -8886,7 +9289,8 @@ export const imageData =
         "publication_year": "2019",
         "first_author": "Miyashita",
         "reference": "30670644",
-        "image_crossref": "4046"
+        "image_crossref": "4046",
+        "blur": "0"
     },
     {
         "id": "4048",
@@ -8908,7 +9312,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4049, 4050, 4051"
+        "image_crossref": "4049, 4050, 4051",
+        "blur": "0"
     },
     {
         "id": "4049",
@@ -8930,7 +9335,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4048, 4050, 4051"
+        "image_crossref": "4048, 4050, 4051",
+        "blur": "0"
     },
     {
         "id": "4050",
@@ -8952,7 +9358,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4048, 4049, 4051"
+        "image_crossref": "4048, 4049, 4051",
+        "blur": "0"
     },
     {
         "id": "4051",
@@ -8974,7 +9381,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4048, 4049, 4050"
+        "image_crossref": "4048, 4049, 4050",
+        "blur": "0"
     },
     {
         "id": "4052",
@@ -8996,7 +9404,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4054"
+        "image_crossref": "4054",
+        "blur": "0"
     },
     {
         "id": "4053",
@@ -9018,7 +9427,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4055"
+        "image_crossref": "4055",
+        "blur": "0"
     },
     {
         "id": "4054",
@@ -9040,7 +9450,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4052"
+        "image_crossref": "4052",
+        "blur": "0"
     },
     {
         "id": "4055",
@@ -9062,7 +9473,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4053"
+        "image_crossref": "4053",
+        "blur": "0"
     },
     {
         "id": "4056",
@@ -9084,7 +9496,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4059"
+        "image_crossref": "4059",
+        "blur": "0"
     },
     {
         "id": "4057",
@@ -9106,7 +9519,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4060"
+        "image_crossref": "4060",
+        "blur": "0"
     },
     {
         "id": "4058",
@@ -9128,7 +9542,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4061"
+        "image_crossref": "4061",
+        "blur": "0"
     },
     {
         "id": "4059",
@@ -9150,7 +9565,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4056"
+        "image_crossref": "4056",
+        "blur": "0"
     },
     {
         "id": "4060",
@@ -9172,7 +9588,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4057"
+        "image_crossref": "4057",
+        "blur": "0"
     },
     {
         "id": "4061",
@@ -9194,7 +9611,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4058"
+        "image_crossref": "4058",
+        "blur": "0"
     },
     {
         "id": "4062",
@@ -9216,7 +9634,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4063, 4064, 4065, 4066"
+        "image_crossref": "4063, 4064, 4065, 4066",
+        "blur": "0"
     },
     {
         "id": "4063",
@@ -9238,7 +9657,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4062, 4064, 4065, 4066"
+        "image_crossref": "4062, 4064, 4065, 4066",
+        "blur": "0"
     },
     {
         "id": "4064",
@@ -9260,7 +9680,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4062, 4063, 4065, 4066"
+        "image_crossref": "4062, 4063, 4065, 4066",
+        "blur": "0"
     },
     {
         "id": "4065",
@@ -9282,7 +9703,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4062, 4063, 4064, 4066"
+        "image_crossref": "4062, 4063, 4064, 4066",
+        "blur": "0"
     },
     {
         "id": "4066",
@@ -9304,7 +9726,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4062, 4063, 4064, 4065"
+        "image_crossref": "4062, 4063, 4064, 4065",
+        "blur": "0"
     },
     {
         "id": "4067",
@@ -9326,7 +9749,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4068, 4069, 4070, 4071"
+        "image_crossref": "4068, 4069, 4070, 4071",
+        "blur": "0"
     },
     {
         "id": "4068",
@@ -9348,7 +9772,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4067, 4069, 4070, 4071"
+        "image_crossref": "4067, 4069, 4070, 4071",
+        "blur": "0"
     },
     {
         "id": "4069",
@@ -9370,7 +9795,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4067, 4068, 4070, 4071"
+        "image_crossref": "4067, 4068, 4070, 4071",
+        "blur": "0"
     },
     {
         "id": "4070",
@@ -9392,7 +9818,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4067, 4068, 4069, 4071"
+        "image_crossref": "4067, 4068, 4069, 4071",
+        "blur": "0"
     },
     {
         "id": "4071",
@@ -9414,7 +9841,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4067, 4068, 4069, 4070"
+        "image_crossref": "4067, 4068, 4069, 4070",
+        "blur": "0"
     },
     {
         "id": "4072",
@@ -9436,7 +9864,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4073, 4074, 4075, 4076"
+        "image_crossref": "4073, 4074, 4075, 4076",
+        "blur": "0"
     },
     {
         "id": "4073",
@@ -9458,7 +9887,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4072, 4074, 4075, 4076"
+        "image_crossref": "4072, 4074, 4075, 4076",
+        "blur": "0"
     },
     {
         "id": "4074",
@@ -9480,7 +9910,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4072, 4073, 4075, 4076"
+        "image_crossref": "4072, 4073, 4075, 4076",
+        "blur": "0"
     },
     {
         "id": "4075",
@@ -9502,7 +9933,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4072, 4073, 4074, 4076"
+        "image_crossref": "4072, 4073, 4074, 4076",
+        "blur": "0"
     },
     {
         "id": "4076",
@@ -9524,7 +9956,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4072, 4073, 4074, 4075"
+        "image_crossref": "4072, 4073, 4074, 4075",
+        "blur": "0"
     },
     {
         "id": "4077",
@@ -9546,7 +9979,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4078, 4079, 4080, 4081"
+        "image_crossref": "4078, 4079, 4080, 4081",
+        "blur": "0"
     },
     {
         "id": "4078",
@@ -9568,7 +10002,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4077, 4079, 4080, 4081"
+        "image_crossref": "4077, 4079, 4080, 4081",
+        "blur": "0"
     },
     {
         "id": "4079",
@@ -9590,7 +10025,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4077, 4078, 4080, 4081"
+        "image_crossref": "4077, 4078, 4080, 4081",
+        "blur": "0"
     },
     {
         "id": "4080",
@@ -9612,7 +10048,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4077, 4078, 4079, 4081"
+        "image_crossref": "4077, 4078, 4079, 4081",
+        "blur": "0"
     },
     {
         "id": "4081",
@@ -9634,7 +10071,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4077, 4078, 4079, 4080"
+        "image_crossref": "4077, 4078, 4079, 4080",
+        "blur": "0"
     },
     {
         "id": "4082",
@@ -9656,7 +10094,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4083, 4084, 4085"
+        "image_crossref": "4083, 4084, 4085",
+        "blur": "0"
     },
     {
         "id": "4083",
@@ -9678,7 +10117,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4082, 4083, 4085"
+        "image_crossref": "4082, 4083, 4085",
+        "blur": "0"
     },
     {
         "id": "4084",
@@ -9700,7 +10140,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4082, 4083, 4085"
+        "image_crossref": "4082, 4083, 4085",
+        "blur": "0"
     },
     {
         "id": "4085",
@@ -9722,7 +10163,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Pan",
         "reference": "30692253",
-        "image_crossref": "4082, 4083, 4084"
+        "image_crossref": "4082, 4083, 4084",
+        "blur": "0"
     },
     {
         "id": "4086",
@@ -9744,7 +10186,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4087, 4088, 4089, 4090, 4091"
+        "image_crossref": "4087, 4088, 4089, 4090, 4091",
+        "blur": "0"
     },
     {
         "id": "4087",
@@ -9766,7 +10209,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4086, 4088, 4089, 4090, 4091"
+        "image_crossref": "4086, 4088, 4089, 4090, 4091",
+        "blur": "0"
     },
     {
         "id": "4088",
@@ -9788,7 +10232,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4086, 4087, 4089, 4090, 4091"
+        "image_crossref": "4086, 4087, 4089, 4090, 4091",
+        "blur": "0"
     },
     {
         "id": "4089",
@@ -9810,7 +10255,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4086, 4087, 4088, 4090, 4091"
+        "image_crossref": "4086, 4087, 4088, 4090, 4091",
+        "blur": "0"
     },
     {
         "id": "4090",
@@ -9832,7 +10278,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4086, 4087, 4088, 4089, 4091"
+        "image_crossref": "4086, 4087, 4088, 4089, 4091",
+        "blur": "0"
     },
     {
         "id": "4091",
@@ -9854,7 +10301,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4086, 4087, 4088, 4089, 4090"
+        "image_crossref": "4086, 4087, 4088, 4089, 4090",
+        "blur": "0"
     },
     {
         "id": "4092",
@@ -9876,7 +10324,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4093"
+        "image_crossref": "4093",
+        "blur": "0"
     },
     {
         "id": "4093",
@@ -9898,7 +10347,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4092"
+        "image_crossref": "4092",
+        "blur": "0"
     },
     {
         "id": "4094",
@@ -9920,7 +10370,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4095, 4096, 4097, 4098, 4099"
+        "image_crossref": "4095, 4096, 4097, 4098, 4099",
+        "blur": "0"
     },
     {
         "id": "4095",
@@ -9942,7 +10393,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4094, 4096, 4097, 4098, 4099"
+        "image_crossref": "4094, 4096, 4097, 4098, 4099",
+        "blur": "0"
     },
     {
         "id": "4096",
@@ -9964,7 +10416,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4094, 4095, 4097, 4098, 4099"
+        "image_crossref": "4094, 4095, 4097, 4098, 4099",
+        "blur": "0"
     },
     {
         "id": "4097",
@@ -9986,7 +10439,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4094, 4095, 4096. 4098, 4099"
+        "image_crossref": "4094, 4095, 4096. 4098, 4099",
+        "blur": "0"
     },
     {
         "id": "4098",
@@ -10008,7 +10462,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4094, 4095, 4096, 4097, 4099"
+        "image_crossref": "4094, 4095, 4096, 4097, 4099",
+        "blur": "0"
     },
     {
         "id": "4099",
@@ -10030,7 +10485,8 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": "4094, 4095, 4096, 4097, 4098"
+        "image_crossref": "4094, 4095, 4096, 4097, 4098",
+        "blur": "0"
     },
     {
         "id": "4100",
@@ -10052,6 +10508,7 @@ export const imageData =
         "publication_year": "2017",
         "first_author": "Plet",
         "reference": "29061985",
-        "image_crossref": ""
+        "image_crossref": "",
+        "blur": "0"
     }
 ]

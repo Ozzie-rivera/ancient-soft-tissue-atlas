@@ -90,7 +90,12 @@ function ImageDetail() {
                 <img 
                     src={imageUrl} 
                     alt={item.taxon} 
-                    style={{ maxWidth: "100%", height: "auto", border: "1px solid #ddd" }} 
+                    style={{ 
+                        maxWidth: "100%", 
+                        height: "auto", 
+                        border: "1px solid #ddd", 
+                        filter: item.blur === "1" ? "blur(7px)" : "none"
+                    }} 
                 />
 
                 {/* Cross-referenced images */}

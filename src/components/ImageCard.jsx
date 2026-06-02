@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Link } from "react-router-dom";
 
-function ImageCard({ id, imageUrl, taxon, tissue, interval, description, microscope_technology, magnification }) {
+function ImageCard({ id, imageUrl, taxon, tissue, interval, description, microscope_technology, magnification, blur }) {
     const [expanded, setExpanded] = useState(false);
 
     const shortDesc = description
@@ -16,7 +16,12 @@ function ImageCard({ id, imageUrl, taxon, tissue, interval, description, microsc
             <img
                 src={imageUrl}
                 alt={taxon + " tissue"}
-                style={{ width: "220px", height: "200px", objectFit: "cover" }} 
+                style={{ 
+                    width: "200px", 
+                    height: "200px", 
+                    objectFit: "cover",
+                    filter: blur === "1" ? "blur(7px)" : "none" 
+                }} 
             />
 
             <h3>{taxon}</h3>
