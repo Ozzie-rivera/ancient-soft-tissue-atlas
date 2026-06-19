@@ -1,6 +1,19 @@
 export const publicationData = [
   {
-    "id": "39919740",
+    "id": 1,
+    "pmid": "39910217",
+    "doi": "10.1038/s41598-025-85497-y",
+    "year": "2025",
+    "firstAuthor": "Schweitzer M H",
+    "journal": "Scientific reports",
+    "title": "Taphonomic variation in vascular remains from Mesozoic non-avian dinosaurs.",
+    "volume": "15",
+    "pages": "4359",
+    "url": "https://doi.org/10.1038/s41598-025-85497-y"
+  },
+  {
+    "id": 2,
+    "pmid": "39919740",
     "doi": "10.1016/j.cub.2025.01.001",
     "year": "2025",
     "firstAuthor": "Marx Miguel",
@@ -11,29 +24,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.cub.2025.01.001"
   },
   {
-    "id": "39823391",
+    "id": 3,
+    "pmid": "39823391",
     "doi": "10.1021/acs.analchem.4c03115",
     "year": "2025",
     "firstAuthor": "Tuinstra Lucien",
     "journal": "Analytical chemistry",
-    "title": "Evidence for Endogenous Collagen in Edmontosaurus Fossil Bone.",
+    "title": "Evidence for Endogenous Collagen in <i>Edmontosaurus</i> Fossil Bone.",
     "volume": "97",
     "pages": "2618-2628",
     "url": "https://doi.org/10.1021/acs.analchem.4c03115"
   },
   {
-    "id": "37735563",
+    "id": 4,
+    "pmid": "37735563",
     "doi": "10.1038/s41559-023-02177-8",
     "year": "2023",
     "firstAuthor": "Slater Tiffany S",
     "journal": "Nature ecology & evolution",
-    "title": "Preservation of corneous \u03b2-proteins in Mesozoic feathers.",
+    "title": "Preservation of corneous β-proteins in Mesozoic feathers.",
     "volume": "7",
     "pages": "1706-1713",
     "url": "https://doi.org/10.1038/s41559-023-02177-8"
   },
   {
-    "id": "10.3390/biology11081158",
+    "id": 5,
+    "pmid": null,
     "doi": "10.3390/biology11081158",
     "year": 2022,
     "firstAuthor": "Schroeter Elena R.",
@@ -44,18 +60,20 @@ export const publicationData = [
     "url": "https://doi.org/10.3390/biology11081158"
   },
   {
-    "id": "36009787",
+    "id": 6,
+    "pmid": "36009787",
     "doi": "10.3390/biology11081161",
     "year": "2022",
     "firstAuthor": "Voegele Kristyn K",
     "journal": "Biology",
     "title": "Soft Tissue and Biomolecular Preservation in Vertebrate Fossils from Glauconitic, Shallow Marine Sediments of the Hornerstown Formation, Edelman Fossil Park, New Jersey.",
     "volume": "11",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.3390/biology11081161"
   },
   {
-    "id": "34561538",
+    "id": 7,
+    "pmid": "34561538",
     "doi": "10.1038/s42003-021-02627-8",
     "year": "2021",
     "firstAuthor": "Zheng Xiaoting",
@@ -66,7 +84,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s42003-021-02627-8"
   },
   {
-    "id": "10.1111/pala.12565",
+    "id": 8,
+    "pmid": null,
     "doi": "10.1111/pala.12565",
     "year": 2021,
     "firstAuthor": "Dhiman Harsha",
@@ -77,18 +96,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1111/pala.12565"
   },
   {
-    "id": "10.1038/s41598-020-72648-6",
+    "id": 9,
+    "pmid": "32968129",
     "doi": "10.1038/s41598-020-72648-6",
     "year": 2020,
     "firstAuthor": "Ullmann Paul V.",
     "journal": "Scientific Reports",
     "title": "Molecular tests support the viability of rare earth elements as proxies for fossil biomolecule preservation",
     "volume": "10",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.1038/s41598-020-72648-6"
   },
   {
-    "id": "32913685",
+    "id": 10,
+    "pmid": "32913685",
     "doi": "10.7717/peerj.9833",
     "year": "2020",
     "firstAuthor": "Cadena Edwin-Alberto",
@@ -99,7 +120,8 @@ export const publicationData = [
     "url": "https://doi.org/10.7717/peerj.9833"
   },
   {
-    "id": "32555457",
+    "id": 11,
+    "pmid": "32555457",
     "doi": "10.1038/s41586-020-2412-8",
     "year": "2020",
     "firstAuthor": "Norell Mark A",
@@ -110,7 +132,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41586-020-2412-8"
   },
   {
-    "id": "34692099",
+    "id": 12,
+    "pmid": "34692099",
     "doi": "10.1093/nsr/nwz206",
     "year": "2020",
     "firstAuthor": "Bailleul Alida M",
@@ -121,18 +144,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1093/nsr/nwz206"
   },
   {
-    "id": "10.1111/pala.12470",
+    "id": 13,
+    "pmid": null,
     "doi": "10.1111/pala.12470",
     "year": 2020,
     "firstAuthor": "Fabbri Matteo",
     "journal": "Palaeontology",
-    "title": "Three\u2010dimensional soft tissue preservation revealed in the skin of a non\u2010avian dinosaur",
+    "title": "Three‐dimensional soft tissue preservation revealed in the skin of a non‐avian dinosaur",
     "volume": "63",
     "pages": "185-193",
     "url": "https://doi.org/10.1111/pala.12470"
   },
   {
-    "id": "10.1016/j.palaeo.2018.08.001",
+    "id": 14,
+    "pmid": null,
     "doi": "10.1016/j.palaeo.2018.08.001",
     "year": 2019,
     "firstAuthor": "Tewari Anuradha",
@@ -143,7 +168,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.palaeo.2018.08.001"
   },
   {
-    "id": "31666554",
+    "id": 15,
+    "pmid": "31666554",
     "doi": "10.1038/s41598-019-51680-1",
     "year": "2019",
     "firstAuthor": "Boatman Elizabeth M",
@@ -154,7 +180,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41598-019-51680-1"
   },
   {
-    "id": "31118507",
+    "id": 16,
+    "pmid": "31118507",
     "doi": "10.1038/s41586-019-1217-0",
     "year": "2019",
     "firstAuthor": "Loron Corentin C",
@@ -165,7 +192,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41586-019-1217-0"
   },
   {
-    "id": "31015542",
+    "id": 17,
+    "pmid": "31015542",
     "doi": "10.1038/s41598-019-42938-9",
     "year": "2019",
     "firstAuthor": "McCoy Victoria E",
@@ -176,7 +204,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41598-019-42938-9"
   },
   {
-    "id": "10.1016/j.coal.2018.11.003",
+    "id": 18,
+    "pmid": null,
     "doi": "10.1016/j.coal.2018.11.003",
     "year": 2019,
     "firstAuthor": "Marynowski Leszek",
@@ -187,7 +216,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.coal.2018.11.003"
   },
   {
-    "id": "30670644",
+    "id": 19,
+    "pmid": "30670644",
     "doi": "10.1073/pnas.1814794116",
     "year": "2019",
     "firstAuthor": "Miyashita Tetsuto",
@@ -198,7 +228,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.1814794116"
   },
   {
-    "id": "10.1016/j.cretres.2019.02.012",
+    "id": 20,
+    "pmid": null,
     "doi": "10.1016/j.cretres.2019.02.012",
     "year": 2019,
     "firstAuthor": "Ullmann Paul V.",
@@ -209,7 +240,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.cretres.2019.02.012"
   },
   {
-    "id": "30692253",
+    "id": 21,
+    "pmid": "30692253",
     "doi": "10.1073/pnas.1815703116",
     "year": "2019",
     "firstAuthor": "Pan Yanhong",
@@ -220,7 +252,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.1815703116"
   },
   {
-    "id": "30518862",
+    "id": 22,
+    "pmid": "30518862",
     "doi": "10.1038/s41586-018-0775-x",
     "year": "2018",
     "firstAuthor": "Lindgren Johan",
@@ -231,7 +264,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41586-018-0775-x"
   },
   {
-    "id": "30033337",
+    "id": 23,
+    "pmid": "30033337",
     "doi": "10.1016/j.oraloncology.2018.07.008",
     "year": "2018",
     "firstAuthor": "Giuliani Alessandra",
@@ -242,7 +276,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.oraloncology.2018.07.008"
   },
   {
-    "id": "10.1130/G45271.1",
+    "id": 24,
+    "pmid": null,
     "doi": "10.1130/G45271.1",
     "year": 2018,
     "firstAuthor": "Myers Corinne E.",
@@ -250,35 +285,38 @@ export const publicationData = [
     "title": "Exceptional preservation of organic matrix and shell microstructure in a Late Cretaceous Pinna fossil revealed by photoemission electron spectromicroscopy",
     "volume": "46",
     "pages": "711-714",
-    "url": "https://doi.org/10.1130/g45271.1"
+    "url": "https://doi.org/10.1130/G45271.1"
   },
   {
-    "id": "30237355",
+    "id": 25,
+    "pmid": "30237355",
     "doi": "10.1126/science.aat7228",
     "year": "2018",
     "firstAuthor": "Bobrovskiy Ilya",
     "journal": "Science (New York, N.Y.)",
-    "title": "Ancient steroids establish the Ediacaran fossil Dickinsonia as one of the earliest animals.",
+    "title": "Ancient steroids establish the Ediacaran fossil <i>Dickinsonia</i> as one of the earliest animals.",
     "volume": "361",
     "pages": "1246-1249",
     "url": "https://doi.org/10.1126/science.aat7228"
   },
   {
-    "id": "10.1130/G39929.1",
+    "id": 26,
+    "pmid": null,
     "doi": "10.1130/G39929.1",
     "year": 2018,
     "firstAuthor": "Liu Feng",
     "journal": "Geology",
-    "title": "280-m.y.-old fossil starch reveals early plant\u2013animal mutualism",
+    "title": "280-m.y.-old fossil starch reveals early plant–animal mutualism",
     "volume": "46",
     "pages": "423-426",
-    "url": "https://doi.org/10.1130/g39929.1"
+    "url": "https://doi.org/10.1130/G39929.1"
   },
   {
-    "id": "29061985",
+    "id": 27,
+    "pmid": "29061985",
     "doi": "10.1038/s41598-017-13873-4",
     "year": "2017",
-    "firstAuthor": "Plet Chlo\u00e9",
+    "firstAuthor": "Plet Chloé",
     "journal": "Scientific reports",
     "title": "Palaeobiology of red and white blood cell-like structures, collagen and cholesterol in an ichthyosaur bone.",
     "volume": "7",
@@ -286,7 +324,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41598-017-13873-4"
   },
   {
-    "id": "29042651",
+    "id": 28,
+    "pmid": "29042651",
     "doi": "10.1038/s41598-017-13187-5",
     "year": "2017",
     "firstAuthor": "Lindgren Johan",
@@ -297,18 +336,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41598-017-13187-5"
   },
   {
-    "id": "29046383",
+    "id": 29,
+    "pmid": "29046383",
     "doi": "10.1098/rspb.2017.1050",
     "year": "2017",
     "firstAuthor": "O'Reilly Shane",
     "journal": "Proceedings. Biological sciences",
     "title": "Preservation of uropygial gland lipids in a 48-million-year-old bird.",
     "volume": "284",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.1098/rspb.2017.1050"
   },
   {
-    "id": "28875070",
+    "id": 30,
+    "pmid": "28875070",
     "doi": "10.7717/peerj.3706",
     "year": "2017",
     "firstAuthor": "Wiemann Jasmina",
@@ -319,7 +360,8 @@ export const publicationData = [
     "url": "https://doi.org/10.7717/peerj.3706"
   },
   {
-    "id": "29046567",
+    "id": 31,
+    "pmid": "29046567",
     "doi": "10.1038/s41559-017-0224-5",
     "year": "2017",
     "firstAuthor": "Vajda Vivi",
@@ -330,7 +372,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/s41559-017-0224-5"
   },
   {
-    "id": "29201564",
+    "id": 32,
+    "pmid": "29201564",
     "doi": "10.7717/peerj.4066",
     "year": "2017",
     "firstAuthor": "Brown Caleb M",
@@ -341,7 +384,8 @@ export const publicationData = [
     "url": "https://doi.org/10.7717/peerj.4066"
   },
   {
-    "id": "28399212",
+    "id": 33,
+    "pmid": "28399212",
     "doi": "10.1093/jme/tjw247",
     "year": "2017",
     "firstAuthor": "Poinar George",
@@ -352,7 +396,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1093/jme/tjw247"
   },
   {
-    "id": "28280877",
+    "id": 34,
+    "pmid": "28280877",
     "doi": "10.1007/s00114-017-1451-y",
     "year": "2017",
     "firstAuthor": "Surmik Dawid",
@@ -363,7 +408,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1007/s00114-017-1451-y"
   },
   {
-    "id": "28111950",
+    "id": 35,
+    "pmid": "28111950",
     "doi": "10.1021/acs.jproteome.6b00873",
     "year": "2017",
     "firstAuthor": "Schroeter Elena R",
@@ -374,29 +420,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1021/acs.jproteome.6b00873"
   },
   {
-    "id": "10.1038/ncomms14220",
+    "id": 36,
+    "pmid": null,
     "doi": "10.1038/ncomms14220",
     "year": 2017,
     "firstAuthor": "Lee Yao-Chang",
     "journal": "Nature Communications",
     "title": "Evidence of preserved collagen in an Early Jurassic sauropodomorph dinosaur revealed by synchrotron FTIR microspectroscopy",
     "volume": "8",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.1038/ncomms14220"
   },
   {
-    "id": "27312070",
+    "id": 37,
+    "pmid": "27312070",
     "doi": "10.1038/ncomms11977",
     "year": "2016",
     "firstAuthor": "Alleon Julien",
     "journal": "Nature communications",
-    "title": "Molecular preservation of 1.88\u2009Ga Gunflint organic microfossils as a function of temperature and mineralogy.",
+    "title": "Molecular preservation of 1.88 Ga Gunflint organic microfossils as a function of temperature and mineralogy.",
     "volume": "7",
     "pages": "11977",
     "url": "https://doi.org/10.1038/ncomms11977"
   },
   {
-    "id": "26977600",
+    "id": 38,
+    "pmid": "26977600",
     "doi": "10.1371/journal.pone.0151143",
     "year": "2016",
     "firstAuthor": "Surmik Dawid",
@@ -407,7 +456,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1371/journal.pone.0151143"
   },
   {
-    "id": "27641767",
+    "id": 39,
+    "pmid": "27641767",
     "doi": "10.1016/j.cub.2016.06.065",
     "year": "2016",
     "firstAuthor": "Vinther Jakob",
@@ -418,18 +468,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.cub.2016.06.065"
   },
   {
-    "id": "28120795",
+    "id": 40,
+    "pmid": "28120795",
     "doi": "10.1098/rspb.2016.1997",
     "year": "2016",
     "firstAuthor": "Moyer Alison E",
     "journal": "Proceedings. Biological sciences",
     "title": "Microscopic and immunohistochemical analyses of the claw of the nesting dinosaur, Citipati osmolskae.",
     "volume": "283",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.1098/rspb.2016.1997"
   },
   {
-    "id": "26595531",
+    "id": 41,
+    "pmid": "26595531",
     "doi": "10.1021/acs.jproteome.5b00675",
     "year": "2015",
     "firstAuthor": "Cleland Timothy P",
@@ -440,7 +492,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1021/acs.jproteome.5b00675"
   },
   {
-    "id": "26056764",
+    "id": 42,
+    "pmid": "26056764",
     "doi": "10.1038/ncomms8352",
     "year": "2015",
     "firstAuthor": "Bertazzo Sergio",
@@ -451,7 +504,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/ncomms8352"
   },
   {
-    "id": "26311035",
+    "id": 43,
+    "pmid": "26311035",
     "doi": "10.1038/srep13520",
     "year": "2015",
     "firstAuthor": "Lindgren Johan",
@@ -462,7 +516,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/srep13520"
   },
   {
-    "id": "26312182",
+    "id": 44,
+    "pmid": "26312182",
     "doi": "10.7717/peerj.1191",
     "year": "2015",
     "firstAuthor": "Hone David",
@@ -473,29 +528,32 @@ export const publicationData = [
     "url": "https://doi.org/10.7717/peerj.1191"
   },
   {
-    "id": "10.1666/13-003",
+    "id": 45,
+    "pmid": null,
     "doi": "10.1666/13-003",
     "year": 2014,
-    "firstAuthor": "Moczyd\u0142owska Ma\u0142gorzata",
+    "firstAuthor": "Moczydłowska Małgorzata",
     "journal": "Journal of Paleontology",
-    "title": "Microstructure and Biogeochemistry of the Organically Preserved Ediacaran Metazoan Sabellidites",
+    "title": "Microstructure and Biogeochemistry of the Organically Preserved Ediacaran Metazoan<i>Sabellidites</i>",
     "volume": "88",
     "pages": "224-239",
     "url": "https://doi.org/10.1666/13-003"
   },
   {
-    "id": "10.1670/13-046",
+    "id": 46,
+    "pmid": null,
     "doi": "10.1670/13-046",
     "year": 2014,
     "firstAuthor": "Cadena Edwin A.",
     "journal": "Journal of Herpetology",
-    "title": "A Pelomedusoid Turtle from the Paleocene\u2013Eocene of Colombia Exhibiting Preservation of Blood Vessels and Osteocytes",
+    "title": "A Pelomedusoid Turtle from the Paleocene–Eocene of Colombia Exhibiting Preservation of Blood Vessels and Osteocytes",
     "volume": "48",
     "pages": "461-465",
     "url": "https://doi.org/10.1670/13-046"
   },
   {
-    "id": "10.1111/pcmr.12271",
+    "id": 47,
+    "pmid": null,
     "doi": "10.1111/pcmr.12271",
     "year": 2014,
     "firstAuthor": "Edwards Nicholas P.",
@@ -506,7 +564,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1111/pcmr.12271"
   },
   {
-    "id": "24402224",
+    "id": 48,
+    "pmid": "24402224",
     "doi": "10.1038/nature12899",
     "year": "2014",
     "firstAuthor": "Lindgren Johan",
@@ -517,7 +576,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/nature12899"
   },
   {
-    "id": "10.1666/13083",
+    "id": 49,
+    "pmid": null,
     "doi": "10.1666/13083",
     "year": 2014,
     "firstAuthor": "Wysokowski Marcin",
@@ -528,18 +588,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1666/13083"
   },
   {
-    "id": "10.1038/srep04233",
+    "id": 50,
+    "pmid": null,
     "doi": "10.1038/srep04233",
     "year": 2014,
     "firstAuthor": "Moyer Alison E.",
     "journal": "Scientific Reports",
     "title": "Melanosomes or Microbes: Testing an Alternative Hypothesis for the Origin of Microbodies in Fossil Feathers",
     "volume": "4",
-    "pages": "NA",
+    "pages": "",
     "url": "https://doi.org/10.1038/srep04233"
   },
   {
-    "id": "23414624",
+    "id": 51,
+    "pmid": "23414624",
     "doi": "10.1016/j.acthis.2013.01.001",
     "year": "2013",
     "firstAuthor": "Armitage Mark Hollis",
@@ -550,7 +612,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.acthis.2013.01.001"
   },
   {
-    "id": "24067597",
+    "id": 52,
+    "pmid": "24067597",
     "doi": "10.1038/srep02768",
     "year": "2013",
     "firstAuthor": "Melendez Ines",
@@ -561,7 +624,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/srep02768"
   },
   {
-    "id": "24336573",
+    "id": 53,
+    "pmid": "24336573",
     "doi": "10.1038/srep03497",
     "year": "2013",
     "firstAuthor": "Ehrlich H",
@@ -572,7 +636,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/srep03497"
   },
   {
-    "id": "23579680",
+    "id": 54,
+    "pmid": "23579680",
     "doi": "10.1038/nature11978",
     "year": "2013",
     "firstAuthor": "Reisz Robert R",
@@ -583,7 +648,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/nature11978"
   },
   {
-    "id": "24127577",
+    "id": 55,
+    "pmid": "24127577",
     "doi": "10.1073/pnas.1310885110",
     "year": "2013",
     "firstAuthor": "Greenwalt Dale E",
@@ -594,7 +660,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.1310885110"
   },
   {
-    "id": "23085295",
+    "id": 56,
+    "pmid": "23085295",
     "doi": "10.1016/j.bone.2012.10.010",
     "year": "2013",
     "firstAuthor": "Schweitzer Mary Higby",
@@ -605,7 +672,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.bone.2012.10.010"
   },
   {
-    "id": "10.1130/G33792.1",
+    "id": 57,
+    "pmid": null,
     "doi": "10.1130/G33792.1",
     "year": 2013,
     "firstAuthor": "O'Malley C. E.",
@@ -613,10 +681,11 @@ export const publicationData = [
     "title": "Isolation and characterization of the earliest taxon-specific organic molecules (Mississippian, Crinoidea)",
     "volume": "41",
     "pages": "347-350",
-    "url": "https://doi.org/10.1130/g33792.1"
+    "url": "https://doi.org/10.1130/G33792.1"
   },
   {
-    "id": "22615359",
+    "id": 58,
+    "pmid": "22615359",
     "doi": "10.1073/pnas.1118448109",
     "year": "2012",
     "firstAuthor": "Glass Keely",
@@ -627,7 +696,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.1118448109"
   },
   {
-    "id": "22273675",
+    "id": 59,
+    "pmid": "22273675",
     "doi": "10.1038/ncomms1642",
     "year": "2012",
     "firstAuthor": "Carney Ryan M",
@@ -638,7 +708,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/ncomms1642"
   },
   {
-    "id": "22584008",
+    "id": 60,
+    "pmid": "22584008",
     "doi": "10.1016/j.bone.2012.05.002",
     "year": "2012",
     "firstAuthor": "Cadena Edwin A",
@@ -649,7 +720,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.bone.2012.05.002"
   },
   {
-    "id": "10.1130/G31648.1",
+    "id": 61,
+    "pmid": null,
     "doi": "10.1130/G31648.1",
     "year": 2011,
     "firstAuthor": "Cody G. D.",
@@ -657,10 +729,11 @@ export const publicationData = [
     "title": "Molecular signature of chitin-protein complex in Paleozoic arthropods",
     "volume": "39",
     "pages": "255-258",
-    "url": "https://doi.org/10.1130/g31648.1"
+    "url": "https://doi.org/10.1130/G31648.1"
   },
   {
-    "id": "21559386",
+    "id": 62,
+    "pmid": "21559386",
     "doi": "10.1371/journal.pone.0019445",
     "year": "2011",
     "firstAuthor": "Lindgren Johan",
@@ -671,29 +744,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1371/journal.pone.0019445"
   },
   {
-    "id": "22132239",
+    "id": 63,
+    "pmid": "22132239",
     "doi": "10.1371/journal.pone.0028195",
     "year": "2011",
     "firstAuthor": "Weaver Patricia G",
     "journal": "PloS one",
-    "title": "Characterization of organics consistent with \u03b2-chitin preserved in the Late Eocene cuttlefish Mississaepia mississippiensis.",
+    "title": "Characterization of organics consistent with β-chitin preserved in the Late Eocene cuttlefish Mississaepia mississippiensis.",
     "volume": "6",
     "pages": "e28195",
     "url": "https://doi.org/10.1371/journal.pone.0028195"
   },
   {
-    "id": "21419928",
+    "id": 64,
+    "pmid": "21419928",
     "doi": "10.1016/B978-0-12-386905-0.00018-8",
     "year": "2011",
     "firstAuthor": "Butterbach-Bahl Klaus",
     "journal": "Methods in enzymology",
-    "title": "Measurements of biosphere-atmosphere exchange of CH\u2084 in terrestrial ecosystems.",
+    "title": "Measurements of biosphere-atmosphere exchange of CH₄ in terrestrial ecosystems.",
     "volume": "495",
     "pages": "271-87",
     "url": "https://doi.org/10.1016/B978-0-12-386905-0.00018-8"
   },
   {
-    "id": "21687667",
+    "id": 65,
+    "pmid": "21687667",
     "doi": "10.1371/journal.pone.0020381",
     "year": "2011",
     "firstAuthor": "San Antonio James D",
@@ -704,7 +780,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1371/journal.pone.0020381"
   },
   {
-    "id": "21719643",
+    "id": 66,
+    "pmid": "21719643",
     "doi": "10.1126/science.1205748",
     "year": "2011",
     "firstAuthor": "Wogelius R A",
@@ -715,7 +792,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1126/science.1205748"
   },
   {
-    "id": "19710052",
+    "id": 67,
+    "pmid": "19710052",
     "doi": "10.1098/rsbl.2009.0524",
     "year": "2010",
     "firstAuthor": "Vinther Jakob",
@@ -726,7 +804,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1098/rsbl.2009.0524"
   },
   {
-    "id": "20457935",
+    "id": 68,
+    "pmid": "20457935",
     "doi": "10.1073/pnas.1001569107",
     "year": "2010",
     "firstAuthor": "Bergmann U",
@@ -737,7 +816,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.1001569107"
   },
   {
-    "id": "20107440",
+    "id": 69,
+    "pmid": "20107440",
     "doi": "10.1038/nature08740",
     "year": "2010",
     "firstAuthor": "Zhang Fucheng",
@@ -748,7 +828,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/nature08740"
   },
   {
-    "id": "20967227",
+    "id": 70,
+    "pmid": "20967227",
     "doi": "10.1371/journal.pone.0013334",
     "year": "2010",
     "firstAuthor": "Peterson Joseph E",
@@ -759,7 +840,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1371/journal.pone.0013334"
   },
   {
-    "id": "20354675",
+    "id": 71,
+    "pmid": "20354675",
     "doi": "10.1007/s00114-010-0661-3",
     "year": "2010",
     "firstAuthor": "Lingham-Soliar Theagarten",
@@ -770,7 +852,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1007/s00114-010-0661-3"
   },
   {
-    "id": "20467722",
+    "id": 72,
+    "pmid": "20467722",
     "doi": "10.1007/s00114-010-0677-8",
     "year": "2010",
     "firstAuthor": "Vullo Romain",
@@ -781,7 +864,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1007/s00114-010-0677-8"
   },
   {
-    "id": "19407199",
+    "id": 73,
+    "pmid": "19407199",
     "doi": "10.1126/science.1165069",
     "year": "2009",
     "firstAuthor": "Schweitzer Mary H",
@@ -792,7 +876,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1126/science.1165069"
   },
   {
-    "id": "19570788",
+    "id": 74,
+    "pmid": "19570788",
     "doi": "10.1098/rspb.2009.0812",
     "year": "2009",
     "firstAuthor": "Manning Phillip L",
@@ -803,7 +888,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1098/rspb.2009.0812"
   },
   {
-    "id": "19828545",
+    "id": 75,
+    "pmid": "19828545",
     "doi": "10.1098/rspb.2009.1378",
     "year": "2010",
     "firstAuthor": "McNamara Maria",
@@ -814,7 +900,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1098/rspb.2009.1378"
   },
   {
-    "id": "18611841",
+    "id": 76,
+    "pmid": "18611841",
     "doi": "10.1098/rsbl.2008.0302",
     "year": "2008",
     "firstAuthor": "Vinther Jakob",
@@ -825,7 +912,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1098/rsbl.2008.0302"
   },
   {
-    "id": "18182372",
+    "id": 77,
+    "pmid": "18182372",
     "doi": "10.1098/rspb.2007.1342",
     "year": "2008",
     "firstAuthor": "Lingham-Soliar Theagarten",
@@ -836,7 +924,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1098/rspb.2007.1342"
   },
   {
-    "id": "10.1016/j.crpv.2008.02.005",
+    "id": 78,
+    "pmid": null,
     "doi": "10.1016/j.crpv.2008.02.005",
     "year": 2008,
     "firstAuthor": "Schweitzer Mary Higby",
@@ -847,7 +936,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/j.crpv.2008.02.005"
   },
   {
-    "id": "18615594",
+    "id": 79,
+    "pmid": "18615594",
     "doi": "10.1002/ajpa.20886",
     "year": "2008",
     "firstAuthor": "Bell Lynne S",
@@ -858,29 +948,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1002/ajpa.20886"
   },
   {
-    "id": "17148248",
-    "doi": "NA",
+    "id": 80,
+    "pmid": "17148248",
+    "doi": "10.1098/rspb.2006.3705",
     "year": "2007",
     "firstAuthor": "Schweitzer Mary Higby",
     "journal": "Proceedings. Biological sciences",
     "title": "Soft tissue and cellular preservation in vertebrate skeletal elements from the Cretaceous to the present.",
     "volume": "274",
     "pages": "183-97",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/17148248/"
+    "url": "https://doi.org/10.1098/rspb.2006.3705"
   },
   {
-    "id": "10.1126/science.1137614",
+    "id": 81,
+    "pmid": null,
     "doi": "10.1126/science.1137614",
     "year": 2007,
     "firstAuthor": "Asara John M.",
     "journal": "Science",
-    "title": "Protein Sequences from Mastodon and Tyrannosaurus Rex Revealed by Mass Spectrometry",
+    "title": "Protein Sequences from Mastodon and\n                    <i>Tyrannosaurus Rex</i>\n                    Revealed by Mass Spectrometry",
     "volume": "316",
     "pages": "280-285",
     "url": "https://doi.org/10.1126/science.1137614"
   },
   {
-    "id": "10.1586/14789450.4.6.695",
+    "id": 82,
+    "pmid": null,
     "doi": "10.1586/14789450.4.6.695",
     "year": 2007,
     "firstAuthor": "Smejkal Gary B",
@@ -891,7 +984,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1586/14789450.4.6.695"
   },
   {
-    "id": "10.1130/G22526.1",
+    "id": 83,
+    "pmid": null,
     "doi": "10.1130/G22526.1",
     "year": 2006,
     "firstAuthor": "McNamara Maria E.",
@@ -899,54 +993,59 @@ export const publicationData = [
     "title": "High-fidelity organic preservation of bone marrow in ca. 10 Ma amphibians",
     "volume": "34",
     "pages": "641",
-    "url": "https://doi.org/10.1130/g22526.1"
+    "url": "https://doi.org/10.1130/G22526.1"
   },
   {
-    "id": "15888409",
-    "doi": "NA",
+    "id": 84,
+    "pmid": "15888409",
+    "doi": "10.1098/rspb.2004.2876",
     "year": "2005",
     "firstAuthor": "Schweitzer M H",
     "journal": "Proceedings. Biological sciences",
     "title": "Molecular preservation in Late Cretaceous sauropod dinosaur eggshells.",
     "volume": "272",
     "pages": "775-84",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/15888409/"
+    "url": "https://doi.org/10.1098/rspb.2004.2876"
   },
   {
-    "id": "15807605",
-    "doi": "NA",
+    "id": 85,
+    "pmid": "15807605",
+    "doi": "10.1021/la047682e",
     "year": "2005",
     "firstAuthor": "Avci R",
     "journal": "Langmuir : the ACS journal of surfaces and colloids",
     "title": "Preservation of bone collagen from the late Cretaceous period studied by immunological techniques and atomic force microscopy.",
     "volume": "21",
     "pages": "3584-90",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/15807605/"
+    "url": "https://doi.org/10.1021/la047682e"
   },
   {
-    "id": "15790853",
-    "doi": "NA",
+    "id": 86,
+    "pmid": "15790853",
+    "doi": "10.1126/science.1108397",
     "year": "2005",
     "firstAuthor": "Schweitzer Mary H",
     "journal": "Science (New York, N.Y.)",
     "title": "Soft-tissue vessels and cellular preservation in Tyrannosaurus rex.",
     "volume": "307",
     "pages": "1952-5",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/15790853/"
+    "url": "https://doi.org/10.1126/science.1108397"
   },
   {
-    "id": "15164240",
-    "doi": "NA",
+    "id": 87,
+    "pmid": "15164240",
+    "doi": "10.1007/s00248-003-2016-5",
     "year": "2004",
     "firstAuthor": "Greenblatt C L",
     "journal": "Microbial ecology",
     "title": "Micrococcus luteus -- survival in amber.",
     "volume": "48",
     "pages": "120-7",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/15164240/"
+    "url": "https://doi.org/10.1007/s00248-003-2016-5"
   },
   {
-    "id": "10.1016/S0016-7037(03)00209-6",
+    "id": 88,
+    "pmid": null,
     "doi": "10.1016/S0016-7037(03)00209-6",
     "year": 2003,
     "firstAuthor": "Brocks Jochen J",
@@ -954,10 +1053,11 @@ export const publicationData = [
     "title": "A reconstruction of Archean biological diversity based on molecular fossils from the 2.78 to 2.45 billion-year-old Mount Bruce Supergroup, Hamersley Basin, Western Australia",
     "volume": "67",
     "pages": "4321-4335",
-    "url": "https://doi.org/10.1016/s0016-7037(03)00209-6"
+    "url": "https://doi.org/10.1016/S0016-7037(03)00209-6"
   },
   {
-    "id": "10.1080/03008200390152070",
+    "id": 89,
+    "pmid": null,
     "doi": "10.1080/03008200390152070",
     "year": 2003,
     "firstAuthor": "Embery Graham",
@@ -968,30 +1068,33 @@ export const publicationData = [
     "url": "https://doi.org/10.1080/03008200390152070"
   },
   {
-    "id": "11057666",
-    "doi": "NA",
+    "id": 90,
+    "pmid": "11057666",
+    "doi": "10.1038/35038060",
     "year": "2000",
     "firstAuthor": "Vreeland R H",
     "journal": "Nature",
     "title": "Isolation of a 250 million-year-old halotolerant bacterium from a primary salt crystal.",
     "volume": "407",
     "pages": "897-900",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/11057666/"
+    "url": "https://doi.org/10.1038/35038060"
   },
   {
-    "id": "11264872",
-    "doi": "NA",
+    "id": 91,
+    "pmid": "11264872",
+    "doi": "10.3109/03008200009005293",
     "year": "2000",
     "firstAuthor": "Embery G",
     "journal": "Connective tissue research",
     "title": "The isolation and detection of non-collagenous proteins from the compact bone of the dinosaur Iguanodon.",
     "volume": "41",
     "pages": "249-59",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/11264872/"
+    "url": "https://doi.org/10.3109/03008200009005293"
   },
   {
-    "id": "10440726",
-    "doi": "NA",
+    "id": 92,
+    "pmid": "10440726",
+    "doi": null,
     "year": "1999",
     "firstAuthor": "Schweitzer M H",
     "journal": "The Journal of experimental zoology",
@@ -1001,7 +1104,8 @@ export const publicationData = [
     "url": "https://pubmed.ncbi.nlm.nih.gov/10440726/"
   },
   {
-    "id": "10627054",
+    "id": 93,
+    "pmid": "10627054",
     "doi": "10.1099/00221287-145-12-3565",
     "year": "1999",
     "firstAuthor": "Stan-Lotter Helga",
@@ -1012,29 +1116,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1099/00221287-145-12-3565"
   },
   {
-    "id": "10.1080/02724634.1999.10011183",
+    "id": 94,
+    "pmid": null,
     "doi": "10.1080/02724634.1999.10011183",
     "year": 1999,
     "firstAuthor": "Schweitzer Mary H.",
     "journal": "Journal of Vertebrate Paleontology",
-    "title": "Keratin immunoreactivity in the Late Cretaceous bird Rahonavis ostromi",
+    "title": "Keratin immunoreactivity in the Late Cretaceous bird<i>Rahonavis ostromi</i>",
     "volume": "19",
     "pages": "712-722",
     "url": "https://doi.org/10.1080/02724634.1999.10011183"
   },
   {
-    "id": "9488909",
-    "doi": "NA",
+    "id": 95,
+    "pmid": "9488909",
+    "doi": "10.1016/s0940-9602(98)80140-4",
     "year": "1998",
     "firstAuthor": "Pawlicki R",
     "journal": "Annals of anatomy = Anatomischer Anzeiger : official organ of the Anatomische Gesellschaft",
     "title": "Blood vessels and red blood cells preserved in dinosaur bones.",
     "volume": "180",
     "pages": "73-7",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/9488909/"
+    "url": "https://doi.org/10.1016/s0940-9602(98)80140-4"
   },
   {
-    "id": "10.1126/science.276.5318.1541",
+    "id": 96,
+    "pmid": null,
     "doi": "10.1126/science.276.5318.1541",
     "year": 1997,
     "firstAuthor": "Stankiewicz B. Artur",
@@ -1045,29 +1152,32 @@ export const publicationData = [
     "url": "https://doi.org/10.1126/science.276.5318.1541"
   },
   {
-    "id": "9177210",
-    "doi": "NA",
+    "id": 97,
+    "pmid": "9177210",
+    "doi": "10.1073/pnas.94.12.6291",
     "year": "1997",
     "firstAuthor": "Schweitzer M H",
     "journal": "Proceedings of the National Academy of Sciences of the United States of America",
     "title": "Heme compounds in dinosaur trabecular bone.",
     "volume": "94",
     "pages": "6291-6",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/9177210/"
+    "url": "https://doi.org/10.1073/pnas.94.12.6291"
   },
   {
-    "id": "7538699",
-    "doi": "NA",
+    "id": 98,
+    "pmid": "7538699",
+    "doi": "10.1126/science.7538699",
     "year": "1995",
     "firstAuthor": "Cano R J",
     "journal": "Science (New York, N.Y.)",
     "title": "Revival and identification of bacterial spores in 25- to 40-million-year-old Dominican amber.",
     "volume": "268",
     "pages": "1060-4",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/7538699/"
+    "url": "https://doi.org/10.1126/science.7538699"
   },
   {
-    "id": "10.1016/0016-7037(94)90185-6",
+    "id": 99,
+    "pmid": null,
     "doi": "10.1016/0016-7037(94)90185-6",
     "year": 1994,
     "firstAuthor": "Bada Jeffrey L.",
@@ -1078,18 +1188,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/0016-7037(94)90185-6"
   },
   {
-    "id": "7973705",
-    "doi": "NA",
+    "id": 100,
+    "pmid": "7973705",
+    "doi": "10.1126/science.7973705",
     "year": "1994",
     "firstAuthor": "Woodward S R",
     "journal": "Science (New York, N.Y.)",
     "title": "DNA sequence from Cretaceous period bone fragments.",
     "volume": "266",
     "pages": "1229-32",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/7973705/"
+    "url": "https://doi.org/10.1126/science.7973705"
   },
   {
-    "id": "10.1016/0016-7037(94)90185-6",
+    "id": 101,
+    "pmid": null,
     "doi": "10.1016/0016-7037(94)90185-6",
     "year": 1994,
     "firstAuthor": "Bada Jeffrey L.",
@@ -1100,7 +1212,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/0016-7037(94)90185-6"
   },
   {
-    "id": "10.1130/0091-7613(1993)021<0491:AOTSOC>2.3.CO;2",
+    "id": 102,
+    "pmid": null,
     "doi": "10.1130/0091-7613(1993)021<0491:AOTSOC>2.3.CO;2",
     "year": 1993,
     "firstAuthor": "Ostrom P. H.",
@@ -1108,21 +1221,23 @@ export const publicationData = [
     "title": "Assessment of trophic structure of Cretaceous communities based on stable nitrogen isotope analyses",
     "volume": "21",
     "pages": "491",
-    "url": "https://doi.org/10.1130/0091-7613(1993)021<0491:aotsoc>2.3.co;2"
+    "url": "https://doi.org/10.1130/0091-7613(1993)021<0491:AOTSOC>2.3.CO;2"
   },
   {
-    "id": "1411508",
-    "doi": "NA",
+    "id": 103,
+    "pmid": "1411508",
+    "doi": "10.1126/science.1411508",
     "year": "1992",
     "firstAuthor": "DeSalle R",
     "journal": "Science (New York, N.Y.)",
     "title": "DNA sequences from a fossil termite in Oligo-Miocene amber and their phylogenetic implications.",
     "volume": "257",
     "pages": "1933-6",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/1411508/"
+    "url": "https://doi.org/10.1126/science.1411508"
   },
   {
-    "id": "10.1130/0091-7613(1992)020<0871:POTBPO>2.3.CO;2",
+    "id": 104,
+    "pmid": null,
     "doi": "10.1130/0091-7613(1992)020<0871:POTBPO>2.3.CO;2",
     "year": 1992,
     "firstAuthor": "Muyzer Gerard",
@@ -1130,21 +1245,23 @@ export const publicationData = [
     "title": "Preservation of the bone protein osteocalcin in dinosaurs",
     "volume": "20",
     "pages": "871",
-    "url": "https://doi.org/10.1130/0091-7613(1992)020<0871:potbpo>2.3.co;2"
+    "url": "https://doi.org/10.1130/0091-7613(1992)020<0871:POTBPO>2.3.CO;2"
   },
   {
-    "id": "2054066",
-    "doi": "NA",
+    "id": 105,
+    "pmid": "2054066",
+    "doi": "10.1007/BF01024658",
     "year": "1991",
     "firstAuthor": "Gurley L R",
     "journal": "Journal of protein chemistry",
     "title": "Proteins in the fossil bone of the dinosaur, Seismosaurus.",
     "volume": "10",
     "pages": "75-90",
-    "url": "https://pubmed.ncbi.nlm.nih.gov/2054066/"
+    "url": "https://doi.org/10.1007/BF01024658"
   },
   {
-    "id": "10.1038/344656a0",
+    "id": 106,
+    "pmid": null,
     "doi": "10.1038/344656a0",
     "year": 1990,
     "firstAuthor": "Golenberg Edward M.",
@@ -1155,7 +1272,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/344656a0"
   },
   {
-    "id": "10.1038/344656a0",
+    "id": 107,
+    "pmid": null,
     "doi": "10.1038/344656a0",
     "year": 1990,
     "firstAuthor": "Golenberg Edward M.",
@@ -1166,8 +1284,9 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/344656a0"
   },
   {
-    "id": "4065383",
-    "doi": "NA",
+    "id": 108,
+    "pmid": "4065383",
+    "doi": null,
     "year": "1985",
     "firstAuthor": "Pawlicki R",
     "journal": "Folia histochemica et cytobiologica",
@@ -1177,7 +1296,8 @@ export const publicationData = [
     "url": "https://pubmed.ncbi.nlm.nih.gov/4065383/"
   },
   {
-    "id": "10.1016/0305-0491(76)90179-6",
+    "id": 109,
+    "pmid": null,
     "doi": "10.1016/0305-0491(76)90179-6",
     "year": 1976,
     "firstAuthor": "Wyckoff Ralph W.G.",
@@ -1188,7 +1308,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1016/0305-0491(76)90179-6"
   },
   {
-    "id": "10.1073/pnas.73.8.2541",
+    "id": 110,
+    "pmid": null,
     "doi": "10.1073/pnas.73.8.2541",
     "year": 1976,
     "firstAuthor": "Weiner S",
@@ -1199,7 +1320,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1073/pnas.73.8.2541"
   },
   {
-    "id": "10.1038/252063a0",
+    "id": 111,
+    "pmid": null,
     "doi": "10.1038/252063a0",
     "year": 1974,
     "firstAuthor": "DE JONG E. W.",
@@ -1210,18 +1332,20 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/252063a0"
   },
   {
-    "id": "10.1016/0010-406X(68)90954-7",
+    "id": 112,
+    "pmid": null,
     "doi": "10.1016/0010-406X(68)90954-7",
     "year": 1968,
     "firstAuthor": "Voss-Foucart M.F.",
     "journal": "Comparative Biochemistry and Physiology",
-    "title": "Paleoproteins des coquilles fossiles d'\u0229ufs de dinosauriens du cretace superieur de provence",
+    "title": "Paleoproteins des coquilles fossiles d'ȩufs de dinosauriens du cretace superieur de provence",
     "volume": "24",
     "pages": "31-36",
-    "url": "https://doi.org/10.1016/0010-406x(68)90954-7"
+    "url": "https://doi.org/10.1016/0010-406X(68)90954-7"
   },
   {
-    "id": "10.1038/211655a0",
+    "id": 113,
+    "pmid": null,
     "doi": "10.1038/211655a0",
     "year": 1966,
     "firstAuthor": "PAWLICKI R.",
@@ -1232,7 +1356,8 @@ export const publicationData = [
     "url": "https://doi.org/10.1038/211655a0"
   },
   {
-    "id": "10.1038/197192a0",
+    "id": 114,
+    "pmid": null,
     "doi": "10.1038/197192a0",
     "year": 1963,
     "firstAuthor": "ISAACS W. A.",
@@ -1242,4 +1367,4 @@ export const publicationData = [
     "pages": "192-192",
     "url": "https://doi.org/10.1038/197192a0"
   }
-];
+]

@@ -1,7 +1,58 @@
-import {publicationData} from "../data/publicationData";
+import { publicationData } from "../data/publicationData";
+import { imageData } from "../data/imageData3";
 import "./Publications.css";
 
 function Publications() {
+    const normalize = (v) => {
+        if (v === undefined || v === null || v === "") return null;
+
+        if (typeof v !== "string") {
+            return String(v);
+        }
+
+        const trimmed = v.trim();
+
+        if (trimmed === "" || trimmed === "NA") return null;
+
+        return trimmed;
+    };
+
+    const imageRefs = new Set(
+        imageData.map(img => normalize(img.reference)).filter(v => v !== null)
+    );
+
+    const displayedPublications = publicationData.filter(pub => {
+        const pmid = normalize(pub.pmid);
+        const doi = normalize(pub.doi);
+        const url = normalize(pub.url);
+
+        return (
+            ((imageRefs.has(pmid)) || 
+            (imageRefs.has(doi)) ||
+            (imageRefs.has(url))) 
+        );
+    });
+
+    const matchingPublications = publicationData.filter(pub =>
+        imageRefs.has(normalize(pub.pmid)?.toString()) ||
+        imageRefs.has(normalize(pub.url)?.toString())
+    );
+
+    console.log("Image references:");
+    console.log(imageData.slice(0, 20).map(img => img.reference));
+
+    console.log("Image references 2:");
+    console.log(imageRefs[350]);
+
+    console.log("First publications:");
+    console.log(publicationData.slice(0, 7));
+
+    console.log("Displayed publications:");
+    console.log(displayedPublications.slice(0, 12));
+
+    console.log("Matching publications:");
+    console.log(matchingPublications.slice(0, 5));
+
     return (
         <div className="publications-container">
             <h1>Publications</h1>
@@ -11,8 +62,8 @@ function Publications() {
             </p>
 
             <div className="publications-list">
-                {publicationData.map((pub) => (
-                    <div key={pub.id} className="publication-item1">
+                {displayedPublications.map((pub) => (
+                    <div key={pub.pmid} className="publication-item1">
                         <div className="publication-content">
                             <div className="publication-main">
                                 <span className="authors">{pub.firstAuthor}</span>
